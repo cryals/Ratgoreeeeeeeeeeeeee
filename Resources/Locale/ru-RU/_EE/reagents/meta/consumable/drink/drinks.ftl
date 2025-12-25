@@ -1,6 +1,6 @@
-reagent-name-sports-drink-yellow = жёлтый спортивный напиток
-reagent-desc-sports-drink-yellow = Освежающий напиток с неопределённо цитрусовым вкусом.
-reagent-name-sports-drink-blue = синий спортивный напиток
-reagent-desc-sports-drink-blue = Восстанавливающий напиток с неопределённо ягодным вкусом.
-reagent-name-sports-drink-red = красный спортивный напиток
-reagent-desc-sports-drink-red = Энергетический напиток с неопределённо фруктовым вкусом.
+reagent-name-sports-drink-yellow = жёлтый изотоник
+reagent-desc-sports-drink-yellow = Освежающий напиток с лёгким цитрусовым привкусом.
+reagent-name-sports-drink-blue = синий изотоник
+reagent-desc-sports-drink-blue = Бодрящий напиток с лёгким ягодным оттенком.
+reagent-name-sports-drink-red = красный изотоник
+reagent-desc-sports-drink-red = Энергетический напиток с лёгким фруктовым вкусом.

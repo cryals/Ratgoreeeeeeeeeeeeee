@@ -1,2 +1,2 @@
-reagent-name-nausium = nausium
-reagent-desc-nausium = Sickening.
+reagent-name-nausium = блювозин
+reagent-desc-nausium = Ужасно.

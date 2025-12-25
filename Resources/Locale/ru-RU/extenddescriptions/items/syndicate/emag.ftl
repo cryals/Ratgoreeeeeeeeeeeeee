@@ -1,5 +1,5 @@
-emag-extenddescription-engineering = An illegal hacking tool used to subvert station electronics.
-emag-extenddescription-security = An advanced illegal hacking tool used by criminal operatives.
-emag-extenddescription-command = A dangerous illegal tool used by hostile operatives.
-emag-extenddescription-epistemics = An illegal hacking tool that can cause targeted damage to circuits, gaining access or modifying behaviour.
-emag-extenddescription-syndicate = The all-in-one hacking solution. The thinking man's lockpick. The iconic EMAG.
+emag-extenddescription-engineering = Незаконный инструмент взлома, используемый для обхода защиты электроники станции.
+emag-extenddescription-security = Продвинутый нелегальный инструмент взлома, используемый преступными оперативниками.
+emag-extenddescription-command = Опасный нелегальный инструмент, используемый враждебными оперативниками.
+emag-extenddescription-epistemics = Нелегальный инструмент взлома, который может нанести целенаправленный ущерб схемам, получить доступ или изменить поведение.
+emag-extenddescription-syndicate = Универсальное решение для взлома. Отмычка для думающего человека. Знаковый EMAG.

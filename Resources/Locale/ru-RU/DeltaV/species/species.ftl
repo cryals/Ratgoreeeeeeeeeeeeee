@@ -1,6 +1,6 @@
 ## Species Names
 
-species-name-vulpkanin = Anthro
-species-name-harpy = Harpy
-species-name-chitinid = Chitinid
-species-name-rodentia = Rodentia
+species-name-vulpkanin = Вулпканин
+species-name-harpy = Гарпия
+species-name-chitinid = Хитинид
+species-name-rodentia = Грызун

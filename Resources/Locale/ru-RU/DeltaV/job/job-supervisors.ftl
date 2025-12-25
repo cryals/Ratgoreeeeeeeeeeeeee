@@ -1,2 +1,2 @@
-job-supervisors-cj = the Chief Justice
-job-supervisors-command = all command staff
+job-supervisors-cj = Главный Судья
+job-supervisors-command = весь командный состав

@@ -1,7 +1,7 @@
 # ban
-cmd-ban-desc = Bans somebody
-cmd-ban-help = Usage: ban <name or user ID> <reason> [duration in minutes, leave out or 0 for permanent ban]
-cmd-ban-player = Unable to find a player with that name.
+cmd-ban-desc = Банит кого-либо
+cmd-ban-help = Usage: <name or user ID> <reason> [duration in minutes, leave out or 0 for permanent ban] [use True for global ban, otherwise False]
+cmd-ban-player = Не удалось найти игрока с таким именем.
 cmd-ban-invalid-minutes = { $minutes } is not a valid amount of minutes!
 cmd-ban-invalid-severity = { $severity } is not a valid severity!
 cmd-ban-invalid-arguments = Invalid amount of arguments
@@ -9,39 +9,39 @@ cmd-ban-hint = <name/user ID>
 cmd-ban-hint-reason = <reason>
 cmd-ban-hint-duration = [duration]
 cmd-ban-hint-severity = [severity]
-cmd-ban-hint-duration-1 = Permanent
-cmd-ban-hint-duration-2 = 1 day
-cmd-ban-hint-duration-3 = 3 days
-cmd-ban-hint-duration-4 = 1 week
-cmd-ban-hint-duration-5 = 2 week
-cmd-ban-hint-duration-6 = 1 month
+cmd-ban-hint-duration-1 = Навсегда
+cmd-ban-hint-duration-2 = 1 день
+cmd-ban-hint-duration-3 = 3 дня
+cmd-ban-hint-duration-4 = 1 неделя
+cmd-ban-hint-duration-5 = 2 недели
+cmd-ban-hint-duration-6 = 1 месяц
 # ban panel
 cmd-banpanel-desc = Opens the ban panel
 cmd-banpanel-help = Usage: banpanel [name or user guid]
 cmd-banpanel-server = This can not be used from the server console
 cmd-banpanel-player-err = The specified player could not be found
 # listbans
-cmd-banlist-desc = Lists a user's active bans.
-cmd-banlist-help = Usage: banlist <name or user ID>
-cmd-banlist-empty = No active bans found for { $user }
+cmd-banlist-desc = Список активных банов пользователя.
+cmd-banlist-help = Использование: banlist <name or user ID>
+cmd-banlist-empty = Нет активных банов у пользователя { $user }
 cmd-banlistF-hint = <name/user ID>
-cmd-ban_exemption_update-desc = Set an exemption to a type of ban on a player.
+cmd-ban_exemption_update-desc = Установите исключение для определенного типа запрета для игрока.
 cmd-ban_exemption_update-help =
-    Usage: ban_exemption_update <player> <flag> [<flag> [...]]
-    Specify multiple flags to give a player multiple ban exemption flags.
-    To remove all exemptions, run this command and give "None" as only flag.
-cmd-ban_exemption_update-nargs = Expected at least 2 arguments
-cmd-ban_exemption_update-locate = Unable to locate player '{ $player }'.
-cmd-ban_exemption_update-invalid-flag = Invalid flag '{ $flag }'.
-cmd-ban_exemption_update-success = Updated ban exemption flags for '{ $player }' ({ $uid }).
-cmd-ban_exemption_update-arg-player = <player>
-cmd-ban_exemption_update-arg-flag = <flag>
-cmd-ban_exemption_get-desc = Show ban exemptions for a certain player.
-cmd-ban_exemption_get-help = Usage: ban_exemption_get <player>
-cmd-ban_exemption_get-nargs = Expected exactly 1 argument
-cmd-ban_exemption_get-none = User is not exempt from any bans.
-cmd-ban_exemption_get-show = User is exempt from the following ban flags: { $flags }.
-cmd-ban_exemption_get-arg-player = <player>
+    Использование: ban_exemption_update <игрок> <флаг> [<флаг> [...]]
+    Укажите несколько флагов, чтобы предоставить игроку несколько флагов освобождения от бана.
+    Чтобы удалить все исключения, запустите эту команду и укажите "None" в качестве единственного флага.
+cmd-ban_exemption_update-nargs = Ожидалось по крайней мере 2 аргумента
+cmd-ban_exemption_update-locate = Не удается найти игрока '{ $player }'.
+cmd-ban_exemption_update-invalid-flag = Недопустимый флаг '{ $flag }'.
+cmd-ban_exemption_update-success = Обновлены флаги исключения из запрета для '{ $player }' ({ $uid }).
+cmd-ban_exemption_update-arg-player = <игрок>
+cmd-ban_exemption_update-arg-flag = <флаг>
+cmd-ban_exemption_get-desc = Показать исключения из бана для определенного игрока.
+cmd-ban_exemption_get-help = Использование: ban_exemption_get <игрок>
+cmd-ban_exemption_get-nargs = Ожидается 1 аргумент
+cmd-ban_exemption_get-none = Пользователь не освобождается от каких-либо запретов.
+cmd-ban_exemption_get-show = Пользователь освобожден от следующих флагов запрета: { $flags }.
+cmd-ban_exemption_get-arg-player = <игрок>
 # Ban panel
 ban-panel-title = Banning panel
 ban-panel-player = Player
@@ -75,4 +75,4 @@ server-ban-string = { $admin } created a { $severity } severity server ban that 
 server-ban-string-no-pii = { $admin } created a { $severity } severity server ban that expires { $expires } for { $name } with reason: { $reason }
 server-ban-string-never = never
 # Kick on ban
-ban-kick-reason = You have been banned
+ban-kick-reason = Вы были забанены

@@ -1,6 +1,6 @@
-action-hierophant-place-marker = Place teleportation marker
-action-hierophant-place-marker-desc = Let's you place a point where you can always teleport to.
-action-hierophant-teleport = Blink
-action-hierophant-teleport-desc = Teleports you to already placed marker.
-action-hierophant-spawn-cross = Cross
-action-hierophant-spawn-cross-desc = Spawns a cross that deals minor damage to the target.
+action-hierophant-place-marker = Установить маркер телепортации
+action-hierophant-place-marker-desc = Позволяет установить точку, к которой вы всегда сможете телепортироваться.
+action-hierophant-teleport = Мгновенный прыжок
+action-hierophant-teleport-desc = Мгновенно переносит вас к ранее установленному маркеру.
+action-hierophant-spawn-cross = Крест
+action-hierophant-spawn-cross-desc = Призывает энергетический крест, наносящий лёгкий урон цели.

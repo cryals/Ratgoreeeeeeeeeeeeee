@@ -1,153 +1,146 @@
-station-goal-fax-paper-name = Station Goal
+station-goal-fax-paper-name = Цель смены
 station-goal-fax-paper-header =
     ███╗░░██╗████████╗
-    ████╗░██║╚══██╔══╝ Form NT-No.{ $station }-CC
-    ██╔██╗██║░░░██║░░░ Target Order
-    ██║╚████║░░░██║░░░ Date: { $date }
-    ██║░╚███║░░░██║░░░ Signed: CCO-{ $name }
+    ████╗░██║╚══██╔══╝ Форма NT-№{ $station }-CC
+    ██╔██╗██║░░░██║░░░ Приказ о цели
+    ██║╚████║░░░██║░░░ Дата: { $date }
+    ██║░╚███║░░░██║░░░ Подпись: ЦКО-{ $name }
     ╚═╝░░╚══╝░░░╚═╝░░░
     ════════════════════════════════════════
     { $content }
     ════════════════════════════════════════
 station-goal-xeno =
-    Dear Station Command, the purpose of your shift is to build a Xenobiology Lab and then study exotic life forms.
-    Two containment chambers must be constructed according to the following requirements:
-    1. Must be well reinforced;
-    2. At least one of the chambers must be equipped with a gas supply system;
-    3. The entrance should be a cycling airlock system to prevent contamination.
+    Уважаемое командование станции, цель вашей смены — строительство лаборатории ксенобиологии и последующее изучение экзотических форм жизни.
     
-    Get the Salvage Team to capture at least 2 representatives of life forms (e.g. space carp) and transport them to the above-described chambers.
+    Требуется возвести две изолированные камеры содержания, соответствующие следующим условиям:
+    1. Камеры должны быть надёжно укреплены;
+    2. Как минимум одна из них должна иметь подведённую систему подачи газа;
+    3. Вход в камеры должен быть реализован в виде шлюза с воздушным циклом для предотвращения заражения.
     
-    Capture requirements:
-    1. Exotic fauna should not have critical injuries at the time of placement in the research department;
-    2. When captured fauna dies, you are required to catch another, cloning is strictly prohibited.
+    Поручите шахтерам захватить как минимум двух представителей дикой фауны (например, космического карпа) и доставить их в указанные помещения.
     
-    Once you collect the required fauna, you must study them and write a report on their properties.
-    The report must be stamped by the head of the department and faxed to Central Command.
+    Условия захвата:
+    1. Захваченные существа не должны иметь критических повреждений на момент поступления в научный отдел;
+    2. В случае гибели объекта требуется немедленно поймать нового. Клонирование строго запрещено.
     
-    Experience Requirements:
-    1. Experience should be documented in detail;
-    2. Test activities may include: working with gases, smoke, foam, or injecting experimental reagents (e.g. Cognizine) into captured fauna.
+    После размещения объектов начните их изучение и составьте подробный отчёт об их свойствах.
+    Документ должен быть заверен печатью главы отдела и отправлен по факсу в ЦентКом.
+    
+    Требования к опыту:
+    1. Все эксперименты должны быть тщательно задокументированы;
+    2. Допустимые методы испытаний включают работу с газами, дымом, пеной, а также инъекции экспериментальных реагентов (например, Когнизина) в изучаемую фауну.
 station-goal-museum =
-    Dear Command of the station, the purpose of your shift is to build a museum, the exhibits for which will be unique objects collected from the station.
+    Уважаемое командование станции, цель вашей смены — создать музей, экспонатами которого станут уникальные артефакты, собранные на борту.
     
-    Below are the requirements for the design of the museum:
-    1. The museum must be structurally connected to the station by a space-protected corridor, or be located within it;
-    2. The premises must be of a size that allows them to easily receive a large number of visitors;
-    3. The premises must be provided with a standard atmosphere, ventilation and stable power supply;
-    4. Room decoration should be visually pleasing;
-    5. Exhibits must be reinforced accordingly to what is contained in them.
+    Требования к оформлению музея:
+    1. Здание должно быть соединено со станцией защищённым от вакуума коридором либо находиться внутри неё;
+    2. Помещение должно быть достаточно просторным для приёма большого количества посетителей;
+    3. Внутри должен поддерживаться стандартный атмосферный режим, вентиляция и стабильное электроснабжение;
+    4. Внутреннее оформление должно быть эстетически приятным;
+    5. Все экспонаты должны быть должным образом закреплены и защищены в соответствии с их природой.
     
-    Exhibit requirements:
-    1. Exhibits must be unique in their kind;
-    2. Each department must provide at least 2 exhibits for the museum fund;
-    3. The total number of exhibits must be at least 20.
+    Условия по экспозиции:
+    1. Все экспонаты должны быть уникальными;
+    2. Каждый отдел обязан предоставить минимум два экспоната в фонд музея;
+    3. Общее количество экспонатов должно быть не менее 20.
     
-    Exhibits may include:
-    1. Exotic drinks and dishes that require an extraordinary method of production and/or non-standard ingredients;
-    2. Exotic matter/substance;
-    3. Works of art (e.g. statues, paintings);
-    4. Fully studied and documented artifacts (optionally provide a copy of the document);
-    5. High-tech devices or tools;
-    6. High-tech or high-power weapons;
-    7. Robotic entities (e.g. Mechs, Cyborgs, Drones);
-    8. Mutated biological organisms;
-    9. Domesticated wild animals or intelligent non-humanoid life forms;
-    10. Found treasures or items not available on the market.
+    Возможные типы экспонатов:
+    1. Экзотические блюда и напитки, созданные нестандартным способом или из необычных ингредиентов;
+    2. Необычные вещества и материалы;
+    3. Произведения искусства (статуи, картины и пр.);
+    4. Полностью изученные и задокументированные артефакты (можно приложить копию документации);
+    5. Высокотехнологичные устройства или инструменты;
+    6. Мощное или редкое вооружение;
+    7. Роботизированные формы (например, мехи, киборги, дроны);
+    8. Мутировавшие биологические организмы;
+    9. Приручённые дикие животные или разумные нечеловекообразные формы жизни;
+    10. Найденные сокровища или предметы, отсутствующие в свободной продаже.
     
-    Upon completion of the museum, it is required to provide the crew with at least 20 minutes of free time from work so that they can visit the museum.
+    После завершения строительства музея персоналу станции необходимо выделить минимум 20 минут рабочего времени на посещение экспозиции.
 station-goal-area =
-    Dear Station Command, the goal of your shift is to increase the effective use of space at the station.
+    Уважаемое командование станции, цель вашей смены — повысить эффективность использования пространства на борту.
     
-    It is required to bring the abandoned premises into proper form and find a use for them.
-    Each department must equip and effectively use the area of adjacent maintenance tunnels.
-    Sufficiently spacious maintenance tunnels need to be converted into residential areas.
-    The remaining tunnels should be provided with floor coverings and adequate lighting.
-    In addition, it is necessary to provide a public, well-lit corridor connecting all the restored compartments and new bedrooms.
+    Необходимо привести в порядок заброшенные помещения и найти им применение.
+    Каждый отдел должен обустроить и использовать зону прилегающих технических тоннелей.
+    Просторные тоннели следует переоборудовать под жилые помещения.
+    Остальные — оснастить напольным покрытием и качественным освещением.
+    Кроме того, требуется проложить общий, хорошо освещённый коридор, соединяющий все восстановленные отсеки и новооборудованные спальни.
 station-goal-bureaucraticerror =
-    ACCESS TO THIS DOCUMENT IS PROHIBITED FOR PERSONS WHO DO NOT HAVE LEGAL IMMUNITY
+    ДОСТУП К ДАННОМУ ДОКУМЕНТУ ЗАПРЕЩЁН ЛИЦАМ, НЕ ОБЛАДАЮЩИМ ЮРИДИЧЕСКОЙ НЕПРИКОСНОВЕННОСТЬЮ
     
-    Dear Station Command, we inform you that the purpose of your shift was lost as a result of a bureaucratic error.
-    With this news, Central Command gives you the opportunity to independently assign a new goal for the station.
     
-    New goal requirements:
-    1. Relevance: The goal must be relevant and relevant to the current situation;
-    2. Engagement: The goal should require the cooperation of as many departments as possible in the plans;
-    3. Scope: The goal should involve sufficient, but not excessive, amounts of work to ensure the effective completion of the task.
+    Уважаемое командование станции, сообщаем вам, что цель вашей смены была утрачена в результате бюрократической ошибки.
+    В связи с этим ЦентКом предоставляет вам возможность самостоятельно выбрать новую цель для экипажа.
     
-    Please note that distribution of the contents of this document to persons who do not have legal immunity is strictly prohibited due to the possibility of discrediting the management of the Corporation.
-    Therefore, in order to present a new goal to the crew, the command staff must contact Central Command for approval of your ideas.
+    Критерии новой цели:
+    1. Актуальность: цель должна соответствовать текущей обстановке;
+    2. Вовлечённость: реализация цели должна задействовать как можно больше отделов;
+    3. Масштаб: цель должна требовать умеренных, но не чрезмерных усилий, чтобы обеспечить её выполнение.
+    
+    Обратите внимание: передача содержания этого документа лицам без юридической неприкосновенности строго запрещена, во избежание подрыва авторитета Корпорации.
+    Для оглашения новой цели экипажу командный состав обязан предварительно согласовать её с ЦентКомом.
 station-goal-anomalies =
-    Dear Station Command, the purpose of your shift is to provide new information about anomalies to NanoTrasen.
+    Уважаемое командование станции, цель вашей смены — предоставить NanoTrasen новую информацию об аномалиях.
     
-    It is necessary to conduct experimental studies aimed at testing the consequences of the collapse of at least 4 unique anomalies.
-    During or after the experiments, it is necessary to isolate and document the aforementioned anomalies.
+    Необходимо провести серию экспериментальных исследований, направленных на изучение последствий коллапса как минимум четырёх уникальных аномалий.
+    В ходе или после экспериментов указанные аномалии должны быть изолированы и задокументированы.
     
-    Document requirements:
-    1. The official name of the anomaly;
-    2. Physical description;
-    3. Passive properties;
-    4. Reaction of the anomaly to different particles;
-    5. Consequences of the collapse;
-    6. Location of the anomaly.
+    Требования к отчёту:
+    1. Официальное наименование аномалии;
+    2. Физическое описание;
+    3. Пассивные свойства;
+    4. Реакция аномалии на различные типы частиц;
+    5. Последствия её коллапса;
+    6. Местоположение.
     
-    The document must be certified by the stamp of the supervisor and faxed to Central Command.
+    Отчёт должен быть заверен печатью ответственного руководителя и отправлен по факсу в ЦентКом.
 station-goal-combat =
-    Dear station Command, due to the increase in attacks of pirate ships in this sector, the purpose of your shift is to raise the overall combat readiness of the station.
+    Уважаемое командование станции, в связи с участившимися атаками пиратских судов в секторе, цель вашей смены — повысить боевую готовность станции.
     
-    Required:
-    1. Organize an inspection of every sentient being and cargo arriving at or leaving the station.
-    2. Build or modify an existing security checkpoint at arrivals and departures. The checkpoint must be able to completely block the ports from the main part of the station.
-        Each of the above checkpoints must have at least one cell for the temporary detention of detainees.
-    3. Organize a spare weapons storage in the opposite part of the station from the brig.
-        The vault arsenal should have enough weapons and equipment to fully equip all security personnel.
-    4. Organize the recruitment of a new combat subdepartment of security.
-        Squad members must be recruited from the station's crew.
-        Recruitment should be carried out on a voluntary-compulsory basis.
-        Composition of the squad:
-            1 Field Medic;
-            1 Field Engineer;
-            3 Combat Operatives.
-        All members of the squad must be trained in all the necessary skills to conduct combat and fulfill their role.
-    5. Open a public shooting range.
-        The shooting range should present all available types of weapons or their training counterparts.
-        Avoid providing lethal weaponry to unauthorized personnel.
-    6. Encourage the use of the station boxing ring.
-        If there is no boxing ring, you must create one.
+    Необходимо:
+    1. Организовать досмотр всех разумных существ и грузов, прибывающих и покидающих станцию;
+    2. Построить или модифицировать контрольные посты на прибытии и отбытии. Каждый пост должен иметь возможность изолировать порты от основной части станции и содержать как минимум одну камеру для временного содержания задержанных;
+    3. Организовать запасной арсенал в противоположной от брига части станции — он должен содержать вооружение и снаряжение, достаточное для полной экипировки всего охранного состава;
+    4. Провести набор нового боевого подразделения службы безопасности. Состав отряда набирается из числа экипажа станции, на добровольно-принудительной основе. В состав должны входить:
+        - 1 полевой медик;
+        - 1 полевой инженер;
+        - 3 боевых оперативника.
+       Все члены отряда должны быть обучены необходимым навыкам ведения боя и выполнения своих функций;
+    5. Открыть общественный тир, представляющий все доступные виды оружия или их учебные аналоги. Не допускать доступ к боевому вооружению для неавторизованного персонала;
+    6. Поощрять использование боксёрского ринга. При его отсутствии — построить новый.
 station-goal-shuttle =
-    Dear Station Command, the purpose of your shift is to build a space shuttle capable of being piloted.
+    Уважаемое командование станции, цель вашей смены — построить космический шаттл, пригодный для пилотирования.
     
-    Shuttle requirements:
-    1. The shuttle must have a locked bridge;
-        a medical room with the necessary medical supplies and chemical equipment;
-        a supply store surrounded by reinforced material;
-        a crew room with at least 12 seats.
-    2. There must be an intermediate room between the docking airlock and the main rooms to prevent possible depressurization.
-    3. The shuttle must have a standard atmosphere, and also have several air gas containers to maintain it.
-    4. The shuttle must be able to move in all directions (forward, backward, sideways) and turn reasonably well.
+    Требования к конструкции шаттла:
+    1. Он должен содержать:
+        - Запертую капитанскую рубку;
+        - Медотсек с базовым медицинским и химическим оснащением;
+        - Склад, окружённый укреплёнными стенами;
+        - Каюта экипажа минимум на 12 мест.
+    2. Между стыковочным шлюзом и основными отсеками необходимо предусмотреть промежуточную комнату во избежание разгерметизации;
+    3. Внутри должен поддерживаться стандартный атмосферный состав, а также размещены резервуары с газами;
+    4. Шаттл должен уметь двигаться во всех направлениях и разворачиваться с разумной манёвренностью.
     
-    Upon completion, the shuttle crew must be recruited from the station personnel.
-    The shuttle crew must include:
-        1 pilot;
-        2 engineers;
-        1 medic/chemist;
-        1 security officer.
+    После завершения постройки следует набрать экипаж из числа работников станции, включая:
+        - 1 пилота;
+        - 2 инженеров;
+        - 1 медика или химика;
+        - 1 офицера службы безопасности.
     
-    The shuttle should take on board all the station Command representatives as passengers and, in parallel with the evacuation shuttle, go to the Central Command station.
+    Шаттл должен взять на борт всё командование станции и, параллельно с эвакуационным шаттлом, направиться к ЦентКом.
 station-goal-singularity =
-    Dear station Command, the goal of your shift is to build a generator based on the gravitational singularity.
+    Уважаемое командование станции, цель вашей смены — построить генератор на основе гравитационной сингулярности.
     
-    The design requirements are:
-    1. The structure must be located at a significant distance from the station.
-    2. The structure must be protected from meteorites and space debris.
-    3. The containment field must be able to prevent the loss of a class 3 singularity.
+    Требования к проекту:
+    1. Конструкция должна находиться на значительном удалении от станции;
+    2. Должна быть обеспечена защита от метеоритов и космического мусора;
+    3. Поле сдерживания обязано удерживать сингулярность класса 3 и исключать её прорыв.
 station-goal-solarpanels =
-    Dear station Command, the purpose of your shift is to organize a backup power system.
+    Уважаемое командование станции, цель вашей смены — организация резервной системы электроснабжения.
     
-    The following work is required:
-    1. Build two new branches of solar panels.
-    2. Allocate an area for a compartment with spare batteries.
-        This compartment should accommodate at least 3 fully charged SMES', which should not be connected to the main power system of the station unless needed.
+    Необходимо выполнить следующие работы:
+    1. Построить две новые солнечные ветки;
+    2. Выделить зону под отсек для резервных батарей. В отсеке должно размещаться не менее трёх полностью заряженных SMES-блоков, которые не должны быть подключены к основной энергосети станции до особого распоряжения.
 station-goal-artifacts =
     Dear station Command, the purpose of your shift is to provide new information about alien artifacts to NanoTrasen.
     
@@ -164,45 +157,47 @@ station-goal-artifacts =
     
     The document must be certified by the stamp of the supervisor.
 station-goal-storage =
-    Dear station Command, the purpose of your shift is to build an orbital storage facility with supplies and technology.
+    Уважаемое командование станции, цель вашей смены — построить орбитальное хранилище с запасами и технологиями.
     
-    The storage should be placed in space separately from the main station, make sure its design is strong, a random meteorite should not damage it.
+    Хранилище должно располагаться отдельно от станции, в открытом космосе. Обеспечьте его прочную конструкцию — случайный метеор не должен повредить объект.
     
-    4 boxes must be placed in the storage containing the following respectively:
-    - Advanced medicines;
-    - Stocks of the best seeds;
-    - Refrigerator box of food with a high nutritional value;
-    - Valuable, but not unique boards.
+    Внутри хранилища должны находиться 4 ящика со следующими категориями содержимого:
+    - Продвинутые медикаменты;
+    - Отборные семена;
+    - Холодильный контейнер с продуктами высокой питательной ценности;
+    - Ценные, но не уникальные платы.
     
-    Monitor the safety of the contents in the storage until the end of the shift, a cleanup crew will come retrieve the contents as they prepare the station.
+    До конца смены обеспечьте безопасность содержимого. За ним прибудет команда подготовки станции.
 station-goal-zoo =
-    Dear station Command, the purpose of your shift is to improve the recreational value of the personnel at the station.
+    Уважаемое командование станции, цель вашей смены — улучшить досуг экипажа.
     
-    It is necessary to build a zoo with at least 5 enclosures containing different types of animals ordered from the supply department.
-    Provide animals with food, at least one cleaning robot in each enclosure, and everything necessary for life, depending on the type of animal.
-    It is also necessary to build a bathhouse for the animals, water vapor must be supplied by Atmospheric Technicians.
+    Постройте зоопарк с минимум пятью вольерами, содержащими различных животных, заказанных через отдел снабжения.
+    Каждому виду следует обеспечить соответствующее питание, как минимум одного уборочного дрона в вольер, и необходимые условия для жизни.
+    Кроме того, постройте звериную баню, подачу пара должны организовать атмосферные техники.
     
-    Upon completion of the zoo, it is required to provide the crew with at least 20 minutes of free time from work so that they can visit the new zoo.
+    По завершении строительства зоопарка экипажу необходимо предоставить минимум 20 минут свободного времени на его посещение.
 station-goal-labor =
-    Dear station Command, the purpose of your shift is to increase the motivation of the personnel for the growth of labor productivity.
+    Уважаемое командование станции, цель вашей смены — повысить мотивацию экипажа к трудовой продуктивности.
     
-    This requires that each of the heads during the shift closely monitors the performance of the duties of their employees and evaluates them.
-    After the time set by Command for evaluation, in each of the departments, the best, in the opinion of the head, employee should be selected, who will be invited to a dinner, where the Command staff will be obliged to award them a medal and a prize.
-    The heads must provide a report indicating the employee's position and merits for the shift.
-    Drinks and meals should be prepared for the dinner, as well as, if possible, several entertainment events that allow the presence of actors and musicians.
-    For the duration of the celebration, the dining room or other place chosen for the event must be inaccessible to the rest of the crew.
+    Для этого каждому главе отдела следует внимательно следить за работой сотрудников и оценивать их вклад.
+    В назначенное время в каждом отделе должен быть выбран один лучший работник — по мнению начальства — которого пригласят на торжественный ужин.
+    На ужине командование станции вручает избранным медаль и приз.
+    Главы обязаны подготовить письменный отчёт с указанием заслуг и должности выбранного сотрудника.
     
-    The duration of the shift for a more accurate assessment of the work of the personnel should be set by the Command staff.
-    After the dinner someone must announce the end of the shift and call the evacuation shuttle.
+    Ужин должен сопровождаться угощениями и, по возможности, развлекательной программой с актёрами и музыкантами.
+    Помещение для проведения праздника должно быть закрыто для прочих членов экипажа.
+    
+    Длительность смены определяется командованием. После ужина кто-либо из руководства должен объявить об окончании смены и вызвать эвакуационный шаттл.
 station-goal-lectures =
-    Dear station Command, the purpose of your shift is to carry out a number of events within the framework of the Corporation's plan to increase the knowledge of its employees.
+    Уважаемое командование станции, цель вашей смены — проведение серии мероприятий в рамках корпоративной программы повышения квалификации сотрудников.
     
-    The Command staff are instructed to organize a platform for public lectures, if none exists, create one nearby the bridge entry.
-    The venue should be equipped with a large enough stage for speakers in the middle, a podium for the presenter to one side of it, plenty of seating for guests, and a special counter/table for brochures at the entrance.
-    A host/organizer of the event must also be selected.
-    Each department is required to present a group of employees consisting of at least 2 people.
-    Selected employees, under the supervision of the head of the department, should prepare a short lecture/presentation on a specific topic within their specialization (e.g. the harm of drugs and their reason for their criminalization, the effect of smoking on the body, acting, product pricing, cooking etc.), preferably with demonstration materials, and at least 10 brochures, on which the abstracts of the lecture should be indicated.
-    At the time indicated by the Command staff, the crew must be assembled on the site for the event, where lectures will be read.
-    There may be breaks between lectures to allow guests to read brochures and catch their breath.
+    Командованию поручается организовать площадку для публичных лекций. Если таковая отсутствует — постройте её у входа на мостик.
+    Место должно включать: просторную сцену, трибуну для ведущего, достаточное количество мест для слушателей, а также столик или стойку для брошюр у входа.
     
-    After the end of the event someone must announce the end of the shift and call the evacuation shuttle.
+    Необходимо выбрать ведущего/организатора мероприятия.
+    Каждый отдел должен выделить группу минимум из двух сотрудников.
+    Под руководством главы отдела они подготовят краткую лекцию или презентацию по своей специализации (например, вред наркотиков, работа актёра, кулинария, ценообразование, влияние курения на организм и т.п.), желательно с демонстрационными материалами и не менее 10 брошюрами с тезисами выступления.
+    
+    В назначенное время командование обязано собрать экипаж на площадке. Между лекциями допускаются перерывы для ознакомления с материалами и отдыха.
+    
+    По завершении мероприятия кто-либо должен объявить об окончании смены и вызвать эвакуационный шаттл.

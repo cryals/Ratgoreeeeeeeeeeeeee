@@ -1,3 +1,3 @@
-death-gasp-normal = seizes up and falls limp, { POSS-ADJ($ent) } eyes dead and lifeless...
-death-gasp-medium = releases { POSS-ADJ($ent) } final breath of life, perceptible on some strange level.
-death-gasp-high = tenses as { POSS-ADJ($ent) } soul rises from { POSS-ADJ($ent) } body, leaving { POSS-ADJ($ent) } old vessel and starting { POSS-ADJ($ent) } journey to the next world.
+death-gasp-normal = { POSS-ADJ($ent) } тело содрогается в последней судороге… и замирает. Глаза безжизненно устремлены в пустоту.
+death-gasp-medium = { POSS-ADJ($ent) } губы дрожат, выпуская последний, почти неуловимый выдох, слышимый лишь чувствительными душой.
+death-gasp-high = { POSS-ADJ($ent) } тело напрягается, пока душа с тонким дрожанием не покидает оболочку, скользя в неизведанное, где начинается её новый путь.

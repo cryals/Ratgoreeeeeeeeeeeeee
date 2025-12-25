@@ -1,4 +1,4 @@
-loadout-name-LoadoutSpeciesDoubleEmergencyPlasmaTank = extra plasma internals tank
-loadout-description-LoadoutSpeciesDoubleEmergencyPlasmaTank = An extra plasma tank to extend your plasma supply for about another hour.
-loadout-name-LoadoutSpeciesDrinkMilkCartonAndSyringe = milk carton and syringe
-loadout-description-LoadoutSpeciesDrinkMilkCartonAndSyringe = A milk carton full of nutritious calcium to heal your bones, and a syringe to inject the milk directly.
+loadout-name-LoadoutSpeciesDoubleEmergencyPlasmaTank = запасной баллон с плазмой
+loadout-description-LoadoutSpeciesDoubleEmergencyPlasmaTank = Запасной баллон с плазмой — продлит подачу ещё примерно на час. Жизнь удлиняется на вдох.
+loadout-name-LoadoutSpeciesDrinkMilkCartonAndSyringe = коробка молока и шприц
+loadout-description-LoadoutSpeciesDrinkMilkCartonAndSyringe = Коробка молока, богатого кальцием, чтобы кости снова пели — и шприц, если ты предпочитаешь не пить, а колоть.

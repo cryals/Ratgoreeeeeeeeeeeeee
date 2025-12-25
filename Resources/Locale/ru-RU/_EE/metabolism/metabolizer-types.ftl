@@ -1,1 +1,1 @@
-metabolizer-type-xelthia = Xelthia
+metabolizer-type-xelthia = Кселтия

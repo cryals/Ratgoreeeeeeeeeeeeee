@@ -1,3 +1,3 @@
 ## Entity
 
-crayon-drawing-label-unlimited = Drawing: [color={ $color }]{ $state }[/color]
+crayon-drawing-label-unlimited = Рисунок: [color={ $color }]{ $state }[/color]

@@ -1,3 +1,3 @@
-navmap-zoom = Zoom: { $value }x
-navmap-recenter = Recenter
-navmap-toggle-beacons = Show departments
+navmap-zoom = Увеличение: { $value }x
+navmap-recenter = Центрировать
+navmap-toggle-beacons = Показать отделы

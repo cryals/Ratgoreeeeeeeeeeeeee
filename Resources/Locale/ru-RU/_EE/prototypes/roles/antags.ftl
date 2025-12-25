@@ -1,18 +1,18 @@
 # Для дезертиров флота Солярского Альянса
-ghost-role-information-deserter-name = Дезертир флота Солярского Альянса
-ghost-role-information-deserter-description = "С меня хватит того, что квартирмейстер не даёт мне мою чёртову зарплату! Давайте возьмём один из десантных кораблей на прогулку и пойдём грабить, чтобы заплатить себе."
+ghost-role-information-deserter-name = Дезертир Соларианского флота
+ghost-role-information-deserter-description = «Да сколько можно! Этот проклятый квартирмейстер снова не выплатил жалование! Берём один из десантников — и устраиваем себе весёлую вылазку с грабежом. Пора самим оплатить свою службу.»
 ghost-role-information-deserter-rules =
-    Вы не террорист, но и не самый лучший человек. Делайте всё необходимое, чтобы "Вернуть то, что флот должен нам".
-    Взятие заложников и предъявление необоснованных требований настоятельно приветствуется. Реализуйте здесь свою фантазию о космическом пирате.
-    Не старайтесь причинить массовые разрушения, так как превращение станции в шлак также лишит вас оплаты.
-roles-antag-sol-alliance-navy-deserter = Дезертир флота Солярского Альянса
-roles-antag-sol-alliance-navy-deserter-objective = Заполните свой десантный корабль как можно большим количеством ценной добычи, при этом оставаясь в живых, чтобы похвастаться этим в следующем свободном порту.
-id-card-access-level-sol-alliance-navy = ФСА
+    Ты не террорист, но и святым тебя не назовёшь. Делай всё, что нужно, чтобы «забрать у флота то, что он нам задолжал».
+    Захват заложников и нелепые требования — более чем приветствуются. Воплоти свою мечту о космическом пиратстве.
+    Не стоит устраивать массовую бойню: если ты сожжёшь станцию дотла — тебе же не с чего будет брать свою «зарплату».
+roles-antag-sol-alliance-navy-deserter = Дезертир Соларианского флота
+roles-antag-sol-alliance-navy-deserter-objective = Заполните свой десантный корабль как можно большим количеством ценного лута и выживи, чтобы потом похвалиться этим в ближайшем порту.
+id-card-access-level-sol-alliance-navy = АСФ
 role-type-SAN-antagonist-name = Дезертир
 # Shadowling
-roles-antag-shadowling-name = Shadowling
-roles-antag-shadowling-description = Enthrall the crew, ascend and become akin to a God.
-roles-antag-shadowling-objective = Ascend.
-roles-antag-thrall-name = Thrall
-roles-antag-thrall-description = Work with your Shadowling to ensure their ascension.
-roles-antag-thrall-objective = Help your shadowling ascend.
+roles-antag-shadowling-name = Тенелинг
+roles-antag-shadowling-description = Порабощай разум экипажа, взойди над смертными и стань подобен Богу.
+roles-antag-shadowling-objective = Соверши Вознесение.
+roles-antag-thrall-name = Порабощённый
+roles-antag-thrall-description = Служи своему Тенелингу и обеспечь его Вознесение.
+roles-antag-thrall-objective = Помоги Тенелингу достичь Вознесения.

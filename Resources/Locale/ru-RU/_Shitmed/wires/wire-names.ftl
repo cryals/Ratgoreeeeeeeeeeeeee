@@ -1,2 +1,2 @@
-wires-board-name-autodoc = Автодок Mk.XIV
-wire-name-autodoc-safety = БЕЗОПАСНО
+wires-board-name-autodoc = Автодоктор Мк.XIV
+wire-name-autodoc-safety = НЕ НАВРЕДИ

@@ -1,1 +1,1 @@
-ingestion-blocker-block-smoke-examine = This mask has integrated combat filters, blocking smoke ingestion even if internals are off
+ingestion-blocker-block-smoke-examine = В этой маске есть встроенный фильтр, который блокирует вдыхание газа независимо от того, подключён ли газ для дыхания.

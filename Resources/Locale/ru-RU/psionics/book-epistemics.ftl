@@ -1,10 +1,10 @@
 book-text-epistemics1 =
-    THE EFFECTS OF HIGH GLIMMER LEVELS
+    ВОЗДЕЙСТВИЕ ВЫСОКОГО УРОВНЯ СИЯНИЯ
     
-    On a shift I served on one of our backwater stations, we had an eccentric mystagogue as our only command member.
-    Their magnum opus experiment was to... raise the glimmer as far as they could, up until our grammateus couldn't tell how much there was.
-    Thankfully, nobody was harmed. But as the glimmer gloomed, I'd started feeling its metallic smell, started feeling the pain of being in outer space.
-    And then, I saw the universe as a whole. I'd seen every movement, every thought, star, galaxy, in a dim blue marble in front of me.
-    When our mystagogue finally stopped, and failed to break the veil... the station felt off. Cramped, fragile with the eight of us.
-    Maybe they weren't crazy. I know now the universe is MASSIVELY smaller than it seems.
-    -Z7
+    Во время одной смены на захудалой станции, где мне довелось служить, у нас в командовании был лишь один человек — чудаковатый мистагог.
+    Его величайшим экспериментом стало… поднять уровень сияния до предела — настолько, что даже наш грамматевт не мог уже его измерить.
+    К счастью, никто не пострадал. Но по мере того как сияние сгущалось, я начал чувствовать его — металлический запах, боль, будто бы я голым телом вышел в открытый космос.
+    А потом... я увидел Вселенную целиком. Я видел каждое движение, каждую мысль, звезду, галактику — всё уместилось в тусклом голубом шарике прямо передо мной.
+    Когда мистагог, наконец, остановился — и не смог прорваться сквозь завесу — станция будто бы изменилась. Стала тесной, хрупкой, всего с восемью людьми на борту.
+    Может, он и не был безумцем. Теперь я знаю — Вселенная ГОРАЗДО меньше, чем кажется.
+    — Z7

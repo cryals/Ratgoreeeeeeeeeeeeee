@@ -1,4 +1,4 @@
-revolutionarymanifesto-extenddescription-headrevolutionary = I can use this item to convert others to my cause.
-revolutionarymanifesto-extenddescription-revolutionary = My revolutionary leader can use this item to convert others to our cause.
-revolutionarymanifesto-extenddescription-security = Despite its dangerous ideology, this book is not illegal to possess.
-revolutionarymanifesto-extenddescription-mindshield = An affront to all values a righteous Nanotrasen employee should stand for!
+revolutionarymanifesto-extenddescription-headrevolutionary = Я могу использовать это, чтобы призвать кого-то присоединиться к революции.
+revolutionarymanifesto-extenddescription-revolutionary = Наши лидеры революции могут использовать это, чтобы призвать кого-то присоединиться к революции.
+revolutionarymanifesto-extenddescription-security = Несмотря на опасную идеологию, владение этой книгой не запрещено.
+revolutionarymanifesto-extenddescription-mindshield = Оскорбление всех ценностей, которые должен отстаивать праведный сотрудник NanoTrasen!

@@ -1,10 +1,24 @@
-verb-trigger-timer-set = { $time } сек.
-verb-trigger-timer-set-current = { $time } сек. (текущее)
-verb-trigger-timer-cycle = Переключить задержку таймера
-examine-trigger-timer = Таймер установлен на { $time } сек.
-popup-trigger-timer-set = Таймер установлен на { $time } сек.
-verb-start-detonation = Запустить детонацию
+verb-trigger-timer-set = { $time } секунд
+verb-trigger-timer-set-current = { $time } секунд (сейчас)
+verb-trigger-timer-cycle = Циклическое переключение задержки
+examine-trigger-timer =
+    { $time ->
+        [1] Таймер установлен на { $time } секунду.
+        [2] Таймер установлен на { $time } секунды.
+        [3] Таймер установлен на { $time } секунды.
+        [4] Таймер установлен на { $time } секунды.
+       *[other] Таймер установлен на { $time } секунд.
+    }
+popup-trigger-timer-set =
+    { $time ->
+        [1] Таймер установлен на { $time } секунду.
+        [2] Таймер установлен на { $time } секунды.
+        [3] Таймер установлен на { $time } секунды.
+        [4] Таймер установлен на { $time } секунды.
+       *[other] Таймер установлен на { $time } секунд.
+    }
+verb-start-detonation = Активировать
 verb-toggle-start-on-stick = Переключить автоактивацию
-popup-start-on-stick-off = Устройство больше не будет автоматически активироваться при установке
-popup-start-on-stick-on = Теперь устройство будет автоматически активироваться при установке
-trigger-activated = Ты активируешь { THE($device) }.
+popup-start-on-stick-off = Устройство НЕ будет автоматически активировано после установки
+popup-start-on-stick-on = Устройство будет автоматически активировано после установки
+trigger-activated = Вы активируете { $device }.

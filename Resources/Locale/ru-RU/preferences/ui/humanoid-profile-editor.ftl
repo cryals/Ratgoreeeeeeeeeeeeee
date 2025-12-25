@@ -1,11 +1,11 @@
-humanoid-profile-editor-randomize-everything-button = Случайный персонаж
+humanoid-profile-editor-randomize-everything-button = Сгенерировать случайного
 humanoid-profile-editor-name-label = Имя:
-humanoid-profile-editor-name-random-button = Сгенерировать
+humanoid-profile-editor-name-random-button = Случайно
 humanoid-profile-editor-appearance-tab = Внешность
 humanoid-profile-editor-background-tab = Предыстория
-humanoid-profile-editor-clothing = Отображать одежду
-humanoid-profile-editor-loadouts = Показать предметы экипировки:
-humanoid-profile-editor-clothing-show = Переключить
+humanoid-profile-editor-clothing = Показать одежду:
+humanoid-profile-editor-loadouts = Показать снаряжение:
+humanoid-profile-editor-clothing-show = Показать
 humanoid-profile-editor-sex-label = Пол:
 humanoid-profile-editor-sex-male-text = Мужской
 humanoid-profile-editor-sex-female-text = Женский
@@ -23,8 +23,8 @@ humanoid-profile-editor-pronouns-label = Личное местоимение:
 humanoid-profile-editor-display-pronouns-label = Косметические местоимения:
 humanoid-profile-editor-pronouns-male-text = Он / Его
 humanoid-profile-editor-pronouns-female-text = Она / Её
-humanoid-profile-editor-export-image-button = Экспортировать изображение
-humanoid-profile-editor-open-image-button = Открыть изображения
+humanoid-profile-editor-export-image-button = Export image
+humanoid-profile-editor-open-image-button = Open images
 humanoid-profile-editor-pronouns-epicene-text = Они / Их
 humanoid-profile-editor-pronouns-neuter-text = Оно / Его
 humanoid-profile-editor-import-button = Импорт
@@ -43,68 +43,57 @@ humanoid-profile-editor-preference-jumpskirt = Юбка-комбинезон
 humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Вещмешок
-humanoid-profile-editor-guidebook-button-tooltip = Кликните для получения дополнительной информации
+humanoid-profile-editor-guidebook-button-tooltip = Нажмите чтобы узнать больше
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = Нет
-humanoid-profile-editor-preference-spawn-priority-arrivals = Зал прибытия
-humanoid-profile-editor-preference-spawn-priority-cryosleep = Капсула криосна
-humanoid-profile-editor-jobs-amount-in-department-tooltip = { $departmentName }
+humanoid-profile-editor-preference-spawn-priority-arrivals = Прибытие
+humanoid-profile-editor-preference-spawn-priority-cryosleep = Криосон
+humanoid-profile-editor-jobs-amount-in-department-tooltip = Должностей в отделе { $departmentName }
 humanoid-profile-editor-department-jobs-label = { $departmentName }
 humanoid-profile-editor-antags-tab = Антагонисты
 humanoid-profile-editor-antag-preference-yes-button = Да
 humanoid-profile-editor-antag-preference-no-button = Нет
 humanoid-profile-editor-traits-tab = Черты персонажа
 humanoid-profile-editor-traits-header =
-    У вас { $points ->
+    У вас есть { $points ->
         [1] 1 очко
        *[other] { $points } очков
     } и { $maxTraits ->
-        [2147483648]
+        [1234]
             { $traits ->
                 [1] { $traits } черта
-               *[other] { $traits } черт
+               *[other] { $traits } черты
             }
        *[other] { $traits }/{ $maxTraits } черт
     }
-humanoid-profile-editor-traits-show-unusable-button = Показать недоступные черты
+humanoid-profile-editor-traits-show-unusable-button = Показать неприменимые черты
 humanoid-profile-editor-traits-show-unusable-button-tooltip =
-    При включении черты, которые ваша текущая настройка персонажа не может использовать, будут показаны, выделенные красным или оранжевым, если выбраны.
-    Вы всё равно не сможете использовать недействительные черты, пока не измените настройку персонажа в соответствии с требованиями.
-    Вероятно, это полезно только если есть ошибка, скрывающая черты, которые вы на самом деле можете использовать, или если вы хотите увидеть черты других рас и т.п.
-humanoid-profile-editor-traits-remove-unusable-button = Удалить { $count } недоступных черт
-humanoid-profile-editor-traits-remove-unusable-button-tooltip =
-    Если вы нажмёте эту кнопку, все черты, которые ваша текущая настройка персонажа не может использовать, будут удалены.
-    Перед удалением черт у вас запросят подтверждение.
+    При включении, черты, которые ваш персонаж не может использовать, будут отображаться красным или же оранжевым, если выбраны.
+    Вы все еще не сможете использовать эти черты.
+humanoid-profile-editor-traits-remove-unusable-button = Убрать неприменимые черты ({ $count })
+humanoid-profile-editor-traits-remove-unusable-button-tooltip = При нажатии все неприменимые черты будут убраны.
 humanoid-profile-editor-traits-no-traits = Черты не найдены
 humanoid-profile-editor-job-priority-high-button = Высокий
 humanoid-profile-editor-job-priority-medium-button = Средний
 humanoid-profile-editor-job-priority-low-button = Низкий
 humanoid-profile-editor-job-priority-never-button = Никогда
 humanoid-profile-editor-naming-rules-warning = Внимание: Оскорбительные или странные имена и описания могут повлечь за собой беседу с администрацией. Прочитайте \[Правила\].
-humanoid-profile-editor-loadouts-tab = Экипировка
-humanoid-profile-editor-loadouts-points-label = У вас { $points }/{ $max } очков
-humanoid-profile-editor-loadouts-show-unusable-button = Показать недоступную экипировку
+humanoid-profile-editor-loadouts-tab = Снаряжение
+humanoid-profile-editor-loadouts-points-label = У вас есть { $points }/{ $max } очков
+humanoid-profile-editor-loadouts-show-unusable-button = Показать неприменимое снаряжение
 humanoid-profile-editor-loadouts-show-unusable-button-tooltip =
-    При включении экипировка, которую ваша текущая настройка персонажа не может использовать, будет выделена красным.
-    Экипировка, которую ваш персонаж не может носить (если это одежда), будет выделена жёлтым.
-    Вы всё равно не сможете использовать недействительную экипировку, пока не измените настройку персонажа в соответствии с требованиями.
-    Это может быть полезно, если вы часто переключаетесь между несколькими профессиями и не хотите каждый раз заново выбирать экипировку.
-humanoid-profile-editor-loadouts-remove-unusable-button =
-    Удалить { $count ->
-        [1] { $count } недоступный набор экипировки
-       *[other] { $count } недоступных наборов экипировки
-    }
-humanoid-profile-editor-loadouts-remove-unusable-button-tooltip =
-    Если вы нажмёте эту кнопку, вся экипировка, которую ваша текущая настройка персонажа не может использовать, будет удалена.
-    Перед удалением экипировки у вас запросят подтверждение.
-humanoid-profile-editor-loadouts-no-loadouts = Наборы экипировки не найдены.
-humanoid-profile-editor-loadouts-customize = Настроить
+    При включении, снаряжение, которые ваш персонаж не может использовать, будет отображаться красным или же оранжевым, если выбрано.
+    Вы все еще не сможете использовать это снаряжение.
+humanoid-profile-editor-loadouts-remove-unusable-button = Убрать неприменимое снаряжение({ $count })
+humanoid-profile-editor-loadouts-remove-unusable-button-tooltip = При нажатии всё неприменимое снаряжение будет убрано.
+humanoid-profile-editor-loadouts-no-loadouts = Снаряжение не найдено.
+humanoid-profile-editor-loadouts-customize = Кастомизация
 humanoid-profile-editor-loadouts-customize-name = Название
 humanoid-profile-editor-loadouts-customize-description = Описание
-humanoid-profile-editor-loadouts-customize-color = Цветовой оттенок
+humanoid-profile-editor-loadouts-customize-color = Цвет
 humanoid-profile-editor-loadouts-customize-save = Сохранить
-humanoid-profile-editor-loadouts-guidebook-button-tooltip = Кликните для получения дополнительной информации
-humanoid-profile-editor-loadouts-heirloom = Фамильная реликвия
-humanoid-profile-editor-loadouts-heirloom-tooltip = Любая экипировка, которую вы выберете в качестве потенциальной фамильной реликвии, будет случайным образом выбрана при появлении.
+humanoid-profile-editor-loadouts-guidebook-button-tooltip = Нажмите для большей информации
+humanoid-profile-editor-loadouts-heirloom = Реликвия
+humanoid-profile-editor-loadouts-heirloom-tooltip = При спавне, если было выбрано больше одной Реликвии, она выберется случайным образом.
 humanoid-profile-editor-markings-tab = Черты внешности
 humanoid-profile-editor-flavortext-tab = Описание

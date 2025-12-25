@@ -1,6 +1,6 @@
 announcer-HullrotAnnouncer-name = Секторальный
-announcer-Intern-name = Стажёр
-announcer-MedBot-name = Автоматический
-announcer-Michael-name = Майкл
-announcer-NEIL-name = Н.Э.И.Л.
-announcer-VoxFem-name = Автоматический
+announcer-Intern-name = Central Command
+announcer-MedBot-name = Automated
+announcer-Michael-name = Michael
+announcer-NEIL-name = N.E.I.L.
+announcer-VoxFem-name = Automated

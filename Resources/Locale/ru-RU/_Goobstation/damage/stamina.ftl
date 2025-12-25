@@ -1,1 +1,1 @@
-clothing-modify-stun-time-examine = Время оглушения и нокдауна снижено на [color=yellow]{ $mod }%[/color]
+clothing-modify-stun-time-examine = Время оглушения и падения сокращено на [color=yellow]{ $mod }%[/color]

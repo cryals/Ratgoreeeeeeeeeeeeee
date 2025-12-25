@@ -1,6 +1,6 @@
-psionic-regeneration-begin = { CAPITALIZE($entity) }'s eyes twitch under a wave of sweat.
-psionic-regeneration-essence-sweat = { CAPITALIZE($entity) } sweats profusely.
-psionic-regeneration-essence-veins = { CAPITALIZE($entity) }'s veins pulse.
-psionic-regeneration-essence-breath = { CAPITALIZE($entity) } breathes rapidly.
-reagent-name-prometheum = prometheum
-reagent-desc-prometheum = A complex superdrug our bodies could produce if we could only unlock our potential.
+psionic-regeneration-begin = Под волной пота глаза { CAPITALIZE($entity) } подёргиваются.
+psionic-regeneration-essence-sweat = { CAPITALIZE($entity) } покрывается испариной.
+psionic-regeneration-essence-veins = Вены { CAPITALIZE($entity) } вспухают, пульсируя под кожей.
+psionic-regeneration-essence-breath = { CAPITALIZE($entity) } дышит прерывисто и часто.
+reagent-name-prometheum = прометеум
+reagent-desc-prometheum = Сложнейший сверхпрепарат, который наше тело могло бы вырабатывать — если бы мы только пробудили в себе скрытый потенциал.

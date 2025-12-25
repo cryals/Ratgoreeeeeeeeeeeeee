@@ -1,1 +1,1 @@
-mannitol-effect-enlightened = You feel ENLIGHTENED!
+mannitol-effect-enlightened = Ты ощущаешь ПРОСВЕТЛЕНИЕ!

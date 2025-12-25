@@ -1,5 +1,5 @@
-marking-LamiaBottom = Lamia Tail
-marking-LamiaBottom-bottom3tone1 = Lamia Tail Bottom
-marking-LamiaBottom-bottom3tone2 = Lamia Tail Middle
-marking-LamiaBottom-bottom3tone3 = Lamia Tail Top
-marking-LamiaBottom-LamiaSegment = This will never appear in the markings menu. If you're somehow reading this ingame, contact us on the Einstein Engines Discord and tell us how!!!
+marking-LamiaBottom = Хвост Ламии
+marking-LamiaBottom-bottom3tone1 = Нижняя часть хвоста Ламии
+marking-LamiaBottom-bottom3tone2 = Средняя часть хвоста Ламии
+marking-LamiaBottom-bottom3tone3 = Верхняя часть хвоста Ламии
+marking-LamiaBottom-LamiaSegment = Это никогда не появится в меню маркировки. Если вы каким-то образом читаете это в игре, свяжитесь с нами на сервере Einstein Engines Discord и расскажите, как это произошло!!!

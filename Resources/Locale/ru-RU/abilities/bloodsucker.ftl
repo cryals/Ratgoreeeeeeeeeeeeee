@@ -1,13 +1,13 @@
-action-name-suck-blood = Suck Blood
-action-description-suck-blood = Suck the blood of the victim in your hand.
-bloodsucker-fail-helmet = You'd need to remove { THE($helmet) }.
-bloodsucker-fail-mask = You'd need to remove your mask!
-bloodsucker-not-blood = { $target } doesn't have delicious, nourishing blood.
-bloodsucker-fail-no-blood = { $target } has no blood in { POSS-ADJ($target) } body.
-bloodsucker-fail-no-blood-bloodsucked = { $target } has been sucked dry.
-bloodsucker-blood-sucked = You suck some blood from { $target }.
-bloodsucker-doafter-start = You try to suck blood from { $target }.
-bloodsucker-doafter-start-victim = { CAPITALIZE(THE($sucker)) } is trying to bite your neck!
-bloodsucker-blood-sucked-victim = { CAPITALIZE(THE($sucker)) } sucks some of your blood!
-bloodsucked-health-examine = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } bite marks on { POSS-ADJ($target) } neck.[/color]
-bloodsucker-glands-throb = The glands behind your fangs feel a bit sore.
+action-name-suck-blood = Сосать кровь
+action-description-suck-blood = Высасывайте кровь из жертвы, которую держите в руке.
+bloodsucker-fail-helmet = Вам нужно снять { THE($helmet) }.
+bloodsucker-fail-mask = Вам нужно снять маску!
+bloodsucker-not-blood = У { $target } нет вкусной, питательной крови.
+bloodsucker-fail-no-blood = У { $target } нет крови в { POSS-ADJ($target) } теле.
+bloodsucker-fail-no-blood-bloodsucked = { $target } высосан досуха.
+bloodsucker-blood-sucked = Вы высасываете немного крови из { $target }.
+bloodsucker-doafter-start = Вы пытаетесь высосать кровь из { $target }.
+bloodsucker-doafter-start-victim = { CAPITALIZE(THE($sucker)) } пытается укусить вас за шею!
+bloodsucker-blood-sucked-victim = { CAPITALIZE(THE($sucker)) } высасывает немного вашей крови!
+bloodsucked-health-examine = [color=red]{ CAPITALIZE(SUBJECT($target)) } имеет следы укуса на { POSS-ADJ($target) } шее.[/color]
+bloodsucker-glands-throb = Железы за клыками немного болят.

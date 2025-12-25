@@ -1,4 +1,4 @@
-paper-sign-verb = Sign
-paper-signed-other = { CAPITALIZE(THE($user)) } signs { THE($target) }.
-paper-signed-self = You sign { THE($target) }.
-paper-signed-failure = You cannot sign { THE($target) }
+paper-sign-verb = Подписать
+paper-signed-other = { CAPITALIZE(THE($user)) } подписывает { THE($target) }.
+paper-signed-self = Вы подписываете { THE($target) }.
+paper-signed-failure = Вы не можете подписать { THE($target) }

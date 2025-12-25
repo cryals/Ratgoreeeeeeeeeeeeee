@@ -1,4 +1,4 @@
-markings-category-Wings = Wings
-marking-WingsRobotic = Robotic Wings
-marking-WingsRobotic-robotic = Robotic Wings
+markings-category-Wings = Крылья
+marking-WingsRobotic = Роботизированные крылья
+marking-WingsRobotic-robotic = Роботизированные крылья
 marking-WingsRoboticMerciful = Merciful Robotic Wings

@@ -1,17 +1,17 @@
 # Interactions here don't have target popups because the target is always the user itself.
 # Why would you do this?
-interaction-PinchSelf-name = Pinch yourself
-interaction-PinchSelf-description = They say it helps you make sure the hell that goes around you is not a dream.
-interaction-PinchSelf-success-self-popup = You pinch yourself... Ouch!
-interaction-PinchSelf-success-others-popup = { THE($user) } pinches { REFLEXIVE($user) }... Looks painful!
-interaction-PinchSelf-fail-self-popup = You somehow fail to pinch yourself. Better for you.
-interaction-PinchSelf-delayed-self-popup = You pinch yourself...
-interaction-PinchSelf-message-1 = Ouchh!!
-interaction-PinchSelf-message-2 = Aaaah!!
-interaction-PinchSelf-message-3 = Ow!!
-interaction-MakeSleepSelf-name = Sleep
-interaction-MakeSleepSelf-description = Put yourself to sleep.
-interaction-MakeSleepSelf-delayed-self-popup = You are trying to fall asleep...
-interaction-MakeSleepSelf-fail-self-popup = You cannot sleep right now.
-interaction-MakeSleepSelf-success-self-popup = You put yourself to sleep.
-interaction-MakeSleepSelf-success-others-popup = { THE($user) } falls asleep.
+interaction-PinchSelf-name = Ущипнуть себя
+interaction-PinchSelf-description = Говорят, это помогает убедиться, что ад, который творится вокруг вас - не сон.
+interaction-PinchSelf-success-self-popup = Вы ущипнули себя... Ой!
+interaction-PinchSelf-success-others-popup = { $user } щипает { REFLEXIVE($user) }... Выглядит болезненно!
+interaction-PinchSelf-fail-self-popup = Вы каким-то образом не смогли ущипнуть себя. Так даже лучше.
+interaction-PinchSelf-delayed-self-popup = Вы пытаетесь ущипнуть себя...
+interaction-PinchSelf-message-1 = Оооойй!!!
+interaction-PinchSelf-message-2 = Аааааа!!
+interaction-PinchSelf-message-3 = Ой!!
+interaction-MakeSleepSelf-name = Уснуть
+interaction-MakeSleepSelf-description = Лечь спать.
+interaction-MakeSleepSelf-delayed-self-popup = Вы пытаетесь заснуть...
+interaction-MakeSleepSelf-fail-self-popup = Вы не можете заснуть прямо сейчас.
+interaction-MakeSleepSelf-success-self-popup = Вы легли спать.
+interaction-MakeSleepSelf-success-others-popup = { $user } засыпает.

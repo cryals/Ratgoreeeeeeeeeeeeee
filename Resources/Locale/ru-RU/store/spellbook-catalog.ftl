@@ -1,18 +1,18 @@
 # Spells
-spellbook-fireball-name = Fireball
-spellbook-fireball-desc = Get most crew exploding with rage when they see this fireball heading toward them! Upgradeable.
-spellbook-blink-name = Blink
-spellbook-blink-desc = Don't blink or you'll miss yourself teleporting away.
+spellbook-fireball-name = Огненный Шар
+spellbook-fireball-desc = Вызови бурю, пусть экипаж сначала вспыхнет от ярости — а потом просто вспыхнет. Летящий шар – не шутка.
+spellbook-blink-name = Мерцание
+spellbook-blink-desc = Моргнёшь — и пропустишь, как ты сам исчез в никуда. Телепорт в одно подмигивание.
 spellbook-voidapplause-name = Void Applause
 spellbook-voidapplause-desc = Swap places with the target, doesn't it make you want to do the boogie?
-spellbook-force-wall-name = Force Wall
-spellbook-force-wall-desc = Make three walls of pure force that you can pass through, but other's can't.
-spellbook-polymoprh-spider-name = Spider Polymoprh
-spellbook-polymorph-spider-desc = Transforms you into a spider, man!
-spellbook-polymorph-rod-name = Rod Polymorph
-spellbook-polymorph-rod-desc = Change into an Immovable Rod with limited movement.
-spellbook-charge-name = Charge
-spellbook-charge-desc = Adds a charge back to your wand!
+spellbook-force-wall-name = Стена Силы
+spellbook-force-wall-desc = Три стены из плотного эфира: ты проходишь насквозь, остальные — врезаются лицом. Чудо архитектуры.
+spellbook-polymoprh-spider-name = Превращение в Паука
+spellbook-polymorph-spider-desc = Паук-человек, человек-паук… Главное — восемь лап и пугающая харизма.
+spellbook-polymorph-rod-name = Превращение в Жезл
+spellbook-polymorph-rod-desc = Стань артефактом! Почти неподвижен, совершенно бессмысленен, но зато очень загадочен.
+spellbook-charge-name = Перезарядка
+spellbook-charge-desc = Вдохни в свою палочку вторую жизнь. Или хотя бы ещё один выстрел.
 spellbook-ethereal-jaunt-name = Ethereal Jaunt
 spellbook-ethereal-jaunt-description = Slip into the ethereal plane to slip away from your enemies!
 spellbook-mind-swap-name = Mind Swap
@@ -30,10 +30,10 @@ spellbook-item-recall-description = Mark a held item and summon it back at any t
 
 # Equipment
 
-spellbook-wand-polymorph-door-name = Wand of Entrance
-spellbook-wand-polymorph-door-description = For when you need a get-away route.
-spellbook-wand-polymorph-carp-name = Wand of Carp Polymorph
-spellbook-wand-polymorph-carp-description = For when you need a carp filet quick and the clown is looking juicy.
+spellbook-wand-polymorph-door-name = Жезл Побега
+spellbook-wand-polymorph-door-description = Для ситуаций, когда дверь важнее достоинства.
+spellbook-wand-polymorph-carp-name = Жезл Карпоморфа
+spellbook-wand-polymorph-carp-description = Преврати кого-то в сочного космического карпа. Особенно если этот кто-то — клоун.
 spellbook-wand-locker-name = Wand of the Locker
 spellbook-wand-locker-description = Shoot cursed lockers at your enemies and lock em away!
 spellbook-staff-animation-name = Staff of Animation
@@ -41,14 +41,14 @@ spellbook-staff-animation-description = Bring inanimate objects to life!
 
 # Events
 
-spellbook-event-summon-ghosts-name = Summon Ghosts
-spellbook-event-summon-ghosts-description = Who ya gonna call?
+spellbook-event-summon-ghosts-name = Призыв Призраков
+spellbook-event-summon-ghosts-description = Кто ты звать будешь, а?
 spellbook-event-summon-guns-name = Summon Guns
 spellbook-event-summon-guns-description = AK47s for everyone! Places a random gun in front of everybody. Disables refunds when bought!
 spellbook-event-summon-magic-name = Summon Magic
 spellbook-event-summon-magic-description = Places a random magical item in front of everybody. Nothing could go wrong! Disables refunds when bought!
 # Upgrades
-spellbook-upgrade-fireball-name = Upgrade Fireball
-spellbook-upgrade-fireball-description = Upgrades Fireball to a maximum of level 3!
+spellbook-upgrade-fireball-name = Прокачка Огненного Шара
+spellbook-upgrade-fireball-description = Разбуди настоящую стихию — пусть твой Шар достигнет третьего, финального уровня разрушения!
 spellbook-upgrade-jaunt-name = Upgrade Ethereal Jaunt
 spellbook-upgrade-jaunt-description = Upgrades Jaunt to a maximum of level 3!

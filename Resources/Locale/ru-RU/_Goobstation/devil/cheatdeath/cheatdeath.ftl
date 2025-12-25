@@ -1,12 +1,12 @@
-cheat-death-component-examined = [color=red] Something tells you { SUBJECT($target) } has no fear of death. [/color]
+cheat-death-component-examined = [color=red] Что-то зловещее подсказывает: { SUBJECT($target) } давно забыл, что такое страх смерти. [/color]
 cheat-death-component-remaining-revives =
     { $amount ->
-        [0] You have no revives left.
-        [one] You have one revive left.
-       *[other] You have { $amount } revives left.
+        [0] Твои попытки обмануть смерть иссякли. Ты уже чувствуешь её холодный поцелуй на своей шее.
+        [one] У тебя осталась последняя, жалкая попытка перехитрить вечный покой.
+       *[other] Судьба позволяет тебе ещё { $amount } раз обмануть смерть... но какой ценой?
     }
-cheat-death-component-remaining-revives-unlimited = You have an unlimited amount of revives. Ain't that fun.
-action-cheat-death-fail-no-lives = You aren't slipping away this time...
-action-cheat-death-fail-not-dead = You can't cheat death while alive!
-action-cheated-death-dead = { $name } jerks awake. Bones mended, wounds sewn, organs arranged ever so perfectly.
-action-cheated-death-alive = { $name } violently shakes, all manners of wounds disappearing in a flash of flames.
+cheat-death-component-remaining-revives-unlimited = У тебя — бесконечные возрождения. Играй с вечностью, пока она позволяет.
+action-cheat-death-fail-no-lives = На этот раз — никакого бегства. Могила ждёт.
+action-cheat-death-fail-not-dead = Ты ещё дышишь, глупец. Смерть не любит, когда её дразнят напрасно.
+action-cheated-death-dead = { $name } вздрагивает, как труп воскрешённый волей, что древнее солнца: кости срастаются, плоть сплетается, органы собираются воедино — без единого шрама.
+action-cheated-death-alive = Тело { $name } сотрясается в конвульсиях — раны испаряются в вспышке пламени, как будто их и не было. Лишь дым остался в воздухе.

@@ -1,8 +1,8 @@
-radio-jammer-component-on-use = The jammer is now { $state }.
-radio-jammer-component-on-state = on
-radio-jammer-component-off-state = off
-radio-jammer-component-examine-on-state = The light is currently [color=darkgreen]on[/color].
-radio-jammer-component-examine-off-state = The light is currently [color=darkred]off[/color].
+radio-jammer-component-on-use = Глушилка { $state }.
+radio-jammer-component-on-state = включена
+radio-jammer-component-off-state = выключена
+radio-jammer-component-examine-on-state = Огонёк в данный момент [color=darkgreen]горит[/color].
+radio-jammer-component-examine-off-state = Огонёк в данный момент [color=darkred]не горит[/color].
 radio-jammer-component-setting-high = High
 radio-jammer-component-setting-medium = Medium
 radio-jammer-component-setting-low = Low

@@ -1,8 +1,8 @@
-paint-success = { THE($target) } has been covered in paint!
-paint-failure = Can't cover { THE($target) } in paint!
-paint-failure-painted = { THE($target) } is already covered in paint!
-paint-empty = { THE($used) } is empty!
-paint-removed = You clean off the paint!
-paint-closed = You must open { THE($used) }  first!
-paint-verb = Paint
-paint-remove-verb = Remove Paint
+paint-success = { $target } был покрашен!
+paint-failure = Не могу покрасить { $target }!
+paint-failure-painted = { $target } уже покрашен!
+paint-empty = В { $used } нет краски!
+paint-removed = Вы стираете краску!
+paint-closed = Необходимо сначала открыть { $used }!
+paint-verb = Покрасить
+paint-remove-verb = Убрать краску

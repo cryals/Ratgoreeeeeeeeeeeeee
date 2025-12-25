@@ -1,3 +1,3 @@
-research-technology-psionic-countermeasures = Psionic Countermeasures
-research-technology-teleportation = Teleportation
-research-technology-metempsychosis = Metempsychosis
+research-technology-psionic-countermeasures = Псионическая нейтрализация
+research-technology-teleportation = Телепортация
+research-technology-metempsychosis = Переселение душ

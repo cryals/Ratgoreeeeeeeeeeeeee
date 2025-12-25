@@ -1,32 +1,33 @@
 book-text-plasma-trap =
-    Heheheheh, no way in hell they're going to get at our stash NOW, is there?
-    I rigged the area where our stuff's at to be a toasty thousand K.
-    You know how to drain it when we need it out.
-     - J.
+    Хехехехех, ни за что на свете они теперь не доберутся до нашей заначки, не так ли?
+    Я оборудовал место, где хранятся наши вещи, так, чтобы оно составляло около тысячи К.
+    Ты знаешь, как осушить его, когда нам это понадобится.
+    - Джей
 book-text-holoparasite-info =
-    Thanks for choosing our holoparasite package!
-    At cybersun, we pride ourselves on cutting-edge military and industrial technology, and greatly appreciate your contribution to our establishment!
-    Guardians are helpful and intelligent beings which nest within your body, completely immune to common hazards such as pressure, temperature and even bullets!
-    You have purchased the holoparasite package, which contains a holoparasite activator, an instruction booklet, and our softcap merchandise.
-    Instructions for use:
-    1. Activate the holoparasite injector (preferably in a secluded area).
-    2. Wait for the tingling and/or painful metaphysical sensation.
-    3. Check your holoparasite for the ability to communicate and cooperate, and capacity to understand your orders.
-    4. Use your recall-manifest ability to summon or recall the holoparasite back into your body.
-    5. Keep the holoparasite within a short distance from yourself, otherwise it will be recalled by force!
-    WARNING: Guardians are metaphysical beings, but draw from your HEALTH in order to exist. Direct damage done to guardians will be partially transferred to you!
-    Cybersun inc. is not responsible for complete annihilation following the misuse of Holoparasite technology.
+    Спасибо, что выбрали нашу упаковку от голопаразитов!
+    В Cybersun мы гордимся передовыми военными и промышленными технологиями и высоко ценим ваш вклад в наше учреждение!
+    Стражи - это полезные и разумные существа, которые гнездятся в вашем теле, полностью невосприимчивые к обычным опасностям, таким как давление, температура и даже пули!
+    Вы приобрели упаковку holoparasite, которая содержит активатор холопаразитов, буклет с инструкцией и наши товары softcap.
+    Инструкция по применению:
+    1. Активируйте инъектор голопаразитов (предпочтительно в уединенном месте).
+    2. Дождитесь покалывания и/или болезненного метафизического ощущения.
+    3. Проверьте своего голопаразита на способность общаться и сотрудничать, а также на способность понимать ваши приказы.
+    4. Используйте свою способность вызывать-манифестировать, чтобы вызвать или отозвать голопаразита обратно в свое тело.
+    5. Держите голопаразита на небольшом расстоянии от себя, иначе он будет отозван силой!
+    ПРЕДУПРЕЖДЕНИЕ: Хранители - метафизические существа, но они черпают энергию из вашего ЗДОРОВЬЯ, чтобы существовать.
+    Прямой ущерб, нанесенный стражам, будет частично перенесен на вас!
+    Cybersun inc. не несет ответственности за полное уничтожение в результате неправильного использования технологии Holoparasite.
 book-text-ame-scribbles =
-    I don't know if you're trained already, so I hope this'll help.
-    AME controller needs LV power and an HV wire to output to. Check the area with a crowbar if you aren't sure.
-    There should be an empty room next to where you found this, that room's wired for the AME.
-    You can put an AME anywhere if you can get the wires to it, though.
-    3x3 grid of AME parts, multitool them to unpack. Be careful not to 'trap' anything.
-    AME controller adjacent horizontally or vertically (not diagonally) to any point.
-    With only 1 core (what a 3x3 grid will get you), don't turn it up above 2.
-    The golden rule is 2 injection for every 1 core. You can go lower to save fuel.
-    Higher will burn the engine out and eventually make it explode. Don't.
-    Don't forget to refuel it, it tends to stop at the worst possible time.
+    Я не знаю, прошли ли вы уже обучение, поэтому я надеюсь, что это поможет.
+    ДАМ контроллеру требуется питание низкого напряжения и высоковольтный провод для вывода на него. Проверьте это место с помощью лома, если вы не уверены.
+    Рядом с тем местом, где вы нашли это, должна быть пустая комната, эта комната предназначена для ДАМ.
+    Однако вы можете поставить его в любом месте, если сможете подключить к нему провода.
+    Сделайте сетку из деталей размером 3х3 см, используйте мультитул для их распаковки. Будьте осторожны, чтобы никого не "заманить в ловушку".
+    ДАМ контроллер примыкает по горизонтали или вертикали (не по диагонали) к любой точке ядер.
+    Имея только 1 ядро (что даст вам сетка 3x3), не ставте впрыск контроллера выше 2.
+    Золотое правило - 2 инъекции на каждые 1 ядро. Вы можете поставить значение ниже, чтобы сэкономить топливо.
+    Более высокий впрыск приведет к перегреву ДАМ и в конечном итоге к его взрыву.
+    Не забудьте заправить его, топливо имеет тенденцию заканчиваться в самый неподходящий момент.
 book-text-agrichemkit-manual =
     Thank you for choosing the safe-for-all-ages NanoTrasen Agri-Chem is Fun! chemistry kit, the best learning-adjacent toy of 2468! Be prepared to discover all about the biggest innovations in agriculture since people buried fish with their corn seeds.
     
@@ -54,20 +55,20 @@ book-text-agrichemkit-manual =
     Unstable mutagen is entirely safe when used as a fertilizer, and NanoTrasen takes no responsibility for dead crops, excessive water bills, newly sentient plants asking existential questions, or flora-strangled farmhands that may coincidentally occur while using it.
     Do not drink unstable mutagen. Wash your hands thoroughly after handing. Wash your eyes if you have looked at unstable mutage for over 30 minutes in a 24 hour period. Store in a dark room between 293–295K. Do not use on corporate holidays. If you begin hearing voices telling you to drink unstable mutagen, please contact your doctor, head of personnel, or exorcist.
 book-text-combat-bakery-kit =
-    Thank you for choosing our combat bakery kit!
-    Enclosed are two (2) CyberSun patented Throwing Croissants, and one (1) patent-pending Baguette Sword.
-    The included Donk Co. microwave board can construct a microwave capable of baking more weapons.
-    Just like the baked weapons, be sure to eat this note after use. Good luck, agent.
+    Спасибо за выбор нашего боевого набора для выпечки!
+    В комплект входят два (2) метательных круассана, запатентованных CyberSun, и один (1) багет-меч, патент на который находится на рассмотрении.
+    Входящая в комплект микроволновая плата Donk Co. позволяет создать микроволновую печь, способную выпекать больше оружия.
+    Как и само выпеченное оружие, обязательно съешьте эту записку после использования. Удачи, агент.
     
-    Baguette Sword Recipe:
-    Dough x 1
-    Salt 5u
-    Pepper 5u
-    Metal Rod x 1
-    Cook Time: 15 seconds
+    Рецепт багет-меча:
+    Тесто x 1
+    Соль 5u
+    Перец 5u
+    Металлический прут x 1
+    Время приготовления: 15 секунд
     
-    Throwing Croissant Recipe:
-    Raw Croissant x 1
-    Butter Slice x 1
-    Glass Shard x 1
-    Cook Time: 5 seconds
+    Рецепт метательного круассана:
+    Сырой круассан x 1
+    Кусочек масла x 1
+    Осколок стекла x 1
+    Время приготовления: 5 секунд

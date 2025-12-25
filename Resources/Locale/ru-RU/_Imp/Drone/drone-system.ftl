@@ -1,6 +1,6 @@
-drone-active = A maintenance drone. It seems totally unconcerned with you.
-drone-dormant = A dormant maintenance drone. Who knows when it will wake up?
-drone-activated = The drone whirrs to life!
-drone-too-close = Be aware of your proximity to { THE($being) }.
-drone-cant-use-nearby = This act could cause harm to { THE($being) }. Your programming prevents it.
-drone-cant-use = This act could cause harm to the station or its inhabitants. Your programming prevents it.
+drone-active = Обслуживающий дрон. Похоже, ему совершенно нет до вас дела.
+drone-dormant = Неактивный обслуживающий дрон. Кто знает, когда он вновь включится?
+drone-activated = Дрон оживает с характерным жужжанием!
+drone-too-close = Соблюдайте дистанцию от { THE($being) }.
+drone-cant-use-nearby = Это действие может навредить { THE($being) }. Ваша прошивка запрещает подобное.
+drone-cant-use = Это действие может повредить станции или её обитателям. Ваша прошивка не позволяет вам сделать это.

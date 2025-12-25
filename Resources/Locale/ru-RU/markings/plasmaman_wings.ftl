@@ -1,2 +1,2 @@
-marking-WingsSkeleton = Skeleton Wings
-marking-WingsSkeleton-skeleton = Skeleton Wings
+marking-WingsSkeleton = Скелетонские крылья
+marking-WingsSkeleton-skeleton = Скелетонские крылья

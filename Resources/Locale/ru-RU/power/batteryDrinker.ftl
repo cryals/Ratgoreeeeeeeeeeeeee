@@ -1,2 +1,2 @@
-battery-drinker-verb-drink = Drain
-battery-drinker-empty = { CAPATALIZE(THE($target)) } is already charged!
+battery-drinker-verb-drink = Сосать
+battery-drinker-empty = { CAPITALIZE(THE($target)) } и так полностью заряжен!

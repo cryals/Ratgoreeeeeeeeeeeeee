@@ -1,3 +1,3 @@
-dragon-round-end-agent-name = dragon
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
-dragon-role-briefing = Summon 3 carp rifts and take over this quadrant! The station is located { $direction }.
+dragon-round-end-agent-name = дракон
+objective-issuer-dragon = [color=#7567b6]Космический Дракон[/color]
+dragon-role-briefing = Создайте 3 карповых разлома и захватите этот квадрант! Станция находится на { $direction }е от вас.

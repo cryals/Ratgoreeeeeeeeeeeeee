@@ -1,1 +1,1 @@
-pocket-dimension-verb-text = Toggle Portal
+pocket-dimension-verb-text = Переключить портал

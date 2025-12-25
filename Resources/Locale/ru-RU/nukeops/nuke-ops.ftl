@@ -1,2 +1,2 @@
-nuke-ops-no-more-threat-announcement-shuttle-call = Based on our scans from our long-range sensors, the nuclear threat is now eliminated. We will call emergency shuttle that will arrive shortly. ETA: { $time } { $units }. You can recall the shuttle to extend the shift.
-nuke-ops-no-more-threat-announcement = Based on our scans from our long-range sensors, the nuclear threat is now eliminated. Shuttle is already called.
+nuke-ops-no-more-threat-announcement-shuttle-call = Судя по данным наших датчиков дальнего действия, ядерная угроза была устранена. Эвакуационный шаттл скоро прибудет. Время прибытия: { $time } { $units }. Вы можете отозвать его, чтобы продлить смену.
+nuke-ops-no-more-threat-announcement = Судя по данным наших датчиков дальнего действия, ядерная угроза была устранена. Шаттл уже вызван.

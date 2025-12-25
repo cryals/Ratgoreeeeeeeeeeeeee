@@ -1,18 +1,18 @@
-station-map-window-title = Station map
-station-map-user-interface-flavor-left = Don't panic
+station-map-window-title = Карта станции
+station-map-user-interface-flavor-left = Без паники!
 station-map-user-interface-flavor-right = v1.42
-station-map-filter-placeholder = Search by name
-nav-beacon-window-title = Station Beacon
-nav-beacon-toggle-visible = Visible
-nav-beacon-toggle-invisible = Invisible
-nav-beacon-text-label = Label:
-nav-beacon-button-apply = Apply
+station-map-filter-placeholder = Поиск по имени...
+nav-beacon-window-title = Станционный маячок
+nav-beacon-toggle-visible = Видимый
+nav-beacon-toggle-invisible = Невидимый
+nav-beacon-text-label = Подпись:
+nav-beacon-button-apply = Применить
 nav-beacon-examine-text =
-    It is [color={ $enabled ->
-        [true] forestgreen]on
-       *[false] crimson]off
+    Маяк  [color={ $enabled ->
+        [true] forestgreen]включён
+       *[false] crimson]выключен
     }[/color] and the display reads [color={ $color }]"{ $label }"[/color]
-nav-beacon-pos-no-beacons = in the middle of nowhere
-nav-beacon-pos-format = [color={ $color }]near { $marker }[/color]
-nav-beacon-pos-format-direction = [color={ $color }]{ $modifier }{ $direction } of { $marker }[/color]
-nav-beacon-pos-format-direction-mod-far = far { "" }
+nav-beacon-pos-no-beacons = неизвестно где
+nav-beacon-pos-format = [color={ $color }]около { $marker }[/color]
+nav-beacon-pos-format-direction = [color={ $color }]на { $modifier }{ $direction }е от { $marker }[/color]
+nav-beacon-pos-format-direction-mod-far = далеко { "" }

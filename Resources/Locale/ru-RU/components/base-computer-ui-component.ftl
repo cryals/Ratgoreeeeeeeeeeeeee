@@ -1,2 +1,2 @@
-base-computer-ui-component-not-powered = { CAPITALIZE(THE($machine)) } is not powered.
-base-computer-ui-component-not-opened = { CAPITALIZE(THE($machine)) } does not have an open panel.
+base-computer-ui-component-not-powered = Компьютер не получает питание.
+base-computer-ui-component-not-opened = У { $machine } нет открытой панели.

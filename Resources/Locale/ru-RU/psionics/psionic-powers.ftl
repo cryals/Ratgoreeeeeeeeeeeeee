@@ -1,188 +1,184 @@
-generic-power-initialization-feedback = I Awaken.
-already-casting = I cannot channel more than one power at a time.
+generic-power-initialization-feedback = Я пробуждаюсь.
+already-casting = Я не способен удержать более одной нити силы одновременно.
 # Dispel
-dispel-power-description = Dispel summoned entities such as familiars or forcewalls.
-dispel-power-initialization-feedback = The powers of fate are nothing to me. I feel as though I can reach out to the strands around me, and enforce reality upon others.
-dispel-power-metapsionic-feedback = { CAPITALIZE($entity) } is a mighty stone, standing against the currents of fate
+dispel-power-description = Рассеять призванные сущности, такие как фамильяры или силовые стены.
+dispel-power-initialization-feedback = Воля судеб для меня — пустой звук. Я ощущаю, как могу дотянуться до окружающих нитей бытия и навязать другим реальность.
+dispel-power-metapsionic-feedback = { CAPITALIZE($entity) } — неподвижный утёс, прочно стоящий посреди бурлящих потоков судьбы.
 # Mass Sleep
-mass-sleep-power-description = Put targets in a small area to sleep.
-mass-sleep-initialization-feedback = Reaching out to the minds around me, I have located the words that can send others to the realm of dreams.
-mass-sleep-metapsionic-feedback = { CAPITALIZE($entity) } bears the indelible mark of a dream thief.
+mass-sleep-power-description = Погружает в сон всех в небольшой области.
+mass-sleep-initialization-feedback = Я протягиваю руку к сознаниям поблизости... и нахожу в их глубинах слово, открывающее врата снов.
+mass-sleep-metapsionic-feedback = { CAPITALIZE($entity) } несёт в себе метку похитителя грёз.
 # Mind Swap
-mind-swap-power-description = Swap minds with the target. Either can change back after 20 seconds.
-mind-swap-power-initialization-feedback = I can feel the bonds of soul and body wither at my whim, my vessel may be replaced with that of another.
-mind-swap-power-metapsionic-feedback = { CAPITALIZE($entity) } lacks a strong bond with their vessel, as if their connection with spirit is malleable.
+mind-swap-power-description = Обменяться разумом с целью. Обе стороны могут вернуться в свои тела через 20 секунд.
+mind-swap-power-initialization-feedback = Я ощущаю, как узы между душой и плотью теряют силу. Моё тело — лишь сосуд, и я могу сменить его на другой.
+mind-swap-power-metapsionic-feedback = { CAPITALIZE($entity) } не связан крепко со своим сосудом — их дух легко поддаётся перестановке.
 # Noospheric Zap
-noospheric-zap-power-description = Shocks the conciousness of the target and leaves them stunned and stuttering.
+noospheric-zap-power-description = Ошеломляет сознание цели, вызывая ступор и заикание.
 noospheric-zap-power-initialization-feedback =
-    In a single transcendent moment, I find myself standing in a universe tiled by silicon.
-    I wander this place for days, desperate to find some form of life, and yet none greet me.
-    Just before I succumb to thirst, a man of silver finds me. He plunges his arm into my body, and I awake screaming.
-noospheric-zap-power-metapsionic-feedback =
-    I look inside { CAPITALIZE($entity) }'s heart, and there, nestled amidst the flesh, whirs a microscopic sliver of a being composed of pure energy.
-    It turns upon my gaze with malice, its silvery eyes filled with a hatred for the carbon-fleshed.
+    На миг я оказываюсь в мире, сложенном из кремниевых плит.
+    Я блуждаю там в одиночестве, и ничто живое не отвечает на мои мольбы.
+    Уже готовясь пасть от жажды, я встречаю серебряного человека. Он пронзает меня рукой — и я пробуждаюсь с криком.
+noospheric-zap-power-metapsionic-feedback = Я заглядываю в сердце { CAPITALIZE($entity) }, и нахожу там мерцающий осколок чистой энергии — затаившееся существо, исполненное ненависти к плоти.
 # Pyrokinesis
-pyrokinesis-power-description = Light a flammable target on fire.
+pyrokinesis-power-description = Поджигает воспламеняемую цель.
 pyrokinesis-power-initialization-feedback =
-    There is a brilliant flash of light and heat, and for an instant I feel as though every milimeter of my flesh is turned to vapor.
-    Yet death does not come for me, though I find myself praying it does. The world beyond is both agonizingly hot and bone chilling.
-    For weeks I despair that Gehenna is real, I starve, I cry, I scream, and the pain does not cease. Finally, a man in white, with the face of an ogrous
-    fly beckons me to offer my service. When I reach out to shake his hand, the vision fades, and I find myself standing in the prime materium.
-    I know His name now, it is the Secret of Fire. Merely by thinking of it, I can feel the heat of that place come to my hands.
-pyrokinesis-power-metapsionic-feedback = The Secret of Fire dwells within { CAPITALIZE($entity) }
+    Вспышка света и жара — и в один миг моё тело обращается в пар.
+    Но смерть не приходит. Я застрял в месте, где кости горят, а душа стынет.
+    Я страдаю, молю, кричу... и в этом аду мне является человек в белом с лицом чудовищной мухи.
+    Он протягивает руку — и я касаюсь её. Видение уходит, и я вновь стою в материальном мире.
+    Я знаю Его имя. Это Тайна Огня. И теперь, стоит лишь подумать о ней — и жар того мира вспыхивает в моих ладонях.
+pyrokinesis-power-metapsionic-feedback = Внутри { CAPITALIZE($entity) } пылает Тайна Огня.
 # Metapsionic Pulse
-metapsionic-power-description = Send a mental pulse through the area to see if there are any psychics nearby.
+metapsionic-power-description = Выпускает псионический импульс, определяя наличие иных псиоников поблизости.
 metapsionic-power-initialization-feedback =
-    The world around me awakens with dreamlight. For a transcendent moment, I can see all that is, all that will ever be.
-    I find myself staggering, my lips parched not for want of water, but to drink of the cup of knowledge. I. Must. Find. It.
-metapsionic-power-metapsionic-feedback = { CAPITALIZE($entity) } gazes back upon thee.
+    Мир оживает светом грёз. Я вижу всё — настоящее и грядущее.
+    Меня пошатывает, губы трескаются от жажды... Я должен испить из чаши знания.
+metapsionic-power-metapsionic-feedback = { CAPITALIZE($entity) } смотрит тебе прямо в душу.
 # Psionic Regeneration
-psionic-regeneration-power-description = Push your natural metabolism to the limit to power your body's regenerative capability.
-psionic-regeneration-power-initialization-feedback = I look within myself, finding a wellspring of life.
-psionic-regeneration-power-metapsionic-feedback = { CAPITALIZE($entity) } possesses an overwhelming will to live
+psionic-regeneration-power-description = Перенаправляет внутреннюю энергию тела на ускоренное восстановление.
+psionic-regeneration-power-initialization-feedback = Я заглядываю в себя — и нахожу там источник жизни, бьющий, как сердце вселенной.
+psionic-regeneration-power-metapsionic-feedback = Воля к жизни у { CAPITALIZE($entity) } сокрушительна.
 # Healing Word
-action-name-healing-word = Healing Word
-action-description-healing-word = Speak the Lesser Secret Of Life, and restore health to another.
-healing-word-power-description = Speak the Lesser Secret Of Life, and restore health to another.
+action-name-healing-word = Слово Исцеления
+action-description-healing-word = Произнеси Младшую Тайну Жизни, чтобы восстановить здоровье другому существу.
+healing-word-power-description = Произнеси Младшую Тайну Жизни, чтобы исцелить другого.
 healing-word-power-initialization-feedback =
-    At the beginning of time, a word was spoken that brought life into the Spheres.
-    Though it taxes my mind to know it, this Secret is known to me now.
-    I need only speak it.
-healing-word-power-metapsionic-feedback = { CAPITALIZE($entity) } bears the Lesser Secret of Life.
-healing-word-begin = { CAPITALIZE($entity) } mutters a word that brings both joy and pain alike to those who hear it.
+    В начале времён было произнесено слово, и с ним в мир пришла жизнь.
+    Оно до боли тяжело для моего сознания, но я постиг его.
+    Мне лишь нужно произнести его.
+healing-word-power-metapsionic-feedback = { CAPITALIZE($entity) } носит в себе Младшую Тайну Жизни.
+healing-word-begin = { CAPITALIZE($entity) } шепчет слово, в котором заключены и радость, и боль.
 # Revivify
-action-name-revivify = Breath of Life
-action-description-revivify = Speak the Greater Secret of Life, and restore another to life.
-revivify-power-description = Speak the Greater Secret of Life, and restore another to life.
+action-name-revivify = Дыхание Жизни
+action-description-revivify = Произнеси Великую Тайну Жизни и верни другого к жизни.
+revivify-power-description = Произнеси Великую Тайну Жизни и верни другого к жизни.
 revivify-power-initialization-feedback =
-    For a moment, my soul journeys across time and space to the beginning of it all, there I hear it.
-    The Secret of Life in its fullness. I feel my entire existence burning out from within, merely by knowing it.
-    Power flows through me as a mighty river, begging to be released with a simple spoken word.
-revivify-power-metapsionic-feedback = { CAPITALIZE($entity) } bears the Greater Secret of Life.
-revivify-begin = { CAPITALIZE($entity) } enunciates a word of such divine power, that those who hear it weep from joy.
+    На мгновение моя душа пронзает пространство и время, достигая начала всего сущего. И там — я слышу Его.
+    Великую Тайну Жизни — во всей её полноте. Моё естество горит изнутри, не в силах удержать её знание.
+    Сила хлещет сквозь меня, как бурная река, просясь наружу — стоит лишь произнести одно-единственное слово.
+revivify-power-metapsionic-feedback = { CAPITALIZE($entity) } несёт Великую Тайну Жизни.
+revivify-begin = { CAPITALIZE($entity) } произносит слово столь божественное, что те, кто слышат его, не могут сдержать слёз.
 # Telegnosis
-telegnosis-power-description = Create a telegnostic projection to remotely observe things.
+telegnosis-power-description = Создаёт теленосическую проекцию для удалённого наблюдения за происходящим.
 telegnosis-power-initialization-feedback =
-    With my next step, I find that I am no longer in the material realm. My feet are trodding upon a bridge of rainbow light.
-    Yet strangly, as I look left and right, I first see a color that is as pink within pink, and to my right, blue within blue.
-    Just as my mind reels from the displeasure of knowing colors that aren't, a creature I can only describe as a
-    dragon with the wings of a peacock swoops down, and consumes my flesh in a single bite. I awaken in an instant, to a world utterly devoid
-    of true, real colors.
-telegnosis-power-metapsionic-feedback = { CAPITALIZE($entity) }'s soul travels across bridges composed of dreamlight
+    Я делаю шаг — и вдруг понимаю: я больше не в материальном мире. Мои ноги ступают по мосту из радужного света.
+    Слева я вижу цвет, который розовее розового, а справа — сине-синий, неведомый глазу.
+    Мой рассудок трещит от невозможности этих оттенков — и в этот миг на меня пикирует существо, подобное дракону с павлиньими крыльями.
+    Оно пожирает мою плоть целиком. Я просыпаюсь в сером мире, лишённом всякой истинной краски.
+telegnosis-power-metapsionic-feedback = Душа { CAPITALIZE($entity) } странствует по мостам, сотканным из света снов.
 # Psionic Invisibility
 psionic-invisibility-power-description =
-    Render yourself invisible to any entity that could potentially be psychic. Borgs, animals, and so on are not affected.
-    This doesn't last forever, and its duration scales with your psychic amplification factor.
+    Делает тебя невидимым для существ, обладающих потенциальной псионической чувствительностью. Борги, животные и подобные сущности не подвержены действию.
+    Эффект не вечен, его длительность зависит от степени усиления псионических способностей.
 psionic-invisibility-power-initialization-feedback =
-    I suddenly find myself plunged into a world utterly without light, yet I can feel the rays of warmth cast upon me.
-    Pondering this, I arrive at a realization that sight itself is an illusion. I reject it, I deny that light itself is real.
-    When I awaken, I can no longer see even myself.
-psionic-invisibility-power-metapsionic-feedback = { CAPITALIZE($entity) }'s wyrd seeks to hide from thine gaze
+    Я погружаюсь в мир без света — но ощущаю, как на меня всё равно ложатся тёплые лучи.
+    В этом парадоксе мне открывается истина: само зрение — иллюзия. Я отрекаюсь от неё. Отрицаю свет.
+    Пробуждаюсь. Я больше не вижу даже себя.
+psionic-invisibility-power-metapsionic-feedback = Судьба { CAPITALIZE($entity) } прячется от твоего взора.
 # Xenoglossy
-xenoglossy-power-description = You understand all languages.
+xenoglossy-power-description = Ты постигаешь все языки, и все языки постигают тебя.
 xenoglossy-power-initialization-feedback =
-    I feel an empathy with all creation, so that I may understand them and be understood.
-    The barrier between thought and expressions is permeable to me.
-psionic-language-power-metapsionic-feedback = The noösphere flows freely through { CAPITALIZE($entity) }, who seems to digest it and pass it back out undisturbed.
+    Я ощущаю эмпатию ко всему живому, словно нити мысли и речи стали проницаемыми для моего разума.
+    Больше нет барьера — есть только понимание.
+psionic-language-power-metapsionic-feedback = Мерцание свободно струится сквозь { CAPITALIZE($entity) }, и он возвращает его миру — не нарушив гармонии.
 # Psychognomy
-psychognomy-power-description = You have some vague sense of the form of the source of telepathic messages.
+psychognomy-power-description = Ты смутно ощущаешь форму источника телепатических сообщений.
 psychognomy-power-initialization-feedback =
-    I have pierced the veil, and I know I'm not alone. More concerning, the piercing I made seems to be still indefinitely permeable.
-    When energy passes through the perforations in the noösphere, I get a faint glimpse of the material origin.
+    Я прорвал завесу и теперь знаю: я не один. Хуже того — пробоина осталась открыта.
+    Когда энергия прорывается через трещины в ноосфере, я улавливаю смутные образы их материальных источников.
 # Telepathy
-telepathy-power-description = You are capable of both sending and receiving telepathic messages.
+telepathy-power-description = Ты способен отправлять и принимать телепатические послания.
 telepathy-power-initialization-feedback =
-    The voices I've heard all my life begin to clear, yet they do not leave me. Before, they were as incoherent whispers,
-    now my senses broaden, I come to a realization that they are part of a communal shared hallucination. Behind every voice is a glimmering sentience.
+    Голоса, шепчущие мне с рождения, наконец прояснились, но не исчезли.
+    Раньше они были неразборчивым эхом, теперь — частью общего сна разума. За каждым из них — искра живого сознания.
 # Shadeskip
-action-name-shadeskip = Shadeskip
-action-description-shadeskip = Call upon the Lords of the End of Time, and beseech them for a fragment of true entropy.
+action-name-shadeskip = Прыжок в Тень
+action-description-shadeskip = Воззови к Владыкам Конца Времён и испроси у них искру истинной энтропии.
 shadeskip-power-description = { action-description-shadeskip }
 shadeskip-power-initialization-feedback =
-    I find myself standing in a frigid land, under a sky lacking in all starlight. Cold is the void at the End of Time.
-    I look to the pale blue within blue horizon, and find a great eye standing at the center of it all, black and emptier than the deepest reaches of space.
-    My soul begins to wither under its gaze, and I find myself begging for it to look away. The eye laughs, it demands that I serve it or die.
-    Knowing I have no choice, I pledge myself to it, and suddenly I am back in the material realm. The eye stares behind me still.
-shadeskip-power-metapsionic-feedback = { CAPITALIZE($entity) } has been claimed by the Lords of the End of Time.
-shadeskip-overcharge-feedback = My body reels from shock as it is overwhelmed by the sheer force flowing through me.
+    Я стою в безмолвной мерзлоте под небом, лишённым звёзд. Холодна пустота на границе времени.
+    На горизонте — синь внутри синевы, и в ней — око, чёрное и пустое, как сама бездна.
+    Моя душа увядает под его взглядом, я молю — отвернись. Но оно лишь смеётся. Служи — или исчезни.
+    Я склоняюсь. И возвращаюсь. А око... продолжает смотреть мне в спину.
+shadeskip-power-metapsionic-feedback = { CAPITALIZE($entity) } помечен Владыками Конца Времён.
+shadeskip-overcharge-feedback = Моё тело содрогается от удара, не выдержав потока нескончаемой силы.
 # Telekinetic Pulse
-action-name-telekinetic-pulse = Telekinetic Pulse
-action-description-telekinetic-pulse = Force everyone around you away.
+action-name-telekinetic-pulse = Телекинетический Импульс
+action-description-telekinetic-pulse = Оттолкни всех вокруг одним движением разума.
 telekinetic-pulse-power-description = { action-description-telekinetic-pulse }
-telekinetic-pulse-power-initialization-feedback = As I reach through the veil with my psyche, I discover a wellspring of pure kinetic energy. It courses through me, but I seem to lack fine control over it.
-telekinetic-pulse-power-metapsionic-feedback = { CAPITALIZE($entity) } has the essence of pure kinesis flowing through him.
+telekinetic-pulse-power-initialization-feedback = Протянув руку сквозь завесу, я нашёл источник чистой силы движения. Она бурлит во мне, но я не в силах полностью её контролировать.
+telekinetic-pulse-power-metapsionic-feedback = В { CAPITALIZE($entity) } течёт сама суть кинеза.
 # Pyrokinetic Flare
-action-name-pyrokinetic-flare = Pyrokinetic Flare
-action-description-pyrokinetic-flare = Generate a flash of firelight from Gehenna to blind your adversaries.
+action-name-pyrokinetic-flare = Пирокинетическая Вспышка
+action-description-pyrokinetic-flare = Вызови вспышку огня из Гиенны, чтобы ослепить врагов.
 pyrokinetic-flare-power-description = { action-description-pyrokinetic-flare }
 pyrokinetic-flare-power-initialization-feedback =
-    My gaze is briefly filled with a flash of immense light and head, and for a single moment I can see a glimpse of a realm
-    of fire and pain, of hunger and suffering. Just as soon as I glimpse it, the vision fades. But the memory of that flash lingers within my mind.
-    I can recall it still, a glimpse of the fires of Gehenna.
-pyrokinetic-flare-power-metapsionic-feedback = Guh these don't even matter because nobody can read this line in-game and I don't know when I'm ever bringing back Narrow Pulse
+    На мгновение мой взор озаряет вспышка адского света и жара. Я вижу Гиенну — мир боли, голода и вечного огня.
+    Видение уходит, но отблеск остаётся. Я всё ещё чувствую этот жар внутри себя.
+pyrokinetic-flare-power-metapsionic-feedback = Да кому это вообще нужно? Никто не увидит это в игре, и я без понятия, зачем тут этот Narrow Pulse.
 # Summon Imp
-action-name-summon-imp = Summon Imp
-action-description-summon-imp = Summon and bind an Imp from Gehenna to serve as your Familiar.
+action-name-summon-imp = Призыв Беса
+action-description-summon-imp = Призови и подчини беса из Гиенны, чтобы тот стал твоим фамильяром.
 summon-imp-power-description = { action-description-summon-imp }
 summon-imp-power-initialization-feedback =
-    For a brief time, I find myself wandering the blackened fields of Gehenna. I sift between the ashes, finding a smoldering coal in the shape of an eye.
-    I breathe upon it, and it bursts alight with flame. Before I return, the creature thanks me and tells me its name.
+    Я брожу по почерневшим полям Гиенны, выискивая в пепле тлеющий уголёк в форме глаза.
+    Я дую на него — и он вспыхивает огнём. Перед уходом существо благодарит меня и называет своё имя.
 # Summon Remilia
-action-name-summon-remilia = Summon Remilia
-action-description-summon-remilia = Call forth your ever-loyal familiar Remilia.
+action-name-summon-remilia = Призыв Ремилии
+action-description-summon-remilia = Призови свою преданную фамильярку — Ремилию.
 summon-remilia-power-description = { action-description-summon-remilia }
 # Psionic System Messages
-mindbreaking-feedback = The light of life vanishes from { CAPITALIZE($entity) }'s eyes, leaving behind a husk pretending at sapience
-hard-mindbreaking-feedback = Your character's personhood has been obliterated. If you wish to continue playing, consider respawning as a new character.
+mindbreaking-feedback = Свет жизни гаснет в глазах { CAPITALIZE($entity) } — остаётся лишь оболочка, изображающая разум.
+hard-mindbreaking-feedback = Личность вашего персонажа разрушена до основания. Если хотите продолжить игру — начните с нового тела.
 examine-mindbroken-message =
-    Eyes unblinking, staring deep into the horizon. { CAPITALIZE($entity) } is a sack of meat pretending it has a soul.
-    There is nothing behind its gaze, no evidence there can be found of the divine light of creation.
-psionic-roll-failed = For a moment, my consciousness expands, yet I feel that it is not enough.
-entity-anomaly-no-grid = There is nowhere for me to conjure beings.
-power-overwhelming-power-feedback = { CAPITALIZE($entity) } wields a vast connection to the noösphere
+    Веки не мигают, взгляд устремлён в пустоту. { CAPITALIZE($entity) } — всего лишь мешок плоти, тщетно претендующий на душу.
+    В этом взгляде нет ни намёка на божественную искру, нет даже тени сознания.
+psionic-roll-failed = Мой разум расширяется на миг… но этого недостаточно.
+entity-anomaly-no-grid = Здесь нет якоря, к которому я мог бы привязать сотворённое.
+power-overwhelming-power-feedback = { CAPITALIZE($entity) } владеет безмерной связью с ноосферой.
 # DarkSwap
-action-name-darkswap = DarkSwap
-action-description-darkswap = Mmra Mamm!
-darkswap-power-initialization-feedback = For a short moment, I find myself able to break the realms. Phasing in the shadows and the dark, ready to travel to the darkest of places...
-ethereal-pickup-fail = My hand sizzles as it passes through...
+action-name-darkswap = Тёмный Перелом
+action-description-darkswap = Ммра Мамм!
+darkswap-power-initialization-feedback = Лишь на миг мне позволено разорвать завесу миров. Я скольжу в тенях, готовый шагнуть в самую бездну...
+ethereal-pickup-fail = Моя рука шипит, проходя сквозь...
 # Psionic Familiar System
-psionic-familiar-cant-attack-master = I am bound by my Master, I cannot harm them.
-psionic-familiar-despawn-text = { CAPITALIZE($entity) } returns from whence it came!
+psionic-familiar-cant-attack-master = Я связан с Повелителем. Причинить ему вред я не могу.
+psionic-familiar-despawn-text = { CAPITALIZE($entity) } уходит туда, откуда был призван!
 # Assay Power
-assay-begin = The air around { CAPITALIZE($entity) } begins to shimmer faintly
-assay-self = I AM.
-no-powers = { CAPITALIZE($entity) } will never awaken from the dream in this life
-assay-body = "My will cast upon { CAPITALIZE($entity) } divines these. Amplification: { $amplification } Dampening: { $dampening } Potentia: { $potentia }"
+assay-begin = Воздух вокруг { CAPITALIZE($entity) } начинает мерцать.
+assay-self = Я — ЕСМЬ.
+no-powers = { CAPITALIZE($entity) } так и не пробудится от сна в этой жизни.
+assay-body = "Я взываю к сущности { CAPITALIZE($entity) }: Усиление — { $amplification }, Подавление — { $dampening }, Потенция — { $potentia }."
 assay-power-initialization-feedback =
-    I descend into the dreamlight once more, there I drink more fully of the cup of knowledge. The touch of the noosphere upon others becomes known to me,
-    I can cast my will upon them, divining the inner nature of others.
-assay-power-metapsionic-feedback = { CAPITALIZE($entity) } bears a spark of the divine's judgment, they have drunk deeply of the cup of knowledge.
+    Я вновь погружаюсь в свет снов и жадно пью из чаши знания. Прикосновение ноосферы к другим становится для меня явным,
+    я способен прозреть их суть, накладывая волю на их души.
+assay-power-metapsionic-feedback = { CAPITALIZE($entity) } носит в себе искру суда высших сил — он пил из чаши познания.
 # Anoigo Power
-action-name-anoigo = Anoigo
-action-description-anoigo = Open locked and bolted doors.
+action-name-anoigo = Анойго
+action-description-anoigo = Вскрывает запертые и задвинутые двери.
 anoigo-power-initialization-feedback =
-    Knowledge arrived to me in a bottle alongside the shores of Entropy.
-    Gatekeepers of riches and secrets can be persuaded if you speak their tongue.
-anoigo-power-metapsionic-feedback = { CAPITALIZE($entity) } possesses the Gatekeeper's tongue.
+    Знание прибыло ко мне в бутылке, выброшенной на берег Энтропии.
+    Стражи сокровищ и тайн склонны к убеждению, если говорить на их языке.
+anoigo-power-metapsionic-feedback = { CAPITALIZE($entity) } владеет речью Вратаря.
 # Entity Specific Feedback Messages
-ifrit-feedback = A spirit of Gehenna, bound by the will of a powerful psychic
-prober-feedback = A mirror into the end of time, the screaming of dead stars emanates from this machine
-drain-feedback = A mirror into a realm where the stars sit still forever, a cold and distant malevolence stares back
-sophic-grammateus-feedback = SEEKER, YOU NEED ONLY ASK FOR MY WISDOM.
-oracle-feedback = WHY DO YOU BOTHER ME SEEKER? HAVE I NOT MADE MY DESIRES CLEAR?
-orecrab-feedback = Heralds of the Lord of Earth, summoned to this realm from Grome's kingdom
-reagent-slime-feedback = Heralds of the Lord of Water, summoned to this realm from Straasha's kingdom.
-flesh-golem-feedback = Abominations pulled from dead realms, twisted amalgamations of those fallen to the influence of primordial Chaos
-glimmer-mite-feedback = A semi-corporeal parasite native to the dreamlight, its presence here brings forth the screams of dead stars.
-anomaly-pyroclastic-feedback = A small mirror to the plane of Gehenna, truth lies within the Secret of Fire
-anomaly-gravity-feedback = Violet and crimson, blue of blue, impossibly dark yet greater than the whitest of white, a black star shines weakly at the end of it all
-anomaly-electricity-feedback = A mirror to a realm tiled by silicon, the lifeblood of artificial thought flows from it
-anomaly-flesh-feedback = From within it comes the suffering of damned mutants howling for all eternity
-anomaly-bluespace-feedback = A bridge of dreamlight, crossing into the space between realms of the multiverse
-anomaly-ice-feedback = Walls of blackened stone, ruin and famine wait for those who fall within
-anomaly-rock-feedback = A vast old oak dwells high over a plane of stone, it turns to stare back
-anomaly-flora-feedback = Musical notes drift around you, playfully beckoning, they wish to feast
-anomaly-liquid-feedback = A realm of twisting currents. Its placidity is a lie. The eyes within stare hungrilly
-anomaly-shadow-feedback = At the end of time, when all suns have set forever, there amidst the void stands a monument to past sins.
+ifrit-feedback = Дух Геенны, подчинённый воле могущественного псионика.
+prober-feedback = Зеркало в конец времён. Из машины доносится вой мёртвых звёзд.
+drain-feedback = Отражение мира, где звёзды замерли навеки. Из-за него смотрит безжалостный холодный разум.
+sophic-grammateus-feedback = ИСКАТЕЛЬ, ПРОСТО СПРОСИ — И ПОЛУЧИШЬ МОЮ МУДРОСТЬ.
+oracle-feedback = ПОЧЕМУ ТЫ МУЧАЕШЬ МЕНЯ, ИСКАТЕЛЬ? Я ВЕДЬ ЯСНО ВЫСКАЗАЛСЯ.
+orecrab-feedback = Глашатаи Владыки Земли, вызванные из царства Грома.
+reagent-slime-feedback = Глашатаи Владыки Воды, пришедшие из глубин Страаши.
+flesh-golem-feedback = Ужасные порождения погибших миров — исковерканные жертвы первозданного Хаоса.
+glimmer-mite-feedback = Полупрозрачный паразит из мира сновидений. Его присутствие сопровождается криками звёзд, давно угасших.
+anomaly-pyroclastic-feedback = Малое зеркало плана Геенны — в нём сокрыта Истина Огня.
+anomaly-gravity-feedback = Фиолетовое и багровое, синее внутри синего, темнее тьмы и ярче света — в конце времён мерцает чёрная звезда.
+anomaly-electricity-feedback = Отражение мира, вымощенного кремнием. Его ток — кровь искусственного разума.
+anomaly-flesh-feedback = Изнутри доносится неутихающий вой проклятых мутантов.
+anomaly-bluespace-feedback = Мост из снов, пересекающий границу между реальностями мультивселенной.
+anomaly-ice-feedback = Стены обугленного льда. Внутри ждут голод, холод и гибель.
+anomaly-rock-feedback = На каменной равнине стоит древний дуб, и он смотрит в ответ.
+anomaly-flora-feedback = Музыкальные ноты вьются в воздухе, игриво манят — но они хотят пировать.
+anomaly-liquid-feedback = Мир из зыбких течений. Его спокойствие — лишь маска. Внутренние глаза голодно наблюдают.
+anomaly-shadow-feedback = В конце времён, когда погаснут все солнца, среди пустоты встанет памятник грехам прошлого.
 anomaly-tech-feedback = A symphony of circuits, humming with unheard melodies. Within its core, a thousand futures flicker and fade, a digital oracle whispers prophecies of chrome.
 anomaly-santa-feedback = A cascade of shimmering starlight, the scent of cinnamon and pine hangs heavy in the air. Joyful laughter echoes from within, promising gifts and forgotten dreams.

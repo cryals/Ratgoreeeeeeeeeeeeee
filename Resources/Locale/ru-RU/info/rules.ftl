@@ -1,7 +1,7 @@
 # Rules
 
-ui-rules-header = Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after { $time } seconds.
+ui-rules-header = Правила сервера White Dream
+ui-rules-accept = Я ознакомился и согласен следовать правилам
+ui-rules-wait = Кнопка принятия будет разблокирована через { $time } секунд.
 ui-rules-button-home = Home
 ui-rules-button-back = Back

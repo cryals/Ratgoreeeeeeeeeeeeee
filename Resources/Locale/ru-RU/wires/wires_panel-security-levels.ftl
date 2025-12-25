@@ -1,8 +1,8 @@
 # Examination for different levels of wiring protection
-wires-panel-component-on-examine-security-level1 = There is a steel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level2 = A steel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level3 = There is a plasteel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level4 = A plasteel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level5 = The inside of the [color=lightgray]maintenance panel[/color] is protected by a security grille. Use [color=cyan]Wirecutters[/color] to remove  it.
-wires-panel-component-on-examine-security-level6 = A plasteel plate sits within the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level7 = A welded plasteel plate protects the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
+wires-panel-component-on-examine-security-level1 = Доступ к внутренней проводке преграждает стальная пластина. Используйте [color=cyan]лом[/color], чтобы снять ее.
+wires-panel-component-on-examine-security-level2 = К внутренней стороне [color=lightgray]панели обслуживания[/color] приварена стальная пластина. Используйте [color=cyan]сварку[/color], чтобы отварить ее.
+wires-panel-component-on-examine-security-level3 = Доступ к внутренней проводке закрыт пластиной из пластали. Используйте [color=cyan]лом[/color], чтобы снять ее.
+wires-panel-component-on-examine-security-level4 = К внутренней стороне [color=lightgray]панели обслуживания[/color] приварена пластина из пластали. Используйте [color=cyan]сварку[/color], чтобы отварить ее.
+wires-panel-component-on-examine-security-level5 = Внутренняя часть [color=lightgray]панели обслуживания[/color] защищена решеткой. Используйте [color=cyan]кусачки[/color], чтобы снять ее.
+wires-panel-component-on-examine-security-level6 = Внутри [color=lightgray]панели обслуживания[/color] находится пластина из пластали. Используйте [color=cyan]лом[/color], чтобы снять ее.
+wires-panel-component-on-examine-security-level7 = Сварная пластина из пластали защищает внутреннюю часть [color=lightgray]панели обслуживания[/color]. Используйте [color=cyan]сварку[/color], чтобы отварить ее.

@@ -1,73 +1,74 @@
-anomaly-component-contact-damage = The anomaly sears off your skin!
-anomaly-vessel-component-anomaly-assigned = Anomaly assigned to vessel.
-anomaly-vessel-component-not-assigned = This vessel is not assigned to any anomaly. Try using a scanner on it.
-anomaly-vessel-component-assigned = This vessel is currently assigned to an anomaly.
+anomaly-component-contact-damage = Аномалия сдирает с вас кожу!
+anomaly-vessel-component-anomaly-assigned = Аномалия присвоена сосуду.
+anomaly-vessel-component-not-assigned = Этому сосуду не присвоена ни одна аномалия. Попробуйте использовать на нём сканер.
+anomaly-vessel-component-assigned = Этому сосуду уже присвоена аномалия.
 anomaly-vessel-component-upgrade-output = point output
-anomaly-particles-delta = Delta particles
-anomaly-particles-epsilon = Epsilon particles
-anomaly-particles-zeta = Zeta particles
-anomaly-particles-omega = Omega particles
+anomaly-particles-delta = Дельта-частицы
+anomaly-particles-epsilon = Эпсилон-частицы
+anomaly-particles-zeta = Зета-частицы
+anomaly-particles-omega = Омега-частицы
 anomaly-particles-sigma = Sigma particles
-anomaly-scanner-component-scan-complete = Scan complete!
+anomaly-scanner-component-scan-complete = Сканирование завершено!
 anomaly-scanner-scan-copied = Copied anomaly scan data!
-anomaly-scanner-ui-title = anomaly scanner
-anomaly-scanner-no-anomaly = No anomaly currently scanned.
-anomaly-scanner-severity-percentage = Current severity: [color=gray]{ $percent }[/color]
+anomaly-scanner-ui-title = сканер аномалий
+anomaly-scanner-no-anomaly = Нет просканированной аномалии.
+anomaly-scanner-severity-percentage = Текущая опасность: [color=gray]{ $percent }[/color]
 anomaly-scanner-severity-percentage-unknown = Current severity: [color=red]ERROR[/color]
-anomaly-scanner-stability-low = Current anomaly state: [color=gold]Decaying[/color]
-anomaly-scanner-stability-medium = Current anomaly state: [color=forestgreen]Stable[/color]
-anomaly-scanner-stability-high = Current anomaly state: [color=crimson]Growing[/color]
+anomaly-scanner-stability-low = Текущее состояние аномалии: [color=gold]Распад[/color]
+anomaly-scanner-stability-medium = Текущее состояние аномалии: [color=forestgreen]Стабильное[/color]
+anomaly-scanner-stability-high = Текущее состояние аномалии: [color=crimson]Рост[/color]
 anomaly-scanner-stability-unknown = Current anomaly state: [color=red]ERROR[/color]
-anomaly-scanner-point-output = Point output: [color=gray]{ $point }[/color]
+anomaly-scanner-point-output = Пассивная генерация очков: [color=gray]{ $point }[/color]
 anomaly-scanner-point-output-unknown = Point output: [color=red]ERROR[/color]
-anomaly-scanner-particle-readout = Particle Reaction Analysis:
-anomaly-scanner-particle-danger = - [color=crimson]Danger type:[/color] { $type }
-anomaly-scanner-particle-unstable = - [color=plum]Unstable type:[/color] { $type }
-anomaly-scanner-particle-containment = - [color=goldenrod]Containment type:[/color] { $type }
+anomaly-scanner-particle-readout = Анализ реакции на частицы:
+anomaly-scanner-particle-danger = - [color=crimson]Опасный тип:[/color] { $type }
+anomaly-scanner-particle-unstable = - [color=plum]Нестабильный тип:[/color] { $type }
+anomaly-scanner-particle-containment = - [color=goldenrod]Сдерживающий тип:[/color] { $type }
 anomaly-scanner-particle-transformation = - [color=#6b75fa]Transformation type:[/color] { $type }
 anomaly-scanner-particle-danger-unknown = - [color=crimson]Danger type:[/color] [color=red]ERROR[/color]
 anomaly-scanner-particle-unstable-unknown = - [color=plum]Unstable type:[/color] [color=red]ERROR[/color]
 anomaly-scanner-particle-containment-unknown = - [color=goldenrod]Containment type:[/color] [color=red]ERROR[/color]
 anomaly-scanner-particle-transformation-unknown = - [color=#6b75fa]Transformation type:[/color] [color=red]ERROR[/color]
-anomaly-scanner-pulse-timer = Time until next pulse: [color=gray]{ $time }[/color]
-anomaly-gorilla-core-slot-name = Anomaly core
-anomaly-gorilla-charge-none = It has no [bold]anomaly core[/bold] inside of it.
+anomaly-scanner-pulse-timer = Время до следующего импульса: [color=gray]{ $time }[/color]
+anomaly-gorilla-core-slot-name = Ядро аномалии
+anomaly-gorilla-charge-none = Внутри нет [bold]ядра аномалии[/bold].
 anomaly-gorilla-charge-limit =
-    It has [color={ $count ->
+    Осталось [color={ $count ->
         [3] green
         [2] yellow
         [1] orange
         [0] red
        *[other] purple
     }]{ $count } { $count ->
-        [one] charge
-       *[other] charges
-    }[/color] remaining.
-anomaly-gorilla-charge-infinite = It has [color=gold]infinite charges[/color]. [italic]For now...[/italic]
-anomaly-sync-connected = Anomaly successfully attached
-anomaly-sync-disconnected = The connection to the anomaly has been lost!
-anomaly-sync-no-anomaly = No anomaly in range.
-anomaly-sync-examine-connected = It is [color=darkgreen]attached[/color] to an anomaly.
-anomaly-sync-examine-not-connected = It is [color=darkred]not attached[/color] to an anomaly.
-anomaly-sync-connect-verb-text = Attach anomaly
-anomaly-sync-connect-verb-message = Attach a nearby anomaly to { THE($machine) }.
-anomaly-generator-ui-title = Anomaly Generator
-anomaly-generator-fuel-display = Fuel:
-anomaly-generator-cooldown = Cooldown: [color=gray]{ $time }[/color]
-anomaly-generator-no-cooldown = Cooldown: [color=gray]Complete[/color]
-anomaly-generator-yes-fire = Status: [color=forestgreen]Ready[/color]
-anomaly-generator-no-fire = Status: [color=crimson]Not ready[/color]
-anomaly-generator-generate = Generate Anomaly
+        [one] заряд
+        [few] заряда
+       *[other] зарядов
+    }[/color].
+anomaly-gorilla-charge-infinite = В нем [color=gold]неограниченое количество зарядов[/color]. [italic]Пока что...[/italic]
+anomaly-sync-connected = Аномалия успешно привязана
+anomaly-sync-disconnected = Соединение с аномалией было потеряно!
+anomaly-sync-no-anomaly = Отсутствует аномалия в пределах диапазона.
+anomaly-sync-examine-connected = Он [color=darkgreen]присоединён[/color] к аномалии.
+anomaly-sync-examine-not-connected = Он [color=darkred]не присоединён[/color] к аномалии.
+anomaly-sync-connect-verb-text = Присоединить аномалию
+anomaly-sync-connect-verb-message = Присоединить близлежащую аномалию к { $machine }.
+anomaly-generator-ui-title = Генератор Аномалий
+anomaly-generator-fuel-display = Топливо:
+anomaly-generator-cooldown = Перезарядка: [color=gray]{ $time }[/color]
+anomaly-generator-no-cooldown = Перезарядка: [color=gray]Завершена[/color]
+anomaly-generator-yes-fire = Статус: [color=forestgreen]Готов[/color]
+anomaly-generator-no-fire = Статус: [color=crimson]Не готов[/color]
+anomaly-generator-generate = Создать Аномалию
 anomaly-generator-charges =
     { $charges ->
-        [one] { $charges } charge
-       *[other] { $charges } charges
+        [one] { $charges } заряд
+       *[other] { $charges } заряды
     }
-anomaly-generator-announcement = An anomaly has been generated!
-anomaly-command-pulse = Pulses a target anomaly
-anomaly-command-supercritical = Makes a target anomaly go supercritical
+anomaly-generator-announcement = Была сгенерирована аномалия!
+anomaly-command-pulse = Пульсирует аномалию
+anomaly-command-supercritical = Доводит аномалию до суперкритического состояния
 # Flavor text on the footer
-anomaly-generator-flavor-left = Anomaly may spawn inside the operator.
+anomaly-generator-flavor-left = Аномалия может возникнуть внутри пользователя.
 anomaly-generator-flavor-right = v1.1
 anomaly-behavior-unknown = [color=red]ERROR. Cannot be read.[/color]
 anomaly-behavior-title = behavior deviation analysis:

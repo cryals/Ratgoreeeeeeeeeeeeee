@@ -1,3 +1,3 @@
 spawn-items-verb = Использовать предмет
-disable-wheel-locks = Отключить блокировку колёс
-activate-wheel-locks = Активировать блокировку колёс
+disable-wheel-locks = Снять блокировку колёс
+activate-wheel-locks = Заблокировать колёса

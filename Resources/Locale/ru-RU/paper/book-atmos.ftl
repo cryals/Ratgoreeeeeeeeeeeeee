@@ -1,54 +1,35 @@
 book-text-atmos-distro =
-    The distribution network, or "distro" for short, is the station's lifeline. It's responsible for transporting air from atmospherics throughout the station.
-    
-    Relevant pipes are often painted Popping Subdued Blue, but a surefire way to identify them is to use a tray scanner to trace which pipes are connected to active vents on the station.
-    
-    The standard gas mix of the distribution network is 20 degrees celsius, 78% nitrogen, 22% oxygen. You can check this by using a gas analyzer on a distro pipe or any vent connected to it. Special circumstances may call for special mixes.
-    
-    When it comes to deciding on a distro pressure, there are a few things to consider. Active vents will regulate the station's pressure, so as long as everything is functioning properly, there's no such thing as too high of a distro pressure.
-    
-    A higher distro pressure will allow the distro network to act as a buffer between the gas miners and vents, providing a significant amount of extra air that can be used to re-pressurize the station after a spacing.
-    
-    A lower distro pressure will reduce the amount of gas lost in the event that the distro is spaced, a quick way to deal with distro contamination. It can also help slow or prevent over-pressurization of the station in the event of vent issues.
-    
-    Common distro pressures are in the range of 300-375 kPa, but other pressures can be used with knowledge of the risks and benefits.
-    
-    The pressure of the network is determined by the last pump pumping into it. To prevent bottlenecks, all other pumps between the miners and the last pump should be set to their maximum rate, and any unnecessary devices should be removed.
-    
-    You can validate the distro pressure with a gas analyzer, but keep in mind that high demand due to things like spacings can cause the distro to be below the set target pressure for extended periods. So, if you see a dip in pressure, don't panic - it might be temporary.
+    Распределительная сеть, или сокращенно "дистро", является спасательным кругом станции. Он отвечает за транспортировку воздуха из атмосферных источников по всей станции.
+    Соответствующие трубы часто окрашены в приглушенный синий цвет, но верный способ идентифицировать их - использовать Т-лучевой сканер, чтобы отследить, какие трубы подключены к активным вентиляционным отверстиям на станции.
+    Стандартная газовая смесь распределительной сети составляет 20 градусов Цельсия, 78% азота, 22% кислорода. Вы можете проверить это с помощью газоанализатора на распределительной трубе или любом подключенном к ней вентиляционном отверстии. Особые обстоятельства могут потребовать применения специальных смесей.
+    Когда дело доходит до выбора дистрибутива, есть несколько вещей, которые следует учитывать. Активные вентиляционные отверстия будут регулировать давление на станции, поэтому, пока все функционирует должным образом, не существует такой вещи, как слишком высокое давление в распределительном устройстве.
+    Более высокое давление в распределительной сети позволит распределительной сети действовать в качестве буфера между газовыми добытчиками и вентиляционными отверстиями, обеспечивая значительное количество дополнительного воздуха, который может быть использован для повторного повышения давления на станции после перерыва.
+    Более низкое давление в распределителе уменьшит количество газа, теряемого в случае разнесения распределителя, что является быстрым способом борьбы с загрязнением распределителя. Это также может помочь замедлить или предотвратить избыточное давление в станции в случае проблем с вентиляцией.
+    Обычное давление в распределительном устройстве находится в диапазоне 300-375 кПа, но при знании рисков и преимуществ можно использовать и другие давления.
+    Давление в сети определяется последним насосом, закачивающим в нее воду. Чтобы предотвратить "узкие места", все остальные насосы между добытчиками и последним насосом должны быть настроены на максимальную производительность, а все ненужные устройства должны быть удалены.
+    Вы можете проверить давление в распределителе с помощью газоанализатора, но имейте в виду, что высокий спрос из-за таких факторов, как расстояния, может привести к тому, что давление в распределителе будет ниже установленного целевого значения в течение длительного времени. Так что, если вы увидите падение давления, не паникуйте - это может быть временным.
 book-text-atmos-waste =
-    The waste network is the primary system responsible for keeping the air on the station free of contaminants.
-    
-    You can identify the relevant pipes by their Pleasing Dull Red color or by using a tray scanner to trace which pipes are connected to the scrubbers on the station.
-    
-    The waste network is used to transport waste gasses to either be filtered or spaced. It is ideal to keep the pressure at 0 kPa, but it may sometimes be at a low non-zero pressure while in use.
-    
-    Technicians have the option to filter or space the waste gasses. While spacing is faster, filtering allows for the gasses to be reused for recycling or selling.
-    
-    The waste network can also be used to diagnose atmospheric issues on the station. High levels of a waste gas may suggest a large leak, while the presence of non-waste gases may indicate a scrubber configuration or physical connection issue. If the gases are at a high temperature, it could indicate a fire.
+    Система отвода является основной системой, ответственной за очистку воздуха на станции от загрязняющих веществ.
+    Вы можете идентифицировать соответствующие трубы по их приятному тускло-красному цвету или с помощью Т-лучевого сканера отследить, какие трубы подключены к скрубберам на станции.
+    Система отвода используется для транспортировки отработанных газов либо для фильтрации, либо для разнесения по пространствам. Идеально поддерживать давление на уровне 0 кПа, но иногда во время использования оно может быть низким, отличным от нуля.
+    Технические ассистенты имеют возможность фильтровать отработанные газы или размещать их в пространстве. В то время как разделение происходит быстрее, фильтрация позволяет повторно использовать газы для переработки или продажи.
+    Сеть сбора отходов также может использоваться для диагностики атмосферных проблем на станции. Высокий уровень отходящего газа может свидетельствовать о большой утечке, в то время как наличие не отходящих газов может указывать на конфигурацию скруббера или проблему с физическим подключением. Если газы имеют высокую температуру, это может свидетельствовать о пожаре.
 book-text-atmos-alarms =
-    Air alarms are located throughout stations to allow management and monitoring of the local atmosphere.
-    
-    The air alarm interface provides technicians with a list of connected sensors, their readings, and the ability to adjust thresholds. These thresholds are used to determine the alarm condition of the air alarm. Technicians can also use the interface to set target pressures for vents and configure the operating speeds and targeted gases for scrubbers.
-    
-    While the interface allows for fine-tuning of the devices under the air alarm's control, there are also several modes available for rapid configuration of the alarm. These modes are automatically switched to when the alarm state changes:
-    - Filtering: The default mode
-    - Filtering (wide): A filtering mode that modifies the operation of scrubbers to scrub a wider area
-    - Fill: Disables scrubbers and sets vents to their maximum pressure
-    - Panic: Disables vents and sets scrubbers to siphon
-    
-    A multitool or network configurator can be used to link devices to air alarms.
+    Воздушная сигнализация расположена по всей станции, что позволяет управлять местной атмосферой и осуществлять мониторинг.
+    Интерфейс воздушной сигнализации предоставляет специалистам список подключенных датчиков, их показания и возможность настройки пороговых значений. Эти пороговые значения используются для определения аварийного состояния воздушной сигнализации. Технические ассистенты также могут использовать интерфейс для установки целевого давления для вентиляционных отверстий и настройки рабочих скоростей и целевых газов для скрубберов.
+    В то время как интерфейс позволяет осуществлять тонкую настройку устройств, находящихся под управлением воздушной сигнализации, также доступно несколько режимов для быстрой настройки сигнализации. Эти режимы автоматически переключаются при изменении состояния тревоги:
+        - Фильтрация: Режим по умолчанию
+        - Фильтрация (широкая): Режим фильтрации, который изменяет работу скрубберов для очистки более широкой площади
+        - Заполнение: отключает скрубберы и устанавливает максимальное давление в вентиляционных отверстиях.
+        - Паника: отключает вентиляционные отверстия и переводит скрубберы в режим сифона.
+    Для подключения устройств к воздушной сигнализации можно использовать мультитул.
 book-text-atmos-vents =
-    Below is a quick reference guide to several atmospheric devices:
-    
-                Passive Vents:
-                These vents don't require power, they allow gases to flow freely both into and out of the pipe network they are attached to.
-    
-                Active Vents:
-                These are the most common vents on the station. They have an internal pump, and require power. By default, they will only pump gases out of pipes, and only up to 101 kpa. However, they can be reconfigured using an air alarm. They will also lock out if the room is under 1 kpa, to prevent pumping gasses into space.
-    
-                Air Scrubbers:
-                These devices allow gases to be removed from the environment and put into the connected pipe network. They can be configured to select specific gases when connected to an air alarm.
-    
-                Air Injectors:
-                Injectors are similar to active vents, but they have no internal pump and do not require power. They cannot be configured, but they can continue to pump gasses up to much higher pressures.
+    Ниже приведено краткое справочное руководство по нескольким атмосферным устройствам:
+                Пассивная вентиляция:
+                Эти вентиляционные отверстия не требуют питания, они позволяют газам свободно поступать как в трубопроводную сеть, к которой они присоединены, так и из нее.
+                Активная вентиляция:
+                Это наиболее распространенные вентиляционные отверстия на станции. Они имеют внутренний насос и требуют питания. По умолчанию они будут откачивать газы только из труб и только до 101 кпа. Однако их можно перенастроить с помощью воздушной сигнализации. Они также блокируются, если давление в помещении ниже 1 кпа, чтобы предотвратить выброс газов в космос.
+                Скрубберы:
+                Эти устройства позволяют удалять газы из окружающей среды и направлять их в подключенную трубопроводную сеть. Они могут быть сконфигурированы для выбора определенных газов при подключении к воздушной сигнализации.
+                Инжекторы:
+                Инжекторы похожи на активную вентиляцию, но они не имеют внутреннего насоса и не требуют питания. Их невозможно сконфигурировать, но они могут продолжать перекачивать газы до гораздо более высоких давлений.

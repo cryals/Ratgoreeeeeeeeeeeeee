@@ -1,4 +1,4 @@
-plant-analyzer-printer-not-ready = Printer is not ready yet.
-plant-analyzer-window-scan-mode-active = Active
-plant-analyzer-window-scan-mode-inactive = Inactive
-plant-analyzer-window-entity-unknown-text = Unknown
+plant-analyzer-printer-not-ready = Принтер еще не готов.
+plant-analyzer-window-scan-mode-active = Активно
+plant-analyzer-window-scan-mode-inactive = Неактивно
+plant-analyzer-window-entity-unknown-text = Неизвестно

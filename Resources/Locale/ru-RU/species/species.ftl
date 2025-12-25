@@ -1,21 +1,21 @@
 ## Species Names
 
-species-name-human = Human
-species-name-dwarf = Dwarf
-species-name-reptilian = Unathi
-species-name-slime = Slime Person
-species-name-diona = Diona
-species-name-arachnid = Arachnid
-species-name-arachne = Arachne
-species-name-moth = Atyrian
-species-name-skeleton = Skeleton
-species-name-vox = Vox
+species-name-human = Человек
+species-name-dwarf = Дварф
+species-name-reptilian = Ящер
+species-name-slime = Слаймолюд
+species-name-diona = Диона
+species-name-arachnid = Арахнид
+species-name-arachne = Арахне
+species-name-moth = Моль
+species-name-skeleton = Скелет
+species-name-vox = Вокс
 species-name-gingerbread = delicious baked good
-species-name-ipc = IPC
+species-name-ipc = КПБ
 species-name-voidborn = Voidborn
-species-name-plasmaman = Plasmaman
+species-name-plasmaman = Плазмачеловек
 species-name-shell = Shell
 
 ## Misc species things
 
-snail-hurt-by-salt-popup = The salty solution burns like acid!
+snail-hurt-by-salt-popup = Соляной раствор жжёт как кислота!

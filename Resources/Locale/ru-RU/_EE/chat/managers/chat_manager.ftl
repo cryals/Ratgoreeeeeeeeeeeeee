@@ -1,1 +1,1 @@
-chat-speech-verb-name-xelthia = Xelthia
+chat-speech-verb-name-xelthia = Кселтия

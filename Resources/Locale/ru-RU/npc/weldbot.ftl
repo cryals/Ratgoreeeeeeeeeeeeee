@@ -1,2 +1,2 @@
-weldbot-start-weld = Hold still, please.
-weldbot-finish-weld = All done.
+weldbot-start-weld = Удерживайте неподвижность.
+weldbot-finish-weld = Сварка завершена.

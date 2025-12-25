@@ -1,2 +1,2 @@
-reagent-name-triple-citrus = triple citrus
-reagent-desc-triple-citrus = Three citruses a day keep liver failure at bay! Also helps with keeping your patrons in bar for longer.
+reagent-name-triple-citrus = тройной цитрус
+reagent-desc-triple-citrus = Три цитруса в день — и печень не подведёт! А заодно и клиент в баре задержится подольше.

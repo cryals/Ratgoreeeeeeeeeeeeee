@@ -1,9 +1,9 @@
-upgradeable-gun-popup-upgrade-limit = Maximum capacity for upgrades exceeded!
-upgradeable-gun-slot-name = Attachment slot { $value }
-upgradeable-gun-total-remaining-capacity = Total remaining capacity: { $value }
-gun-upgrade-examine-text-damage = Contains a [color=#ec9b2d][bold]damage[/bold][/color] upgrade.
-gun-upgrade-examine-text-range = Contains a [color=#2decec][bold]range[/bold][/color] upgrade.
-gun-upgrade-examine-text-reload = Contains a [color=#bbf134][bold]fire rate.[/bold][/color] upgrade.
-gun-upgrade-examine-text-light = Contains a [color=#bbf134][bold]light.[/bold][/color] upgrade.
-gun-upgrade-examine-text-vampirism = Contains a [color=crimson][bold]vampirism.[/bold][/color] upgrade.
-gun-upgrade-examine-text-capacity-cost = Requires { $value } capacity.
+upgradeable-gun-popup-upgrade-limit = Превышен лимит улучшений!
+upgradeable-gun-slot-name = Слот для модуля { $value }
+upgradeable-gun-total-remaining-capacity = Остаток ёмкости для модификаций: { $value }
+gun-upgrade-examine-text-damage = Содержит модуль [color=#ec9b2d][bold]урона[/bold][/color].
+gun-upgrade-examine-text-range = Содержит модуль [color=#2decec][bold]дальности[/bold][/color].
+gun-upgrade-examine-text-reload = Содержит модуль [color=#bbf134][bold]темпа стрельбы[/bold][/color].
+gun-upgrade-examine-text-light = Содержит модуль [color=#bbf134][bold]подсветки[/bold][/color].
+gun-upgrade-examine-text-vampirism = Содержит модуль [color=crimson][bold]вампиризма[/bold][/color].
+gun-upgrade-examine-text-capacity-cost = Требует { $value } ёмкости.

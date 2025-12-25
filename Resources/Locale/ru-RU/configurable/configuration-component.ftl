@@ -1,5 +1,5 @@
-configuration-menu-confirm = Confirm
-configuration-menu-device-title = Device Configuration
+configuration-menu-confirm = Подтвердить
+configuration-menu-device-title = Конфигурация устройств
 
 ## ConfigureVerb
 

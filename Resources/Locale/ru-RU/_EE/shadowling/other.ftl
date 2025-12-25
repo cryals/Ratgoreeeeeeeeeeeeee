@@ -1,8 +1,8 @@
-shadowling-on-try-equip-clothes = This is fruitless to you...
-reagent-name-shadowling-toxin = shadowling toxin
-reagent-desc-shadowling-toxin = A mysterious chemical that makes heals any shadowling and their thralls, but blinds anyone else
-alerts-shadowling-light-name = Light Identifier
-alerts-shadowling-light-desc = This is your light identifier. If it reaches 0, you start taking damage. Prioritize standing in the shadows.
-chat-manager-shadowling-channel-name = Shadowmind
-shadowling-dead = You strangely regain your mind.
-shadowling-thrall-examined = This is your Thrall.
+shadowling-on-try-equip-clothes = Бессмысленно... эта оболочка тебе чужда.
+reagent-name-shadowling-toxin = токсин тенелингов
+reagent-desc-shadowling-toxin = Загадочное вещество, исцеляющее Тенелингов и их порабощённых… но ослепляющее всех прочих.
+alerts-shadowling-light-name = Индикатор Света
+alerts-shadowling-light-desc = Это твой индикатор света. Когда он опустится до нуля — ты начнёшь умирать. Оставайся в тенях.
+chat-manager-shadowling-channel-name = Разум Тени
+shadowling-dead = Ты странным образом вновь обретаешь своё сознание.
+shadowling-thrall-examined = Это твой Порабощённый.

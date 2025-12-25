@@ -1,35 +1,35 @@
-psionics-records-console-window-title = Psionics Registry Records
-psionics-records-console-records-list-title = Crewmembers
-psionics-records-console-select-record-info = Select a record.
-psionics-records-console-no-records = No records found!
-psionics-records-console-no-record-found = No record was found for the selected person.
+psionics-records-console-window-title = Записи реестра псиоников
+psionics-records-console-records-list-title = Члены экипажа
+psionics-records-console-select-record-info = Выберите запись.
+psionics-records-console-no-records = Записи не найдены!
+psionics-records-console-no-record-found = Запись для выбранного человека не найдена.
 
 ## Status
 
-psionics-records-console-status = Status
-psionics-records-status-none = None
-psionics-records-status-registered = Registered Psionic
-psionics-records-status-suspected = Suspected Psionics
-psionics-records-status-abusing = Abusing Psionics
-psionics-records-console-wanted-reason = [color=gray]Psionics Listed[/color]
-psionics-records-console-suspected-reason = [color=gray]Suspected Reason[/color]
-psionics-records-console-reason = Psionics/Reason
-psionics-records-console-reason-placeholder = For example: { $placeholder }
-psionics-records-permission-denied = Permission denied
+psionics-records-console-status = Статус
+psionics-records-status-none = Отсутствует
+psionics-records-status-registered = Зарегистрированный псионик
+psionics-records-status-suspected = Подозреваемый в псионических способностях
+psionics-records-status-abusing = Злоупотребление псионическими способностями
+psionics-records-console-wanted-reason = [color=gray]Занесенный в список псиоников[/color]
+psionics-records-console-suspected-reason = [color=gray]Причина подозрения[/color]
+psionics-records-console-reason = Псионика/Причина
+psionics-records-console-reason-placeholder = Например: { $placeholder }
+psionics-records-permission-denied = Доступ запрещен
 
 ## Security channel notifications
 
-psionics-records-console-registered = { $name } is registered as psionic by { $officer }: { $reason }.
-psionics-records-console-suspected = { $officer } marked { $name } as a possible psionic because of: { $reason }.
-psionics-records-console-not-suspected = { $name } is no longer a suspected psionic.
-psionics-records-console-not-registered = { $name } is no longer registered as psionic.
-psionics-records-console-abusing = { $officer } marked { $name } as abusing psionics because of: { $reason }.
-psionics-records-console-not-abusing = { $name } is no longer marked as abusing psionics.
-psionics-records-console-unknown-officer = <unknown officer>
+psionics-records-console-registered = { $name } зарегистрирован как псионик { $officer }: { $reason }.
+psionics-records-console-suspected = { $officer } отметил { $name } как возможного псионика из-за: { $reason }.
+psionics-records-console-not-suspected = { $name } больше не подозревается в псионических способностях.
+psionics-records-console-not-registered = { $name } больше не зарегистрирован как псионик.
+psionics-records-console-abusing = { $officer } отметил { $name } как злоупотребляющего псионическими способностями из-за: { $reason }.
+psionics-records-console-not-abusing = { $name } больше не отмечается как злоупотребляющий псионическими способностями.
+psionics-records-console-unknown-officer = <неизвестный офицер>
 
 ## Filters
 
-psionics-records-filter-placeholder = Input text and press "Enter"
-psionics-records-name-filter = Name
-psionics-records-prints-filter = Fingerprints
-psionics-records-dna-filter = DNA
+psionics-records-filter-placeholder = Введите текст и нажмите "Enter"
+psionics-records-name-filter = Имя
+psionics-records-prints-filter = Отпечатки пальцев
+psionics-records-dna-filter = ДНК

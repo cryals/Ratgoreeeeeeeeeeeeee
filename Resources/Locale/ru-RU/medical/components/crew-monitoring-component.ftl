@@ -1,15 +1,15 @@
 ## UI
 
-crew-monitoring-user-interface-title = Crew Monitoring Console
+crew-monitoring-user-interface-title = Мониторинг экипажа
 crew-monitor-filter-line-placeholder = Filter
-crew-monitoring-user-interface-name = Name
-crew-monitoring-user-interface-job = Job:
-crew-monitoring-user-interface-status = Status
-crew-monitoring-user-interface-location = Location
-crew-monitoring-user-interface-alive = Alive
-crew-monitoring-user-interface-dead = Dead
-crew-monitoring-user-interface-no-info = N/A
-crew-monitoring-user-interface-no-server = Server not found
-crew-monitoring-user-interface-no-department = Unknown
-crew-monitoring-user-interface-flavor-left = In case of an emergency, contact station medical staff immediately
+crew-monitoring-user-interface-name = Имя
+crew-monitoring-user-interface-job = Должность
+crew-monitoring-user-interface-status = Состояние
+crew-monitoring-user-interface-location = Местоположение
+crew-monitoring-user-interface-alive = Жив
+crew-monitoring-user-interface-dead = Мертв
+crew-monitoring-user-interface-no-info = Н/Д
+crew-monitoring-user-interface-no-server = СЕРВЕР НЕ НАЙДЕН
+crew-monitoring-user-interface-no-department = Неизвестно
+crew-monitoring-user-interface-flavor-left = В случае проишествия, сразу же вызовите медицинский персонал.
 crew-monitoring-user-interface-flavor-right = v1.7

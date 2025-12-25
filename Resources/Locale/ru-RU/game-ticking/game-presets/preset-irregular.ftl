@@ -1,4 +1,4 @@
-irregular-title = Irregular
-irregular-description = Threat level varies throughout the shift. Sometimes it's a paradise, sometimes it's a disaster.
-irregular-extended-title = Irregular Extended
-irregular-extended-description = A rather calm experience with occasional spikes of threats.
+irregular-title = Непредсказуемость
+irregular-description = Уровень угроз меняется на протяжении смены. Порой это рай, порой — катастрофа.
+irregular-extended-title = Непредсказуемость: Спокойствие
+irregular-extended-description = В целом мирная смена, иногда — с внезапными всплесками опасности.

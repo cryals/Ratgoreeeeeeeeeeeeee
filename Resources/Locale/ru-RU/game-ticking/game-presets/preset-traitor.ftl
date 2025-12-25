@@ -1,47 +1,47 @@
 ## Traitor
 
-traitor-round-end-codewords = The codewords were: [color=White]{ $codewords }[/color]
-traitor-round-end-agent-name = traitor
-objective-issuer-syndicate = [color=crimson]The Syndicate[/color]
+traitor-round-end-codewords = Кодовыми словами были: [color=White]{ $codewords }[/color]
+traitor-round-end-agent-name = предатель
+objective-issuer-syndicate = [color=crimson]Синдикат[/color]
 objective-issuer-unknown = Unknown
 
 # Shown at the end of a round of Traitor
 
-traitor-title = Traitor
-traitor-description = There are traitors among us...
-traitor-not-enough-ready-players = Not enough players readied up for the game! There were { $readyPlayersCount } players readied up out of { $minimumPlayers } needed. Can't start Traitor.
-traitor-no-one-ready = No players readied up! Can't start Traitor.
+traitor-title = Предатель
+traitor-description = Среди нас есть предатели...
+traitor-not-enough-ready-players = Недостаточно игроков готовы к игре! Из { $minimumPlayers } необходимых игроков готовы { $readyPlayersCount }. Невозможно начать режим Предатель
+traitor-no-one-ready = Нет готовых игроков! Не удалось начать режим Предателя.
 
 ## TraitorDeathMatch
 
-traitor-death-match-title = Traitor Deathmatch
-traitor-death-match-description = Everyone's a traitor. Everyone wants each other dead.
-traitor-death-match-station-is-too-unsafe-announcement = The station is too unsafe to continue. You have one minute.
-traitor-death-match-end-round-description-first-line = The PDAs recovered afterwards...
-traitor-death-match-end-round-description-entry = { $originalName }'s PDA, with { $tcBalance } TC
+traitor-death-match-title = Бой насмерть предателей
+traitor-death-match-description = Все — предатели. Все хотят смерти друг друга.
+traitor-death-match-station-is-too-unsafe-announcement = На станции слишком опасно, чтобы продолжать. У вас есть одна минута.
+traitor-death-match-end-round-description-first-line = ПДА были восстановлены...
+traitor-death-match-end-round-description-entry = ПДА { $originalName }, с { $tcBalance } ТК
 
 ## TraitorRole
 
 # TraitorRole
 traitor-role-greeting =
-    You are an agent sent by { $corporation } on behalf of The Syndicate.
-    Your objectives and codewords are listed in the character menu.
-    Use your uplink to buy the tools you'll need for this mission.
-    Death to Nanotrasen!
+    Вы - агент Синдиката.
+    Ваши цели и кодовые слова перечислены в меню персонажа.
+    Воспользуйтесь аплинком, встроенным в ваш ПДА, чтобы приобрести всё необходимое для выполнения работы.
+    Смерть  Nanotrasen!
 traitor-role-codewords =
-    The codewords are:
+    Кодовые слова следующие:
     { $codewords }.
-    Codewords can be used in regular conversation to identify yourself discretely to other syndicate agents.
-    Listen for them, and keep them secret.
+    Кодовые слова можно использовать в обычном разговоре, чтобы незаметно идентифицировать себя для других агентов Синдиката.
+    Прислушивайтесь к ним и храните их в тайне.
 traitor-role-uplink-code =
-    Set your ringtone to the notes { $code } to lock or unlock your uplink.
-    Remember to lock it after, or the stations crew will easily open it too!
+    Установите мелодия рингтона на { $code } чтобы разблокировать аплинк.
+    Не забудьте заблокировать его после этого, иначе сотрудники станции тоже легко откроют его!
 traitor-role-uplink-implant =
-    Your uplink implant has been activated, access it from your hotbar.
-    The uplink is secure unless someone removes it from your body.
+    Ваш имплант аплинк активирован, воспользуйтесь им из хотбара.
+    Аплинк надежно защищён, пока кто-нибудь не извлечёт его из вашего тела.
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =
-    The codewords are:
+    Кодовые слова::
     { $codewords }.
-traitor-role-uplink-code-short = Your uplink code is { $code }. Set it as your PDA ringtone to access uplink.
-traitor-role-uplink-implant-short = Your uplink was implanted. Access it from your hotbar.
+traitor-role-uplink-code-short = Код от вашего аплинка - { $code }. Установите его в качестве рингтона ПДА для доступа к аплинку.
+traitor-role-uplink-implant-short = Ваш аплинк был имплантирован. Воспользуйтесь им из хотбара.

@@ -1,3 +1,3 @@
-set-station-ai-name-command-description = Sets a specific uid to be given a Station AI name at random.
-set-station-ai-name-command-help-text = Usage: { $command } <entityUid>
-set-station-ai-name-command-no-station-ai = No station AI job prototype found.
+set-station-ai-name-command-description = Устанавливает для указанного объекта случайное имя для ИИ станции.
+set-station-ai-name-command-help-text = Использование: { $command } <entityUid>
+set-station-ai-name-command-no-station-ai = Прототип должности ИИ станции не найден.

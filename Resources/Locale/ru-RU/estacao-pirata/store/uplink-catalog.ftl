@@ -1,2 +1,2 @@
-uplink-syndicate-deck-name = Syndicate Deck Box
-uplink-syndicate-deck-desc = A deck box with the standard 53 playing cards with syndicate branding. Please gamble responsibly.
+uplink-syndicate-deck-name = Коробка карт Синдиката
+uplink-syndicate-deck-desc = Коробка карт со стандартной колодой из 53 игральных карт с символикой Синдиката. Пожалуйста, играйте ответственно.

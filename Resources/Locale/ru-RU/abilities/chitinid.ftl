@@ -1,2 +1,2 @@
-chitzite-mask = Take off your { $mask } first.
-chitzite-cough = { CAPITALIZE(THE($name)) } starts coughing up a hunk of Chitzite!
+chitzite-mask = Сначала снимите { $mask }.
+chitzite-cough = { CAPITALIZE($name) } начинает кашлять куском Хитинида!

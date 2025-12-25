@@ -1,8 +1,8 @@
-reagent-name-potash = potash
-reagent-desc-potash = Potassium in a water-soluble form, originally created by soaking and boiling off wood ash. Used primarily as a fertilizer for plants.
-reagent-name-saltpeter = saltpeter
-reagent-desc-saltpeter = A potent source of nutrition for plants, but also used as an oxidizer in the creation of black powder.
-reagent-name-blackpowder = black powder
-reagent-desc-blackpowder = A primitive yet powerful explosive. Explodes when heated to 474K!
-reagent-name-cryostylane = cryostylane
-reagent-desc-cryostylane = A useful chemical, consumes oxygen or iodine to cool down the solution it's in.
+reagent-name-potash = поташ
+reagent-desc-potash = Водорастворимая форма калия, изначально получаемая путём вываривания древесной золы. В основном используется как удобрение для растений.
+reagent-name-saltpeter = селитра
+reagent-desc-saltpeter = Мощный источник питания для растений, а также окислитель, применяемый в производстве чёрного пороха.
+reagent-name-blackpowder = чёрный порох
+reagent-desc-blackpowder = Примитивное, но мощное взрывчатое вещество. Взрывается при нагревании до 474 К!
+reagent-name-cryostylane = криостилан
+reagent-desc-cryostylane = Полезный химикат, поглощает кислород или йод, охлаждая раствор, в котором находится.

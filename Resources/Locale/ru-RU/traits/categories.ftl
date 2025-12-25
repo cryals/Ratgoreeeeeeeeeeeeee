@@ -2,13 +2,13 @@
 
 trait-category-Uncategorized = Без категории
 trait-category-Auditory = Слуховые
-trait-category-Mental = Психические
+trait-category-Mental = Ментальные
 trait-category-Physical = Физические
-trait-category-Psionics = Псионика
-trait-category-TraitsPsionicsCasterTypes = Тип псикастера
-trait-category-TraitsPsionicsFeats = Способности
-trait-category-TraitsPsionicsPowers = Силы
-trait-category-Speech = Речь
+trait-category-Psionics = Psionics
+trait-category-TraitsPsionicsCasterTypes = Psicaster Type
+trait-category-TraitsPsionicsFeats = Feats
+trait-category-TraitsPsionicsPowers = Powers
+trait-category-Speech = Речевые
 trait-category-TraitsSpeechUncategorized = Без категории
 trait-category-TraitsSpeechAccents = Акценты
 trait-category-TraitsSpeechLanguages = Языки

@@ -1,40 +1,40 @@
-devil-contract-contractee = contractee
-devil-contract-contractor = contractor
-devil-contract-early-sign-failed = The contractor must wait for the contractee to sign first!
-devil-contract-no-soul-sign-failed = You do not have a soul to sell!
-devil-sign-invalid-user = You do not have the power to fulfill this contract!
-devil-contract-mind-shielded-failed = A voice comes from your Nanotrasen™ mindshield. "Nice try."
-contract-summon-flavor = { $name }'s hand bursts into flames before revealing a black roll of parchment...
-burn-contract-prompt = Burn contract.
-burn-contract-popup-success = The contract bursts into flames! It seems someones fate has been sealed...
-burn-contract-popup-fail = You cannot burn a contract during a deal!
-contract-victim-signed = A chill runs down your spine as you lift the pen...
-contract-devil-signed = The contract pulses with dark energy...
-contract-soul-added = You gain another soul in your possession...
-contract-uneven-odds = These odds aren't fair. You need { $number } more contract weight.
-devil-contract-examined = This contract has a weight of: { $weight }.
-devil-deal-time-ran-out = Your vision goes black as your muscles fail you. You've run out of time.
-revival-contract-accepted = You feel your connection to your body strengthen...
-revival-contract-rejected = You reject the unholy offer.
-revival-contract-expired = Times up.
-revival-contract-prompt = { $offerer } offers to restore your life for a price... Do you accept?
-revival-contract-use-success = You offer { $target } a deal no man could refuse...
-revival-contract-use-failed = You cannot offer { $target } this deal.
-revival-contract-prompt-reject = Reject Offer
-revival-contract-prompt-accept = Accept Offer
-revival-contract-menu-title = Contract From the Depths
-revival-contract-menu-prompt = Sell your soul for a second chance?
+devil-contract-contractee = контрактник
+devil-contract-contractor = контрактант
+devil-contract-early-sign-failed = Контрактант должен дождаться, пока первым распишется контрактник!
+devil-contract-no-soul-sign-failed = У тебя нет души, чтобы продать. Печально.
+devil-sign-invalid-user = У тебя нет власти исполнять условия этого контракта!
+devil-contract-mind-shielded-failed = Твой имплант защиты разума, изготовленный Nanotrasen™, проецирует слова тебе в мозг: «Nice Try».
+contract-summon-flavor = Рука { $name } вспыхивает пламенем, и в огне возникает чёрный свиток пергамента...
+burn-contract-prompt = Сжечь контракт.
+burn-contract-popup-success = Контракт вспыхивает пламенем! Кажется, чья-то судьба была определена...
+burn-contract-popup-fail = Контракт нельзя сжечь во время сделки!
+contract-victim-signed = По спине пробегает холод, когда ты поднимаешь перо...
+contract-devil-signed = Контракт пульсирует тьмой и жаждой...
+contract-soul-added = Ещё одна душа пополняет твою коллекцию...
+contract-uneven-odds = Сделка не сбалансирована. Требуется ещё { $number } веса контракта.
+devil-contract-examined = Вес этого контракта: { $weight }.
+devil-deal-time-ran-out = Тьма застилает глаза, мышцы подкашиваются. Время вышло.
+revival-contract-accepted = Ты ощущаешь, как связь с телом крепнет...
+revival-contract-rejected = Ты отвергаешь нечестивое предложение.
+revival-contract-expired = Срок вышел.
+revival-contract-prompt = { $offerer } предлагает вернуть тебе жизнь... но за определённую цену. Принять сделку?
+revival-contract-use-success = Ты предлагаешь { $target } сделку, от которой невозможно отказаться...
+revival-contract-use-failed = Ты не можешь предложить эту сделку { $target }.
+revival-contract-prompt-reject = Отклонить сделку
+revival-contract-prompt-accept = Принять сделку
+revival-contract-menu-title = Контракт из Бездны
+revival-contract-menu-prompt = Продашь душу ради второго шанса?
 default-contract-content =
-    This binding contract made this day between:
+    Настоящим заключён обязывающий контракт между:
     
-    - The Infernal Party (Hereinafter "Contractor")
-    - The Mortal Party (Hereinafter "Contractee")
+    - Стороной Инфернальной (именуемой далее «Контрактант»)
+    - Стороной Смертной (именуемой далее «Контрактник»)
     
-    { "[" }bold]Clauses of Binding:{ "[" }/bold]
-    { "[" }italic]The following parties give up the following possessions{ "[" }/italic{ "]" }
+    { "[" }bold]ОБЯЗУЮЩИЕ ПУНКТЫ:{ "[" }/bold]
+    { "[" }italic]Следующие стороны передают следующие владения{ "[" }/italic{ "]" }
     
-    Contractee: Soul Ownership
-    Contractee: Death
+    Контрактник: Soul Ownership
+    Контрактник: Death
     
-    { "[" }italic]All clauses come into effect upon signing of this paper by both parties.{ "[" }/italic]
-    { "[" }italic]{ "[" }color=#ac3a0d]Clauses may not be broken. Ever.{ "[" }/color]{ "[" }/italic]
+    { "[" }italic]Все пункты вступают в силу сразу после подписания обеими сторонами.{ "[" }/italic]
+    { "[" }italic]{ "[" }color=#ac3a0d]Нарушение пунктов контракта недопустимо. Никогда.{ "[" }/color]{ "[" }/italic]

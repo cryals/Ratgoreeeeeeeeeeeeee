@@ -1,46 +1,56 @@
 ## Delay shuttle round end
 
-emergency-shuttle-command-round-desc = Останавливает таймер, завершающий раунд, когда аварийный шаттл выходит из гиперпространства.
-emergency-shuttle-command-round-yes = Раунд задержан.
-emergency-shuttle-command-round-no = Не удалось задержать завершение раунда.
+emergency-shuttle-command-round-desc = Останавливает таймер окончания раунда, когда эвакуационный шаттл покидает гиперпространство.
+emergency-shuttle-command-round-yes = Раунд продлён.
+emergency-shuttle-command-round-no = Невозможно продлить окончание раунда.
 
 ## Dock emergency shuttle
 
-emergency-shuttle-command-dock-desc = Вызывает аварийный шаттл и стыкует его со станцией... если это возможно.
+emergency-shuttle-command-dock-desc = Вызывает спасательный шаттл и пристыковывает его к станции... если это возможно.
 
 ## Launch emergency shuttle
 
-emergency-shuttle-command-launch-desc = Выполняет досрочный запуск аварийного шаттла, если это возможно.
+emergency-shuttle-command-launch-desc = Досрочно запускает эвакуационный шаттл, если это возможно.
 
 # Emergency shuttle
 
-emergency-shuttle-left = Аварийный шаттл покинул станцию. До прибытия на ЦентКомм примерно { $transitTime } секунд.
-emergency-shuttle-launch-time = Аварийный шаттл стартует через { $consoleAccumulator } секунд.
-emergency-shuttle-docked = Аварийный шаттл пристыковался { $direction } от станции, { $location }. Он улетит через { $time } секунд.{ $extended }
-emergency-shuttle-good-luck = Аварийный шаттл не смог найти станцию. Удачи.
-emergency-shuttle-nearby = Аварийный шаттл не смог найти подходящий стыковочный порт. Он вышел из варпа { $direction } от станции, { $location }. Он улетит через { $time } секунд.{ $extended }
-emergency-shuttle-extended = { " " }Время запуска было продлено из-за неблагоприятных обстоятельств.
+emergency-shuttle-left = Эвакуационный шаттл покинул станцию. Расчетное время прибытия шаттла на станцию ЦентКома - { $transitTime } секунд.
+emergency-shuttle-launch-time = Эвакуационный шаттл будет запущен через { $consoleAccumulator } секунд.
+emergency-shuttle-docked = Эвакуационный шаттл пристыковался на { $direction }е станции, { $location }. Он покинет станцию через { $time } секунд.{ $extended }
+emergency-shuttle-good-luck = Эвакуационный шаттл не может найти станцию. Удачи.
+emergency-shuttle-nearby = Эвакуационный шаттл не может найти подходящий стыковочный шлюз. Он дрейфует на { $direction }е от станции, { $location }. Он покинет станцию через { $time } секунд.{ $extended }
+emergency-shuttle-extended = { " " }Время до запуска было увеличено из-за неблагоприятных обстоятельств.
 
 # Emergency shuttle console popup / announcement
 
 emergency-shuttle-console-no-early-launches = Досрочный запуск отключён
-emergency-shuttle-console-auth-left = До досрочного запуска требуется авторизаций: { $remaining }.
-emergency-shuttle-console-auth-revoked = Авторизация досрочного запуска отозвана, требуется авторизаций: { $remaining }.
+emergency-shuttle-console-auth-left =
+    { $remaining } { $remaining ->
+        [one] авторизация осталась
+        [few] авторизации остались
+       *[other] авторизации остались
+    } для досрочного запуска шаттла.
+emergency-shuttle-console-auth-revoked =
+    Авторизации на досрочный запуск шаттла отозваны, { $remaining } { $remaining ->
+        [one] авторизация необходима
+        [few] авторизации необходимы
+       *[other] авторизации необходимы
+    }.
 emergency-shuttle-console-denied = Доступ запрещён
 
 # UI
 
-emergency-shuttle-console-window-title = Консоль аварийного шаттла
+emergency-shuttle-console-window-title = Консоль эвакуационного шаттла
 emergency-shuttle-ui-engines = ДВИГАТЕЛИ:
-emergency-shuttle-ui-idle = Ожидание
-emergency-shuttle-ui-repeal-all = Отозвать все
-emergency-shuttle-ui-early-authorize = Авторизация досрочного запуска
-emergency-shuttle-ui-authorize = АВТОРИЗОВАТЬ
-emergency-shuttle-ui-repeal = ОТОЗВАТЬ
+emergency-shuttle-ui-idle = Простой
+emergency-shuttle-ui-repeal-all = Повторить всё
+emergency-shuttle-ui-early-authorize = Разрешение на досрочный запуск
+emergency-shuttle-ui-authorize = АВТОРИЗОВАТЬСЯ
+emergency-shuttle-ui-repeal = ПОВТОРИТЬ
 emergency-shuttle-ui-authorizations = Авторизации
 emergency-shuttle-ui-remaining = Осталось: { $remaining }
 
 # Map Misc.
 
-map-name-centcomm = Центральное командование
-map-name-terminal = Терминал прибытия
+map-name-centcomm = Центральное Командование
+map-name-terminal = Терминал Прибытия

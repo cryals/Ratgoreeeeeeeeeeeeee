@@ -1,4 +1,4 @@
-action-name-fabricate-lollipop = Fabricate Lollipop
-action-description-fabricate-lollipop = Fabricate a lollipop that contains a small dose of Omnizine.
-action-name-fabricate-gumball = Fabricate Gumball
-action-description-fabricate-gumball = Fabricate a gumball full of sugar and medicine to treat small injuries.
+action-name-fabricate-lollipop = Создать леденец
+action-description-fabricate-lollipop = Создать леденец с малым содержанием Омнизина.
+action-name-fabricate-gumball = Создать жвачку
+action-description-fabricate-gumball = Создать жвачку из сахара и лекарств для лечения небольших травм.

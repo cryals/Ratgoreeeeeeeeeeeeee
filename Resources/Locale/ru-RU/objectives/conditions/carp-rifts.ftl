@@ -1,2 +1,12 @@
-objective-carp-rifts-title = Open { $count } carp rifts
-objective-carp-rifts-description = Use the rift action to open { $count } rifts and ensure they do not get destroyed. If you don't open a rift after 5 minutes, you get killed.
+objective-carp-rifts-title =
+    Открыть { $count } { $count ->
+        [one] карповый разлом
+        [few] карповых разлома
+       *[other] карповых разломов
+    }
+objective-carp-rifts-description =
+    Откройте { $count } { $count ->
+        [one] карповый разлом
+        [few] карповых разлома
+       *[other] карповых разломов
+    } и не допустите их разрушения. Если вы не откроете разлом через 5 минут, вас убьют.

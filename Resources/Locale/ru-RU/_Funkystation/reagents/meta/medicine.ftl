@@ -1,2 +1,2 @@
-reagent-name-deunomia = deunomia
-reagent-desc-deunomia = A highly potent mixture of chemicals used in ancient times to destroy cancerous cells. It may hold use against any parasitic infections.
+reagent-name-deunomia = деуномия
+reagent-desc-deunomia = Высокоактивная смесь химических соединений, использовавшаяся в древности для уничтожения раковых клеток. Возможно, эффективна и против паразитарных инфекций.

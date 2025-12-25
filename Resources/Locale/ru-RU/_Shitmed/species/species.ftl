@@ -1,2 +1,2 @@
-species-name-monkey = обезьяна
-species-name-kobold = кобольд
+species-name-monkey = Обезьяна
+species-name-kobold = Кобольд

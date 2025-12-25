@@ -1,2 +1,2 @@
-roles-antag-changeling-name = Changeling
-roles-antag-changeling-description = Use your shapeshifting abilities to complete your objectives.
+roles-antag-changeling-name = Генокрад
+roles-antag-changeling-description = Используйте свои способности к превращению, чтобы выполнить поставленные цели.

@@ -1,2 +1,2 @@
-reagent-name-alien-blood = alien blood
-reagent-desc-alien-blood = The creature this bled from is not of this galaxy. Maybe it's grape flavoured.
+reagent-name-alien-blood = кровь инопланетянина
+reagent-desc-alien-blood = Существо, из которого это вытекло, точно не из этой галактики. Возможно, со вкусом винограда.

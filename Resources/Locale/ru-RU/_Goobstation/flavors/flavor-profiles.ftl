@@ -1,1 +1,1 @@
-flavor-base-alienblood = alien
+flavor-base-alienblood = инопланетянин

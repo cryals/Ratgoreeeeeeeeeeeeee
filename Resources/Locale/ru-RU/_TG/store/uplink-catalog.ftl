@@ -1,6 +1,6 @@
 # Bloodred Modsuit
-uplink-modsuit-bloodred-name = EE-99MS "Raider" Modsuit
-uplink-modsuit-bloodred-desc = A mass production model of a modular-tacsuit that once made headlines for its showings in Solarian media. After being rejected in favor of the Shanlin tacsuit, these suits have mysteriously become commonplace among frontier pirate crews.
+uplink-modsuit-bloodred-name = EE-99MS "Рейдер" Модсьют
+uplink-modsuit-bloodred-desc = Серийная модель модульного тактического костюма, некогда нашумевшая в солярианских СМИ. После отказа в пользу тактического костюма Shanlin, эти костюмы таинственным образом стали обычным явлением среди приграничных пиратских команд.
 # Elite Modsuit
-uplink-modsuit-elitemodsuit-name = EE-122MS "Jaeger" Modsuit
-uplink-modsuit-elitemodsuit-desc = A mass production modular take on the Shiwei tacsuit. It trades a lot of the Shiwei's enhanced protection for modular equipment gear. Compared with the Jaeger modsuit, it offers unparalleled protection from energy weapons, but its ballistic protection leaves much to be desired.
+uplink-modsuit-elitemodsuit-name = EE-122MS "Егерь" Модсьют
+uplink-modsuit-elitemodsuit-desc = Серийная модульная версия тактического костюма Shiwei. В обмен на возможность установки модульного оборудования, костюм жертвует большей частью улучшенной защиты Shiwei. По сравнению с модсьютом "Егерь", он предлагает беспрецедентную защиту от энергетического оружия, но его баллистическая защита оставляет желать лучшего.

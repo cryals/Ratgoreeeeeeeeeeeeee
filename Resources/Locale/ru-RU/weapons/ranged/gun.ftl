@@ -1,46 +1,52 @@
-gun-selected-mode-examine = Текущий выбранный режим огня: [color={ $color }]{ $mode }[/color].  
-gun-fire-rate-examine = Скорострельность: [color={ $color }]{ $fireRate }[/color] выстр./мин.  
-gun-burst-fire-rate-examine = Скорострельность очереди: [color={ $color }]{ $fireRate }[/color] выстр./мин.  
-gun-burst-fire-burst-count = Можно настроить стрельбу очередями по [color={ $color }]{ $burstcount }[/color] патр.  
-gun-damage-modifier-examine = Её выстрелы наносят [color={ $color }]{ $damage }x[/color] урона.  
-gun-selector-verb = Переключить на { $mode }  
-gun-selected-mode = Выбран режим: { $mode }  
-gun-disabled = Ты не можешь пользоваться оружием!  
-gun-clumsy = Оружие взрывается у тебя прямо в лицо!  
-gun-set-fire-mode = Установлен режим: { $mode }  
-gun-magazine-whitelist-fail = Это не подходит к этому оружию!  
+gun-selected-mode-examine = Выбран режим огня [color={ $color }]{ $mode }[/color].
+gun-fire-rate-examine = Скорострельность [color={ $color }]{ $fireRate }[/color] выстрелов в минуту.
+gun-burst-fire-rate-examine = Скорострельность очередью составляет [color={ $color }]{ $fireRate }[/color] выстрелов в минуту.
+gun-burst-fire-burst-count =
+    { $burstcount ->
+        [2] Можно установить стрельбу очередями по [color={ $color }]{ $burstcount }[/color] выстрела.
+        [3] Можно установить стрельбу очередями по [color={ $color }]{ $burstcount }[/color] выстрела.
+        [4] Можно установить стрельбу очередями по [color={ $color }]{ $burstcount }[/color] выстрела.
+       *[other] Можно установить стрельбу очередями по [color={ $color }]{ $burstcount }[/color] выстрелов.
+    }
+gun-damage-modifier-examine = Выстрелы этим наносят [color={ $color }]x{ $damage }[/color] урона.
+gun-selector-verb = Изменить на { $mode }
+gun-selected-mode = Выбран { $mode }
+gun-disabled = Вы не можете использовать оружие!
+gun-clumsy = Оружие взрывается вам в лицо!
+gun-set-fire-mode = Установлен режим { $mode }
+gun-magazine-whitelist-fail = That won't fit into the gun!
 # SelectiveFire  
-gun-SemiAuto = одиночный  
-gun-Burst = очередь  
-gun-FullAuto = автоматический  
+gun-SemiAuto = полуавто
+gun-Burst = очередь
+gun-FullAuto = авто
 # BallisticAmmoProvider  
-gun-ballistic-cycle = Передёрнуть  
-gun-ballistic-cycled = Передёрнуто  
-gun-ballistic-cycled-empty = Передёрнуто (пусто)  
-gun-ballistic-transfer-invalid = { CAPITALIZE(THE($ammoEntity)) } не поместится в { THE($targetEntity) }!  
-gun-ballistic-transfer-empty = { CAPITALIZE(THE($entity)) } пуст(о).  
-gun-ballistic-transfer-target-full = { CAPITALIZE(THE($entity)) } уже полностью заряжен(о).  
+gun-ballistic-cycle = Перезарядка
+gun-ballistic-cycled = Перезаряжено
+gun-ballistic-cycled-empty = Разряжено
+gun-ballistic-transfer-invalid = { CAPITALIZE($ammoEntity) } нельзя поместить в { $targetEntity }!
+gun-ballistic-transfer-empty = В { CAPITALIZE($entity) } пусто.
+gun-ballistic-transfer-target-full = { CAPITALIZE($entity) } уже полностью заряжен.
 # CartridgeAmmo  
-gun-cartridge-spent = [color=red]Стреляная[/color].  
-gun-cartridge-unspent = [color=lime]Не стреляная[/color].  
+gun-cartridge-spent = Он [color=red]израсходован[/color].
+gun-cartridge-unspent = Он [color=lime]не израсходован[/color].
 # BatteryAmmoProvider  
-gun-battery-examine = Заряда хватит на [color={ $color }]{ $count }[/color] выстр.  
+gun-battery-examine = Заряда хватит на [color={ $color }]{ $count }[/color] выстрелов.
 # CartridgeAmmoProvider  
-gun-chamber-bolt-ammo = Затвор не передёрнут  
-gun-chamber-bolt = Затвор: [color={ $color }]{ $bolt }[/color].  
-gun-chamber-bolt-closed = Затвор закрыт  
-gun-chamber-bolt-opened = Затвор открыт  
-gun-chamber-bolt-close = Закрыть затвор  
-gun-chamber-bolt-open = Открыть затвор  
-gun-chamber-bolt-closed-state = открыт  
-gun-chamber-bolt-open-state = закрыт  
-gun-chamber-rack = Передёрнуть затвор  
+gun-chamber-bolt-ammo = Затвор не закрыт
+gun-chamber-bolt = Затвор [color={ $color }]{ $bolt }[/color].
+gun-chamber-bolt-closed = Затвор закрыт
+gun-chamber-bolt-opened = Затвор открыт
+gun-chamber-bolt-close = Закрыть завтор
+gun-chamber-bolt-open = Открыть затвор
+gun-chamber-bolt-closed-state = открыт
+gun-chamber-bolt-open-state = закрыт
+gun-chamber-rack = Разрядить
 # MagazineAmmoProvider  
-gun-magazine-examine = Осталось [color={ $color }]{ $count }[/color] выстр.  
+gun-magazine-examine = Осталось [color={ $color }]{ $count }[/color] выстрелов.
 # RevolverAmmoProvider  
-gun-revolver-empty = Револьвер пуст  
-gun-revolver-full = Револьвер полный  
-gun-revolver-insert = Вставлено  
-gun-revolver-spin = Крутить барабан  
-gun-revolver-spun = Барабан прокручен  
-gun-speedloader-empty = Спидлоадер пуст 
+gun-revolver-empty = Разрядить револьвер
+gun-revolver-full = Револьвер полностью заряжен
+gun-revolver-insert = Заряжен
+gun-revolver-spin = Вращать барабан
+gun-revolver-spun = Барабан вращается
+gun-speedloader-empty = Спидлоадер пуст

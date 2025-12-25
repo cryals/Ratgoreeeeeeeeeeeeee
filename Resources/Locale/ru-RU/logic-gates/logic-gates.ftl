@@ -1,5 +1,5 @@
-logic-gate-examine = It is currently { INDEFINITE($gate) } { $gate } gate.
-logic-gate-cycle = Switched to { INDEFINITE($gate) } { $gate } gate
+logic-gate-examine = В данным момент принадлежит шлюзу { INDEFINITE($gate) } { $gate }.
+logic-gate-cycle = Переключено на шлюз { INDEFINITE($gate) } { $gate }
 power-sensor-examine =
     It is currently checking the network's { $output ->
         [true] output

@@ -1,3 +1,3 @@
-stamp-component-stamped-name-notary = NOTARY
-stamp-component-stamped-name-chiefjustice = Chief Justice
-stamp-component-stamped-name-admin-assistant = Administrative Assistant
+stamp-component-stamped-name-notary = НОТАРИУС
+stamp-component-stamped-name-chiefjustice = Главный Судья
+stamp-component-stamped-name-admin-assistant = Адъютант

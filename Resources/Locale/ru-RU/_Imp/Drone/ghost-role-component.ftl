@@ -1,8 +1,8 @@
-ghost-role-information-drone-name = Maintenance Drone
-ghost-role-information-drone-description = Maintain the station. Ignore other beings except drones.
+ghost-role-information-drone-name = Обслуживающий дрон
+ghost-role-information-drone-description = Поддерживайте станцию в рабочем состоянии. Не вмешивайтесь в дела других существ, кроме дронов.
 ghost-role-information-drone-rules =
-    You are bound by these laws both in-game and out-of-character:
+    Вы связаны следующими законами как в игре, так и вне её:
     
-    1. You may not interfere with the affairs of any being except another drone, regardless of intent or circumstance.
-    2. Your goal is to maintain or improve the station to the best of your ability.
-    3. You may not take any action which causes damage or harm to the station or its inhabitants.
+    1. Вы не имеете права вмешиваться в дела любых существ, кроме других дронов, независимо от обстоятельств и намерений.
+    2. Ваша цель — поддерживать и улучшать станцию всеми доступными средствами.
+    3. Вам запрещено совершать любые действия, способные нанести вред станции или её обитателям.

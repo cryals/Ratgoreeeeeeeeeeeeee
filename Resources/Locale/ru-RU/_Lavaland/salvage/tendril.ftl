@@ -1,1 +1,1 @@
-tendril-destroyed-warning-message = The ground under the tendril is collapsing! RUN!!!
+tendril-destroyed-warning-message = Почва под некрополисом рушится! БЕГИ, С*КА, БЕГИ!!!

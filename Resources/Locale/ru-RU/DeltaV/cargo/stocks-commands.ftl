@@ -1,12 +1,12 @@
 # changestockprice command
-cmd-changestocksprice-desc = Changes a company's stock price to the specified number.
-cmd-changestocksprice-help = changestockprice <Company index> <New price> [Station UID]
-cmd-changestocksprice-invalid-company = Failed to execute command! Invalid company index or the new price exceeds the allowed limit.
-cmd-changestocksprice-invalid-station = No stock market found for specified station
-cmd-changestocksprice-no-stations = No stations with stock markets found
+cmd-changestocksprice-desc = Изменяет цену акций компании на указанное значение.
+cmd-changestocksprice-help = changestockprice <Индекс компании> <Новая цена> [UID станции]
+cmd-changestocksprice-invalid-company = Не удалось выполнить команду! Неверный индекс компании или новая цена превышает допустимый предел.
+cmd-changestocksprice-invalid-station = Фондовый рынок для указанной станции не найден.
+cmd-changestocksprice-no-stations = Станции с фондовыми рынками не найдены.
 # addstockscompany command
-cmd-addstockscompany-desc = Adds a new company to the stocks market.
-cmd-addstockscompany-help = addstockscompany <Display name> <Base price> [Station UID]
-cmd-addstockscompany-failure = Failed to add company to the stock market.
-cmd-addstockscompany-invalid-station = No stock market found for specified station
-cmd-addstockscompany-no-stations = No stations with stock markets found
+cmd-addstockscompany-desc = Добавляет новую компанию на фондовый рынок.
+cmd-addstockscompany-help = addstockscompany <Отображаемое имя> <Базовая цена> [UID станции]
+cmd-addstockscompany-failure = Не удалось добавить компанию на фондовый рынок.
+cmd-addstockscompany-invalid-station = Фондовый рынок для указанной станции не найден.
+cmd-addstockscompany-no-stations = Станции с фондовыми рынками не найдены.

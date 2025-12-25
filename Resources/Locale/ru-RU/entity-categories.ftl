@@ -1,4 +1,4 @@
-entity-category-name-actions = Actions
+entity-category-name-actions = Действия
 entity-category-name-game-rules = Game Rules
 entity-category-name-objectives = Objectives
 entity-category-name-roles = Mind Roles

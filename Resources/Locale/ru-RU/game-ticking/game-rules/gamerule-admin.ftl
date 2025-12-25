@@ -1,6 +1,6 @@
 # When an admin adds a game rule
-add-gamerule-admin = Game rule({ $rule }) added - { $admin }
-list-gamerule-admin-header = | Time       | Rule added
-list-gamerule-admin-no-rules = No game rules have been added.
-starting-rule-selected-preset = Current gamerules in use: { $preset }
-listgamerules-command-help = Lists all rules that have been added for the round so far.
+add-gamerule-admin = Правило игры ({ $rule }) было добавлено — { $admin }
+list-gamerule-admin-header = | Время       | Добавленное правило
+list-gamerule-admin-no-rules = Ни одного правила игры пока не добавлено.
+starting-rule-selected-preset = Активные игровые режимы: { $preset }
+listgamerules-command-help = Показывает все игровые правила, добавленные в течение текущего раунда.

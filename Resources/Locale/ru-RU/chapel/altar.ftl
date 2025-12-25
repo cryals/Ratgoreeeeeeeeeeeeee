@@ -1,9 +1,9 @@
-altar-examine = [color=purple]This altar can be used to sacrifice Psionics.[/color]
-altar-sacrifice-verb = Sacrifice
-altar-failure-reason-self = You can't sacrifice yourself!
-altar-failure-reason-user = You are not psionic or clerically trained!
-altar-failure-reason-user-humanoid = You are not a humanoid!
-altar-failure-reason-target = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } not psionic!
-altar-failure-reason-target-humanoid = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } not a humanoid!
-altar-failure-reason-target-catatonic = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } braindead!
-altar-sacrifice-popup = { $user } starts to sacrifice { $target }!
+altar-examine = [color=purple]На этом алтаре можно вознести псионика в жертву.[/color]
+altar-sacrifice-verb = Принести в жертву
+altar-failure-reason-self = Вы не можете принести в жертву самого себя — даже не пытайтесь.
+altar-failure-reason-user = У вас нет дара — ни псионического, ни духовного.
+altar-failure-reason-user-humanoid = Вы слишком... не гуманоид.
+altar-failure-reason-target = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } не обладает псионическими способностями.
+altar-failure-reason-target-humanoid = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } не подходит по форме тела — нужен гуманоид.
+altar-failure-reason-target-catatonic = { CAPITALIZE(THE($target)) } { CONJUGATE-BE($target) } в ступоре. Душа уже покинула его.
+altar-sacrifice-popup = { $user } начинает древний ритуал жертвоприношения, вознося { $target } на алтарь!

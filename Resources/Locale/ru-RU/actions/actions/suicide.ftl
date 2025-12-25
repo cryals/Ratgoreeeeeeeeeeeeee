@@ -1,1 +1,1 @@
-suicide-action-popup = THIS ACTION WILL KILL YOU! Use it again to confirm.
+suicide-action-popup = Да-да, это точно убьёт тебя. Жми ещё раз, если правда хочешь сыграть в камикадзе.

@@ -1,2 +1,2 @@
 # Names
-delta-chat-emote-name-awoo = Awoo
+delta-chat-emote-name-awoo = Аууу

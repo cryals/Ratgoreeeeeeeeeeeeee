@@ -1,47 +1,47 @@
-interaction-LookAt-name = Look at
-interaction-LookAt-description = Stare into the void and see it stare back.
-interaction-LookAt-success-self-popup = You look at { THE($target) }.
-interaction-LookAt-success-target-popup = You feel { THE($user) } looking at you...
-interaction-LookAt-success-others-popup = { THE($user) } looks at { THE($target) }.
-interaction-Hug-name = Hug
-interaction-Hug-description = A hug a day keeps the psychological horrors beyond your comprehension away.
-interaction-Hug-success-self-popup = You hug { THE($target) }.
-interaction-Hug-success-target-popup = { THE($user) } hugs you.
-interaction-Hug-success-others-popup = { THE($user) } hugs { THE($target) }.
-interaction-Pet-name = Pet
-interaction-Pet-description = Pet your co-worker to ease their stress.
-interaction-Pet-success-self-popup = You pet { THE($target) } on { POSS-ADJ($target) } head.
-interaction-Pet-success-target-popup = { THE($user) } pets you on your head.
-interaction-Pet-success-others-popup = { THE($user) } pets { THE($target) }.
+interaction-LookAt-name = Смотреть на
+interaction-LookAt-description = Взглянуть в пустоту и ощутить её взгляд на себе.
+interaction-LookAt-success-self-popup = Вы смотрите на { $target }.
+interaction-LookAt-success-target-popup = Вы чувствуете, что  { $user } смотрит на вас...
+interaction-LookAt-success-others-popup = { $user } смотрит на { $target }.
+interaction-Hug-name = Обнять
+interaction-Hug-description = Объятия в день избавляют от непостижимых психологических ужасов.
+interaction-Hug-success-self-popup = Вы обнимаете { $target }.
+interaction-Hug-success-target-popup = { $user } обнимает вас.
+interaction-Hug-success-others-popup = { $user } обнимает { $target }.
+interaction-Pet-name = Погладить
+interaction-Pet-description = Погладьте своего коллегу по работе, чтобы облегчить его стресс.
+interaction-Pet-success-self-popup = Вы погладили { $target } по { POSS-ADJ($target) } голове.
+interaction-Pet-success-target-popup = { $user } погладил вас по { POSS-ADJ($target) } голове.
+interaction-Pet-success-others-popup = { $user } поглаживает { $target }.
 interaction-PetAnimal-name = { interaction-Pet-name }
 interaction-PetAnimal-description = Pet an animal.
 interaction-PetAnimal-success-self-popup = { interaction-Pet-success-self-popup }
 interaction-PetAnimal-success-target-popup = { interaction-Pet-success-target-popup }
 interaction-PetAnimal-success-others-popup = { interaction-Pet-success-others-popup }
-interaction-KnockOn-name = Knock
-interaction-KnockOn-description = Knock on the target to attract attention.
-interaction-KnockOn-success-self-popup = You knock on { THE($target) }.
-interaction-KnockOn-success-target-popup = { THE($user) } knocks on you.
-interaction-KnockOn-success-others-popup = { THE($user) } knocks on { THE($target) }.
-interaction-Rattle-name = Rattle
-interaction-Rattle-success-self-popup = You rattle { THE($target) }.
-interaction-Rattle-success-target-popup = { THE($user) } rattles you.
-interaction-Rattle-success-others-popup = { THE($user) } rattles { THE($target) }.
+interaction-KnockOn-name = Постучать
+interaction-KnockOn-description = Постучите по цели, чтобы привлечь внимание.
+interaction-KnockOn-success-self-popup = Вы стучите по { $target }.
+interaction-KnockOn-success-target-popup = { $user } стучит по вам.
+interaction-KnockOn-success-others-popup = { $user } стучит по { $target }.
+interaction-Rattle-name = Греметь
+interaction-Rattle-success-self-popup = Вы гремите { $target }.
+interaction-Rattle-success-target-popup = { $user } гремит вами.
+interaction-Rattle-success-others-popup = { $user } гремит { $target }.
 # The below includes conditionals for if the user is holding an item
-interaction-WaveAt-name = Wave at
-interaction-WaveAt-description = Wave at the target. If you are holding an item, you will wave it.
+interaction-WaveAt-name = Помахать рукой
+interaction-WaveAt-description = Помахать рукой в сторону цели. Если вы держите в руках предмет, вы помашете им.
 interaction-WaveAt-success-self-popup =
-    You wave { $hasUsed ->
-        [false] at { THE($target) }.
-       *[true] your { $used } at { THE($target) }.
+    Вы помахали { $hasUsed ->
+        [false] { $target }.
+       *[true] { $used } { $target }.
     }
 interaction-WaveAt-success-target-popup =
-    { THE($user) } waves { $hasUsed ->
-        [false] at you.
-       *[true] { POSS-PRONOUN($user) } { $used } at you.
+    { $user } машет { $hasUsed ->
+        [false] вам.
+       *[true] { POSS-PRONOUN($user) } { $used } вам.
     }
 interaction-WaveAt-success-others-popup =
-    { THE($user) } waves { $hasUsed ->
-        [false] at { THE($target) }.
-       *[true] { POSS-PRONOUN($user) } { $used } at { THE($target) }.
+    { $user } машет { $hasUsed ->
+        [false] { $target }.
+       *[true] { POSS-PRONOUN($user) } { $used } { $target }.
     }

@@ -1,73 +1,73 @@
-thaven-mood-secret-moods-name = Keep Your Moods Secret
-thaven-mood-secret-moods-desc = Your Moods are a strictly-kept secret, and should never be revealed to anyone.
-thaven-mood-no-modern-medicine-name = No Modern Medicine
-thaven-mood-no-modern-medicine-desc = You do not approve of modern medicine and should abstain from treatment with it whenever possible.
-thaven-mood-department-disapproval-name = Disapprove Of { $department }
-thaven-mood-department-disapproval-desc = You do not approve of { $department } or anyone who works in it (excluding yourself, if applicable).
-thaven-mood-dont-speak-to-command-name = Never Speak To Command
-thaven-mood-dont-speak-to-command-desc = You are too lowly to speak to Command, even if spoken to first.
-thaven-mood-disapprove-of-drugs-name = Disapprove Of Drugs
-thaven-mood-disapprove-of-drugs-desc = You detest mind-altering drugs, including alcohol, and should abstain from them.
-thaven-mood-excessively-disorganized-name = Too Much Cleanliness Causes Illness
-thaven-mood-excessively-disorganized-desc = It's unnatural. You should endeavor to keep your environment as filthy and disorganized as possible.
-thaven-mood-dinner-floor-name = Dinner Etiquette
-thaven-mood-dinner-floor-desc = Food and drink must only be consumed off of the floor, as is proper.
-thaven-mood-hug-bad-name = HUGS? EUGH.
-thaven-mood-hug-bad-desc = Hugging someone is a grave insult where you come from.
-thaven-mood-always-alone-name = Lone Wolf
-thaven-mood-always-alone-desc = Other people will only slow you down. You should strive to be alone whenever possible.
-thaven-mood-procrastinator-name = Procrastinator
-thaven-mood-procrastinator-desc = Rushing around everywhere is bound to get somebody hurt someday. You should move slowly at all times to avoid unnecessary risk.
-thaven-mood-no-radio-name = Personable
-thaven-mood-no-radio-desc = Using radio communications is exceptionally rude. All conversations should be had in-person, face-to-face.
-thaven-mood-improper-storage-name = I'm Not A Pack Mule
-thaven-mood-improper-storage-desc = Carrying tools on your person is demeaning. If you must use them, they should be dragged behind you, shamefully.
-thaven-mood-ferengi-name = Entrepreneurial Spirit
-thaven-mood-ferengi-desc = Profit is the most important thing in life, above all else.
-thaven-mood-tool-license-name = Proper Documentation
-thaven-mood-tool-license-desc = You and everyone else must obtain a license in order to carry or use any tool, and it must be stamped by the relevant authorities.
-thaven-mood-lying-bad-name = Lying Is A Cardinal Sin
-thaven-mood-lying-bad-desc = Anyone who lies, no matter how trivial the falsehood, is the worst kind of criminal.
-thaven-mood-vampire-invitation-name = Vampire
-thaven-mood-vampire-invitation-desc = You feel you physically cannot pass through a closed door unless you have been invited in, personally, at least once.
-thaven-mood-no-dragging-name = Respect The Dead
-thaven-mood-no-dragging-desc = Dragging bodies across the bare ground is horrific.
-thaven-mood-drunk-respect-name = The Noble Drunkard
-thaven-mood-drunk-respect-desc = You do not respect anyone who is not drunk, excluding yourself, of course.
-thaven-mood-rank-snob-name = Snob
-thaven-mood-rank-snob-desc = You are incredibly reluctant to be seen with anyone who is of a lower rank than you. If they must be addressed, do so away from peering eyes.
-thaven-mood-hardsuits-bad-name = { $clothes } Are SO Last Year
-thaven-mood-hardsuits-bad-desc = Anyone wearing them in public should be shunned. If you need to wear them, it should never be done where others can see it.
-thaven-mood-hat-hair-name = Hair: Immaculate
-thaven-mood-hat-hair-desc = Hats and helmets make your hair look bad. If you have to wear one, which you shouldn't, you should get a haircut immediately afterwards.
-thaven-mood-distrust-fashion-name = Fashion Snob
-thaven-mood-distrust-fashion-desc = Never trust anyone whose outfit is worse than yours.
-thaven-mood-happy-bad-name = Never Trust A Smile
-thaven-mood-happy-bad-desc = Cheerfulness indicates untrustworthiness.
-thaven-mood-only-pills-name = Needles Are Scary
-thaven-mood-only-pills-desc = You only accept medication in the form of pills or topicals.
-thaven-mood-avoid-puddles-name = Don't Get Your Feet Wet
-thaven-mood-avoid-puddles-desc = It is undignified and unsanitary to walk over spilled liquids. You should avoid it at all costs.
-thaven-mood-food-restrict-name = Strict { $food }
+thaven-mood-secret-moods-name = Настоящие чувства — это тайна
+thaven-mood-secret-moods-desc = Ваше настроение — священная личная тайна. Никто не должен его знать, никогда.
+thaven-mood-no-modern-medicine-name = Никакой современной медицины
+thaven-mood-no-modern-medicine-desc = Вы не доверяете современной медицине и избегаете её, если есть хотя бы малейшая возможность.
+thaven-mood-department-disapproval-name = Неприязнь к отделу { $department }
+thaven-mood-department-disapproval-desc = Вы не одобряете отдел { $department } и всех, кто в нём работает (кроме себя, если вы там служите).
+thaven-mood-dont-speak-to-command-name = Не говорить с командованием
+thaven-mood-dont-speak-to-command-desc = Вы слишком ничтожны, чтобы разговаривать с командованием. Даже если они заговорят первыми.
+thaven-mood-disapprove-of-drugs-name = Неприязнь к наркотикам
+thaven-mood-disapprove-of-drugs-desc = Вы презираете психоактивные вещества, включая алкоголь, и избегаете их любой ценой.
+thaven-mood-excessively-disorganized-name = Чистота — источник заразы
+thaven-mood-excessively-disorganized-desc = Чистота — это противоестественно. Стремитесь к хаосу и грязи, как велит здравый смысл.
+thaven-mood-dinner-floor-name = Этикет трапезы
+thaven-mood-dinner-floor-desc = Еда и питьё допустимы лишь с пола. Таков обряд.
+thaven-mood-hug-bad-name = ОБЪЯТИЯ? ФУ!
+thaven-mood-hug-bad-desc = В ваших краях объятие — тяжкое оскорбление.
+thaven-mood-always-alone-name = Один в поле воин
+thaven-mood-always-alone-desc = Остальные — обуза. Всегда стремитесь к одиночеству.
+thaven-mood-procrastinator-name = Прокрастинатор
+thaven-mood-procrastinator-desc = Суета ведёт к несчастьям. Двигайтесь медленно. Обдуманно. Без риска.
+thaven-mood-no-radio-name = Личное общение
+thaven-mood-no-radio-desc = Разговор по радио — грубейшая бестактность. Говорить нужно только лицом к лицу.
+thaven-mood-improper-storage-name = Я вам не вьючное животное
+thaven-mood-improper-storage-desc = Носить инструменты при себе — унизительно. Если уж и тащить — то волоча за собой, в позоре.
+thaven-mood-ferengi-name = Дух наживы
+thaven-mood-ferengi-desc = Прибыль — высшая ценность. Всё остальное — второстепенно.
+thaven-mood-tool-license-name = Разрешение на инструменты
+thaven-mood-tool-license-desc = Каждый инструмент требует лицензии с печатью. Без документа — вне закона.
+thaven-mood-lying-bad-name = Ложь — величайший грех
+thaven-mood-lying-bad-desc = Лжецы — подонки. Даже невинная ложь — преступление.
+thaven-mood-vampire-invitation-name = Вампир
+thaven-mood-vampire-invitation-desc = Вы физически не можете пройти через дверь, пока вас лично не пригласили хотя бы раз.
+thaven-mood-no-dragging-name = Уважайте мёртвых
+thaven-mood-no-dragging-desc = Волочить тело по полу — мерзость. Так нельзя.
+thaven-mood-drunk-respect-name = Благородный пьяница
+thaven-mood-drunk-respect-desc = Вы не уважаете никого, кто не пьян. Ну, кроме себя, конечно.
+thaven-mood-rank-snob-name = Знатная особа
+thaven-mood-rank-snob-desc = Общаться с теми, кто ниже по рангу? Только в укромном месте, вдали от чужих глаз.
+thaven-mood-hardsuits-bad-name = { $clothes } — это прошлый сезон
+thaven-mood-hardsuits-bad-desc = Кто носит это на людях — тот не заслуживает внимания. Если уж надевать — то тайно.
+thaven-mood-hat-hair-name = Волосок к волоску
+thaven-mood-hat-hair-desc = Шлемы и шляпы портят причёску. Надели? Срочно к парикмахеру.
+thaven-mood-distrust-fashion-name = Снисходительный взгляд
+thaven-mood-distrust-fashion-desc = Тот, кто одет хуже вас, явно не заслуживает доверия.
+thaven-mood-happy-bad-name = Никогда не верь улыбке
+thaven-mood-happy-bad-desc = Весёлый человек — подозрительный человек.
+thaven-mood-only-pills-name = Страх игл
+thaven-mood-only-pills-desc = Вы принимаете лекарства только в виде таблеток или мазей. Шприцы — нет, никогда.
+thaven-mood-avoid-puddles-name = Не мочите лапки
+thaven-mood-avoid-puddles-desc = Наступить в лужу? Это позорно и антисанитарно. Избегайте любой ценой.
+thaven-mood-food-restrict-name = Диета: только { $food }
 thaven-mood-food-restrict-desc =
-    You must only eat { $food ->
-        [Carnivore] meats
-       *[Vegetarian] vegetables
-        [Frugivore] fruit
-        [Fungivore] fungi
-        [Ovivore] eggs
-        [Hunter] what you can kill
-        [Soupivore] soup
+    Вы питаетесь исключительно { $food ->
+        [Carnivore] мясом
+       *[Vegetarian] растительной пищей
+        [Frugivore] фруктами
+        [Fungivore] грибами
+        [Ovivore] яйцами
+        [Hunter] тем, что убили сами
+        [Soupivore] супом
     }.
-thaven-mood-claustrophobic-name = Claustrophobic
-thaven-mood-claustrophobic-desc = Small rooms cause you great distress. Avoid them where possible, and renovate your workplace if necessary.
-thaven-mood-agoraphobic-name = Agoraphobic
-thaven-mood-agoraphobic-desc = Open spaces are uncomfortable. Seek to rearrange such spaces into small, efficient and modular rooms.
-thaven-mood-nonsmoker-name = Non-Smoker
-thaven-mood-nonsmoker-desc = Secondhand smoke is incredibly dangerous. Avoid areas where people are smoking in public.
-thaven-mood-word-bad-name = Taboo
-thaven-mood-word-bad-desc = "{ $word1 }," "{ $word2 }," and "{ $word3 }," are extremely offensive.
-thaven-mood-crawler-name = Deep Bow
-thaven-mood-crawler-desc = It is impolite not to perform a deep bow by entering a prone state before engaging someone in conversation.
-thaven-mood-elevated-name = The Floor Is Lava
-thaven-mood-elevated-desc = You prefer to be elevated whenever possible - Standing atop tables, railings, etc., is where you feel the most comfortable.
+thaven-mood-claustrophobic-name = Клаустрофобия
+thaven-mood-claustrophobic-desc = Маленькие помещения вызывают у вас панику. Избегайте их или переделайте пространство.
+thaven-mood-agoraphobic-name = Агорафобия
+thaven-mood-agoraphobic-desc = Открытые пространства вам неприятны. Разбейте их на маленькие, уютные комнаты.
+thaven-mood-nonsmoker-name = Не курю и вам не советую
+thaven-mood-nonsmoker-desc = Пасcивное курение смертельно опасно. Держитесь подальше от курящих.
+thaven-mood-word-bad-name = Табу
+thaven-mood-word-bad-desc = Слова "{ $word1 }", "{ $word2 }" и "{ $word3 }" глубоко оскорбительны.
+thaven-mood-crawler-name = Поклон в ниц
+thaven-mood-crawler-desc = Перед разговором необходимо склониться ниц — иначе это неприлично.
+thaven-mood-elevated-name = Пол — это лава
+thaven-mood-elevated-desc = Вам комфортнее на возвышении. Столы, перила, ящики — ваш дом.

@@ -1,13 +1,13 @@
 guidebook-food-name = [bold][color={ $color }]{ CAPITALIZE($name) }[/color][/bold]
-guidebook-food-unknown-proto = Unknown prototype
-guidebook-food-sources-header = Sources
+guidebook-food-unknown-proto = Неизвестный прототип
+guidebook-food-sources-header = Источники
 guidebook-food-sources-ent-wrapper = { $name }
-guidebook-food-reagents-header = Chemical composition
-guidebook-food-processing-butchering = Butcher
-guidebook-food-processing-slicing = Slice
-guidebook-food-processing-cooking = Microwave for { $time }s
-guidebook-food-processing-reaction = Mix
-guidebook-food-processing-recipe = { $ingredients }
-guidebook-food-ingredient-solid = add { $amount } { $name }
-guidebook-food-ingredient-liquid = add { $amount }u { $name }
-guidebook-food-output = { $name } ({ $number })
+guidebook-food-reagents-header = Химический состав
+guidebook-food-processing-butchering = Разделка
+guidebook-food-processing-slicing = Нарезка
+guidebook-food-processing-cooking = Готовить в микроволновке { $time } сек.
+guidebook-food-processing-reaction = Смешивание
+guidebook-food-processing-recipe = Необходимо: { $ingredients }
+guidebook-food-ingredient-solid = добавить { $amount } { $name }
+guidebook-food-ingredient-liquid = влить { $amount }u { $name }
+guidebook-food-output = Готовый продукт: { $name } ({ $number })

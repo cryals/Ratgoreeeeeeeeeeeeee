@@ -1,8 +1,8 @@
-shadowling-condition-win = The shadowlings have successfully ascended into their final form!
-shadowling-condition-draw = Both parties took major losses, but crew managed to survive.
-shadowling-condition-failure = The crew have managed to stop the shadowlings from ascending!
-shadowling-list-start = The Shadowlings were:
-thrall-list-start = The Thralls were:
+shadowling-condition-win = Тенелинги обрели свою истинную форму и вознеслись во тьме!
+shadowling-condition-draw = Обе стороны понесли тяжёлые потери, но экипажу удалось выжить.
+shadowling-condition-failure = Экипаж сумел сорвать Вознесение Тенелингов!
+shadowling-list-start = Тенелингами были:
+thrall-list-start = Их порабощённые слуги:
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
-shadowling-title = Shadowlings
-shadowling-description = The shadow is the greatest teacher for how to come to the light.
+shadowling-title = Тенелинги
+shadowling-description = Тень — величайший наставник в пути к свету.

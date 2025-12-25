@@ -1,2 +1,2 @@
-shower-turn-on = Turn On
-shower-turn-off = Turn Off
+shower-turn-on = Включить
+shower-turn-off = Выключить

@@ -1,7 +1,7 @@
-damage-group-brute = Brute
-damage-group-burn = Burn
-damage-group-airloss = Airloss
-damage-group-toxin = Toxin
-damage-group-genetic = Genetic
-damage-group-metaphysical = Metaphysical
-damage-group-immaterial = Immaterial
+damage-group-brute = Механический
+damage-group-burn = Ожоги
+damage-group-airloss = Удушье
+damage-group-toxin = Токсический
+damage-group-genetic = Генетический
+damage-group-metaphysical = Метафизический
+damage-group-immaterial = Энергетический
