@@ -48,7 +48,7 @@ coalition_view_kul-tanyr_passport = Член какой-то чешуйчато�
 
 # свои!
 kul-tanyr_view_kul-tanyr_passport = Ещё один член Бродячего Флота.
-american_view_american_passport = Краснокровый американец, как и я.
+american_view_american_passport = Чистокровый американец, как и я.
 clarizian_view_clarizian_passport = Товарищ по службе Королеве, Её Светлости Изабелле Клариз III.
 coalition_view_coalition_passport = Ещё один вольный портовик.
 authority_view_authority_passport = Товарищ по Солнечной!

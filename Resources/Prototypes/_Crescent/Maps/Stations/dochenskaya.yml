@@ -1,6 +1,6 @@
 - type: gameMap
   id: Dochenskaya
-  mapName: 'Dochenskaya-Hyundari Engineering Outpost'
+  mapName: 'КВ Гидра'
   mapPath: /Maps/_Crescent/Stations/dochenskaya.yml
   minPlayers: 0
   stations:
@@ -8,7 +8,7 @@
       stationProto: StandardCrescentStation
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Dochenskaya-Hyundari Engineering Outpost'
+          mapNameTemplate: 'КВ Гидра'
         - type: VesselMusic
           ambientMusicPrototype: DochenskayaMusic
         - type: Grammar

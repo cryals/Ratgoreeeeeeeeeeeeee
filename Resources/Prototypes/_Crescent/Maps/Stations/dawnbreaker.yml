@@ -1,6 +1,6 @@
 - type: gameMap
   id: Dawnbreaker
-  mapName: 'CDT Dawnbreaker'
+  mapName: 'ТС Секира'
   mapPath: /Maps/_Crescent/Stations/dawnbreaker.yml
   minPlayers: 0
   stations:
@@ -10,7 +10,7 @@
         - type: BlockShipWeaponProjectileGrid
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'CDT Dawnbreaker'
+          mapNameTemplate: 'ТС Секира'
         - type: VesselDesignation
           designation: vessel-designation-headquarters
         - type: VesselMusic

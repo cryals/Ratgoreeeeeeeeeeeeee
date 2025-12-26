@@ -1,5 +1,5 @@
-ent-ProteinCan = канистра экзотических белков
-    .desc = Канистра со свежесобранными экзотическими белками.
+ent-ProteinCan = канистра биомассы
+    .desc = Канистра со свежесобранной биомассой.
     .suffix = Полный
 ent-ProteinCan1 = { ent-ProteinCan }
     .suffix = Один

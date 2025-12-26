@@ -1,6 +1,6 @@
 - type: gameMap
   id: Hayes
-  mapName: 'IPM Hayes Medical Waystation'
+  mapName: 'БИ Эпитафия»'
   mapPath: /Maps/_Crescent/Stations/hayes.yml
   minPlayers: 0
   stations:
@@ -8,7 +8,7 @@
       stationProto: StandardCrescentStation
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'IPM Hayes Medical Waystation'
+          mapNameTemplate: 'БИ Эпитафия»'
         - type: VesselDesignation
           designation: vessel-designation-outpost
         - type: StationJobs

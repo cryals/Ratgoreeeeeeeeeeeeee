@@ -32,7 +32,7 @@
 
 - type: gameMap
   id: GliessSanto
-  mapName: 'Gliess Santo'
+  mapName: 'Глисс Санто'
   mapPath: /Maps/_Crescent/Stations/gliess.yml
   minPlayers: 0
   stations:
@@ -47,11 +47,11 @@
             state: outpost
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Gliess Santo'
+          mapNameTemplate: 'Глисс Санто'
         - type: VesselDesignation
           designation: vessel-designation-headquarters
         - type: VesselDescription
-          description: An independent trade station that has seen better days.
+          description: Независимая торговая станция, пережившая свои лучшие времена.
         - type: VesselMusic
           ambientMusicPrototype: GliessMusic
         - type: Grammar

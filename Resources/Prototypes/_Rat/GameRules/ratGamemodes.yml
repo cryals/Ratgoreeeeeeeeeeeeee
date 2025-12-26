@@ -46,12 +46,12 @@
         posY: 4500
         IFFColor: Purple
         IFFFaction: DSM
-      Refuge:
-        gameMapID: Refuge
-        posX: -4500
-        posY: -1500
-        randomOffsetX: 1500
-        randomOffsetY: 1500
+#      Refuge:
+#        gameMapID: Refuge
+#        posX: -4500
+#        posY: -1500
+#        randomOffsetX: 1500
+#        randomOffsetY: 1500
       Jackal:
         gameMapID: Jackal
         posX: -5250

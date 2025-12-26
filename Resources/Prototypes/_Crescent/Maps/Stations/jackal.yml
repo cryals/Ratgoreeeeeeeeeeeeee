@@ -1,6 +1,6 @@
 - type: gameMap
   id: Jackal
-  mapName: 'GSC Grinning Jackal'
+  mapName: 'МГ Шпиль'
   mapPath: /Maps/_Crescent/Stations/jackal.yml
   minPlayers: 0
   stations:
@@ -10,7 +10,7 @@
         - type: BlockShipWeaponProjectileGrid
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'GSC Jackal'
+          mapNameTemplate: 'МГ Шпиль'
         - type: VesselDesignation
           designation: vessel-designation-headquarters
         - type: VesselMusic

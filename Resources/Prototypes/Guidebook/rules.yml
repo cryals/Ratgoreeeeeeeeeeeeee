@@ -2,4 +2,4 @@
   id: DefaultRuleset
   name: guide-entry-rules
   ruleEntry: true
-  text: "/ServerInfo/Guidebook/ServerRules/DefaultRuleset.xml"
+  text: "/ServerInfo/_Rat/ServerRules/RatRuleset.xml"
